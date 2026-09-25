@@ -1,0 +1,3 @@
+pip install ipykernel jupyter
+
+python -m ipykernel install --user --name venv --display-name "Python (venv)"
