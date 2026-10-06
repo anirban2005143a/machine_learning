@@ -1,0 +1,839 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="412" height="167" viewBox="0 0 412 167">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-100,711)" d="M100 544H512V711H100Z" />
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,-100,711)" d="M0 0H612V792H0Z" />
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M0 0H798.09378V577.07687H0Z" />
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_15">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_16">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_17">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_18">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_19">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_20">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_21">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_23">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_24">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_25">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_26">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_27">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_28">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_29">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_30">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_31">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_32">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_33">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_34">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_35">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_36">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_37">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_38">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_39">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_40">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_41">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_42">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_43">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_44">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_45">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_46">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_47">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" />
+</clipPath>
+<clipPath id="clip_48">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M0 0H775.125V577.07687H0Z" />
+</clipPath>
+<clipPath id="clip_49">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_50">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_53">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_54">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_55">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_56">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_57">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_58">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_59">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_60">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_61">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_62">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_63">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_64">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_66">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_67">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_68">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_69">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_70">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_71">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_72">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_73">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_74">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_75">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_76">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_77">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_78">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_79">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_80">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_81">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_82">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_83">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_84">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_85">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_86">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_87">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_88">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_89">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_90">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_91">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+<clipPath id="clip_92">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" />
+</clipPath>
+</defs>
+<g clip-path="url(#clip_1)">
+<g clip-path="url(#clip_2)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="6.9738" font-family="Linux Biolinum T"><tspan y="-724.653" x="53.798 58.519266 63.68685 69.86564 73.35254 77.73906 81.2678 86.53999 88.40897 91.651798 94.894618 98.1723 100.403919 104.14885 105.90625 111.17844 114.42126 117.66408 121.388088 124.630908 127.873729 131.15142 134.39423 137.63704 140.87985 144.12267 147.40036 150.72687 154.21376 156.63367 160.12056 163.87944 166.25054 169.6677 172.94539 178.11298 183.12017 186.39786 191.11913 194.47353 198.2324 201.5868 205.28293 351.34223 356.34944 359.83634 363.19075 368.7628 372.29154 376.12016 379.86509 385.49296 389.00776 392.36216 395.63984 400.8074 404.50355 407.66267 409.42005 414.6504 418.07453 420.83616 424.66477 427.82389 431.3317 433.1449 435.90653 439.39344 442.6711 446.56947 449.72859 453.48747 456.96739 459.15715 462.31626 465.8729 469.46443 471.27763 474.5553 479.5555 481.3687 485.11366 486.87104 488.68424 493.78208 497.29689 500.65129 504.41017 506.78126 508.59446 511.87214 515.2265 518.98538 524.4249 527.9537 531.7823 535.13668 538.62356 540.3809 543.54006 547.0967 551.28097 554.44009">COMPASS’25,July22–25,2025,Toronto,ON,CanadaNoahShumba,OpeloTshekiso,PengfeiLi,GiuliaFanti,andShaoleiRen</tspan></text>
+<g clip-path="url(#clip_3)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M0 0H798.09378V577.07687H0Z" fill="#ffffff" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H790.89376V557.33779H121.29375Z" fill="#ffffff" />
+<g clip-path="url(#clip_4)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M151.73012 169.25778H175.91796V276.10633H151.73012Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_5)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M192.04319 169.25778H216.23102V375.19007H192.04319Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_6)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M232.35625 169.25778H256.54408V264.77503H232.35625Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_7)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M292.82585 169.25778H317.01368V277.5164H292.82585Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_8)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M333.13893 169.25778H357.32676V203.77696H333.13893Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_9)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M393.6085 169.25778H417.79634V242.53563H393.6085Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_10)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M433.92158 169.25778H458.1094V204.72197H433.92158Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_11)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M474.23463 169.25778H498.42247V297.8875H474.23463Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_12)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M534.7042 169.25778H558.8921V317.7618H534.7042Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_13)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M595.1738 169.25778H619.36166V232.07619H595.1738Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_14)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M635.4869 169.25778H659.67477V226.82753H635.4869Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_15)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M695.9565 169.25778H720.14437V240.56691H695.9565Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_16)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M736.26956 169.25778H760.4574V301.7083H736.26956Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_17)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M151.73012 276.10633H175.91796V303.98554H151.73012Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_18)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M192.04319 375.19007H216.23102V402.11827H192.04319Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_19)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M232.35625 264.77503H256.54408V289.4733H232.35625Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_20)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M292.82585 277.5164H317.01368V301.2112H292.82585Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_21)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M333.13893 203.77696H357.32676V228.00197H333.13893Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_22)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M393.6085 242.53563H417.79634V267.26856H393.6085Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_23)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M433.92158 204.72197H458.1094V229.07175H433.92158Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_24)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M474.23463 297.8875H498.42247V321.1786H474.23463Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_25)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M534.7042 317.7618H558.8921V340.9762H534.7042Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_26)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M595.1738 232.07619H619.36166V255.59305H595.1738Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_27)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M635.4869 226.82753H659.67477V250.23606H635.4869Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_28)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M695.9565 240.56691H720.14437V251.2391H695.9565Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_29)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M736.26956 301.7083H760.4574V322.4706H736.26956Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_30)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M151.73012 303.98554H175.91796V315.05918H151.73012Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_31)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M192.04319 402.11827H216.23102V412.88954H192.04319Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_32)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M232.35625 289.4733H256.54408V300.8345H232.35625Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_33)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M292.82585 301.2112H317.01368V310.6228H292.82585Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_34)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M333.13893 228.00197H357.32676V237.62415H333.13893Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_35)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M393.6085 267.26856H417.79634V277.09248H393.6085Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_36)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M433.92158 229.07175H458.1094V238.74347H433.92158Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_37)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M474.23463 321.1786H498.42247V330.42985H474.23463Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_38)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M534.7042 340.9762H558.8921V345.43339H534.7042Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_39)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M595.1738 255.59305H619.36166V264.93394H595.1738Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_40)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M635.4869 250.23606H659.67477V255.43274H635.4869Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_41)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M695.9565 251.2391H720.14437V252.30632H695.9565Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_42)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M736.26956 322.4706H760.4574V330.5679H736.26956Z" fill="#2ca02c" />
+</g>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M163.82404 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M163.82404 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 36.994115 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 27.093 49.368 72.996 95.66701">Gabon</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M204.1371 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M204.1371 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 47.354677 110.13039)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 24.222 46.893 70.389 94.017">Congo</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M244.45017 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M244.45017 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 56.148279 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 25.410002 55.902 78.177 101.673007 125.301">Rwanda</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M304.91978 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M304.91978 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 71.05748 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 32.835004 55.506006 71.77501 94.446018 114.015018 133.58402">Morocco</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M345.23283 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M345.23283 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 82.36543 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 18.881 42.377 65.873 77.192 96.827 108.146">Tunisia</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M405.70243 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M405.70243 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 98.723117 110.13039)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.539002 46.167 67.683 91.311">Egypt</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M446.01548 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M446.01548 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 109.19977 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 21.021 32.34 55.968004 77.484">Libya</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M486.32856 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M486.32856 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 117.06576 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 27.621 49.896 84.282 95.601 119.229 130.548">Namibia</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M546.79818 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M546.79818 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 132.3424 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.539002 38.313005 61.809007 73.128009 95.79901 119.42701 130.74602">Ethiopia</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M607.26779 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M607.26779 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 148.5375 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 25.542002 36.861005 60.489007 82.86301 99.132 110.451007">Algeria</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M647.5808 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M647.5808 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 157.6423 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 23.76 36.300004 47.784006 73.326007 87.68101 103.95001 115.26901 134.83802">S. Africa</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M708.0504 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M708.0504 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 177.5344 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 26.796002">US</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M748.36349 169.25778V179.25778" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M748.36349 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08645928 .2375449 -.2375449 .08645928 184.79767 110.15335)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 27.093 38.412004 61.083005 84.711009 106.98601">Global</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 169.25778H131.29375" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M121.29375 169.25778H131.29375" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 12.0865 110.270099)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005 58.476007">0.00</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 246.8738H131.29375" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M121.29375 246.8738H131.29375" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 12.0865 90.64955)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005 58.476007">0.04</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 324.48979H131.29375" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M121.29375 324.48979H131.29375" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 12.0865 71.029)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005 58.476007">0.08</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 402.10578H131.29375" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M121.29375 402.10578H131.29375" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 12.0865 51.408456)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005 58.476007">0.12</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 479.7218H131.29375" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M121.29375 479.7218H131.29375" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 12.0865 31.787896)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005 58.476007">0.16</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M121.29375 557.33779H131.29375" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M121.29375 557.33779H131.29375" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 12.0865 12.167358)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005 58.476007">0.20</tspan></text>
+<text xml:space="preserve" transform="matrix(0 -.25279 .25279 0 9.708694 100.969959)" font-size="26" font-family="DejaVuSans"><tspan y="0" x="0 27.756127 45.30613 57.73413 75.36213 88.18013 97.228137 116.31213 134.17414 152.68613 168.15613 186.66812 213.76012 232.37612 244.80411 253.7221 271.5841 290.0961 299.1441 311.0261 327.5881">Water Consumption (L)</tspan></text>
+<g clip-path="url(#clip_43)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M274.68498 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_44)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M375.46763 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_45)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M516.56338 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_46)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M577.03298 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_47)">
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M677.8156 169.25778V578.07687" />
+</g>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M121.29375 169.25778V557.33779" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M790.89376 169.25778V557.33779" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M121.29375 169.25778H790.89376" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M121.29375 557.33779H790.89376" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 41.708253 30.580208)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 13.244001 24.854002 30.753603 43.000005 50.482007 62.29841 70.77801 82.439609 92.67361">Rainforest</tspan></text>
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 74.56151 30.580208)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 12.384001 23.994002 35.2084 46.8184 59.064805 71.3112">Savanna</tspan></text>
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 107.46018 30.580208)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 14.276001 25.937603 36.171606 47.833208 56.312807">Desert</tspan></text>
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 132.42948 30.580208)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 12.384001 20.605603 32.267206 44.582406 56.897607">Steppe</tspan></text>
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 151.0434 31.653878)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 17.114003 28.775605 41.090806 46.990407 55.212007 66.873607 75.3532">Mediter-</tspan></text>
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 152.89981 36.46637)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 8.479601 20.089602 32.336004 43.997606 55.607606">ranean</tspan></text>
+<g>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M207.675 523.21279H780.39376C782.39376 523.21279 783.39376 524.21279 783.39376 526.21279V546.83779C783.39376 548.83779 782.39376 549.83779 780.39376 549.83779H207.675C205.675 549.83779 204.675 548.83779 204.675 546.83779V526.21279C204.675 524.21279 205.675 523.21279 207.675 523.21279Z" fill="#ffffff" fill-opacity=".8" />
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#cccccc" stroke-opacity=".8" d="M207.675 523.21279H780.39376C782.39376 523.21279 783.39376 524.21279 783.39376 526.21279V546.83779C783.39376 548.83779 782.39376 549.83779 780.39376 549.83779H207.675C205.675 549.83779 204.675 548.83779 204.675 546.83779V526.21279C204.675 524.21279 205.675 523.21279 207.675 523.21279Z" />
+</g>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M210.675 532.44717H240.675V542.94717H210.675Z" fill="#1f77b4" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 66.769718 15.289703)" font-size="15" font-family="DejaVuSans"><tspan y="0" x="0 12.75 19.275002 25.800004 34.725004 39.870004 47.04 57.21 62.43 78.44375 88.56875 95.73875 105.908748 113.30374 118.52374 125.378749 134.93375">Offsite Water (L)</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M424.53437 532.44717H454.53437V542.94717H424.53437Z" fill="#ff7f0e" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 120.83123 15.289703)" font-size="15" font-family="DejaVuSans"><tspan y="0" x="0 12.75 23.43 32.355 37.5 44.67 54.839998 60.059999 76.073749 86.198749 93.368747 103.53874 110.93375 116.15375 123.00875 132.56375">Onsite Water (L)</tspan></text>
+<path transform="matrix(.25279,0,0,-.25279,2.8960038,149.88703)" d="M636.01876 532.44717H666.01876V542.94717H636.01876Z" fill="#2ca02c" />
+<text xml:space="preserve" transform="matrix(.25279 0 -0 .25279 174.29236 15.289703)" font-size="15" font-family="DejaVuSans"><tspan y="0" x="0 9.555 19.725 29.85 39.825 49.95 60.690004 70.86 76.08 82.935009 92.490009">Leakage (L)</tspan></text>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="7.9701" font-family="Linux Libertine T" font-weight="bold"><tspan y="-548.161" x="175.338 177.75293 181.7858 186.2889 190.88765 193.47794 197.5108 204.72374 208.7566 211.60991 215.70655 218.55985 222.65648 226.75312">(a)Llama-3-70B</tspan></text>
+<g clip-path="url(#clip_48)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M0 0H775.125V577.07687H0Z" fill="#ffffff" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H767.925V557.33779H98.325Z" fill="#ffffff" />
+<g clip-path="url(#clip_49)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M128.76137 169.25778H152.9492V310.90843H128.76137Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_50)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M169.07444 169.25778H193.26227V442.26515H169.07444Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_51)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M209.3875 169.25778H233.57534V295.88636H209.3875Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_52)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M269.8571 169.25778H294.04493V312.77775H269.8571Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_53)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M310.17018 169.25778H334.358V215.02036H310.17018Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_54)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M370.63975 169.25778H394.82759V266.40327H370.63975Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_55)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M410.95283 169.25778H435.14067V216.27317H410.95283Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_56)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M451.26588 169.25778H475.4537V339.78407H451.26588Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_57)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M511.73548 169.25778H535.92337V366.13169H511.73548Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_58)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M572.2051 169.25778H596.3929V252.53704H572.2051Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_59)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M612.5181 169.25778H636.706V245.57881H612.5181Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_60)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M672.98776 169.25778H697.1756V263.7933H672.98776Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_61)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M713.3008 169.25778H737.48867V344.84938H713.3008Z" fill="#1f77b4" />
+</g>
+<g clip-path="url(#clip_62)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M128.76137 310.90843H152.9492V347.8683H128.76137Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_63)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M169.07444 442.26515H193.26227V477.96424H169.07444Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_64)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M209.3875 295.88636H233.57534V328.6292H209.3875Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_65)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M269.8571 312.77775H294.04493V344.19035H269.8571Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_66)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M310.17018 215.02036H334.358V247.13579H310.17018Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_67)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M370.63975 266.40327H394.82759V299.19206H370.63975Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_68)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M410.95283 216.27317H435.14067V248.554H410.95283Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_69)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M451.26588 339.78407H475.4537V370.66139H451.26588Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_70)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M511.73548 366.13169H535.92337V396.90736H511.73548Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_71)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M572.2051 252.53704H596.3929V283.71366H572.2051Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_72)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M612.5181 245.57881H636.706V276.61183H612.5181Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_73)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M672.98776 263.7933H697.1756V277.9416H672.98776Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_74)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M713.3008 344.84938H737.48867V372.3742H713.3008Z" fill="#ff7f0e" />
+</g>
+<g clip-path="url(#clip_75)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M128.76137 347.8683H152.9492V362.54878H128.76137Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_76)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M169.07444 477.96424H193.26227V492.24388H169.07444Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_77)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M209.3875 328.6292H233.57534V343.69093H209.3875Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_78)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M269.8571 344.19035H294.04493V356.66743H269.8571Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_79)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M310.17018 247.13579H334.358V259.89204H310.17018Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_80)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M370.63975 299.19206H394.82759V312.21577H370.63975Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_81)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M410.95283 248.554H435.14067V261.37596H410.95283Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_82)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M451.26588 370.66139H475.4537V382.92588H451.26588Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_83)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M511.73548 396.90736H535.92337V402.81629H511.73548Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_84)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M572.2051 283.71366H596.3929V296.09703H572.2051Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_85)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M612.5181 276.61183H636.706V283.50117H612.5181Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_86)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M672.98776 277.9416H697.1756V279.3564H672.98776Z" fill="#2ca02c" />
+</g>
+<g clip-path="url(#clip_87)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M713.3008 372.3742H737.48867V383.10893H713.3008Z" fill="#2ca02c" />
+</g>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M140.85529 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M140.85529 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 239.92713 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 27.093 49.368 72.996 95.66701">Gabon</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M181.16835 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M181.16835 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 250.38155 109.77023)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 24.222 46.893 70.389 94.017">Congo</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M221.48142 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M221.48142 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 259.25483 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 25.410002 55.902 78.177 101.673007 125.301">Rwanda</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M281.95103 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M281.95103 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 274.29908 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 32.835004 55.506006 71.77501 94.446018 114.015018 133.58402">Morocco</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M322.26408 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M322.26408 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 285.70948 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 18.881 42.377 65.873 77.192 96.827 108.146">Tunisia</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M382.73368 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M382.73368 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 302.21534 109.77023)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.539002 46.167 67.683 91.311">Egypt</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M423.04673 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M423.04673 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 312.7869 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 21.021 32.34 55.968004 77.484">Libya</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M463.3598 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M463.3598 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 320.72416 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 27.621 49.896 84.282 95.601 119.229 130.548">Namibia</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M523.8294 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M523.8294 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 336.1392 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.539002 38.313005 61.809007 73.128009 95.79901 119.42701 130.74602">Ethiopia</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M584.299 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M584.299 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 352.481 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 25.542002 36.861005 60.489007 82.86301 99.132 110.451007">Algeria</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M624.61209 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M624.61209 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 361.66828 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 23.76 36.300004 47.784006 73.326007 87.68101 103.95001 115.26901 134.83802">S. Africa</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M685.08169 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M685.08169 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 381.74055 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 26.796002">US</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M725.3947 169.25778V179.25778" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M725.3947 169.25778V179.25778" />
+<text xml:space="preserve" transform="matrix(.08724251 .2396968 -.2396968 .08724251 389.06965 109.7934)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 27.093 38.412004 61.083005 84.711009 106.98601">Global</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 169.25778H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 169.25778H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 109.91121)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">0.0</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 224.69779H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 224.69779H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 95.76958)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">0.5</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 280.1378H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 280.1378H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 81.62794)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">1.0</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 335.5778H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 335.5778H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 67.4863)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">1.5</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 391.0178H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 391.0178H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 53.344667)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">2.0</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 446.4578H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 446.4578H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 39.203027)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">2.5</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 501.8978H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 501.8978H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 25.061394)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">3.0</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M98.325 557.33779H108.325" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="3.9" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M98.325 557.33779H108.325" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 220.65276 10.919769)" font-size="33" font-family="DejaVuSans"><tspan y="0" x="0 22.968 35.508005">3.5</tspan></text>
+<text xml:space="preserve" transform="matrix(0 -.25508 .25508 0 218.2534 100.52681)" font-size="26" font-family="DejaVuSans"><tspan y="0" x="0 27.756127 45.30613 57.73413 75.36213 88.18013 97.228137 116.31213 134.17414 152.68613 168.15613 186.66812 213.76012 232.37612 244.80411 253.7221 271.5841 290.0961 299.1441 311.0261 327.5881">Water Consumption (L)</tspan></text>
+<g clip-path="url(#clip_88)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M251.71622 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_89)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M352.49888 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_90)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M493.5946 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_91)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M554.0642 169.25778V578.07687" />
+</g>
+<g clip-path="url(#clip_92)">
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="2" stroke-linecap="butt" stroke-dasharray="7.4,3.2" stroke-linejoin="round" fill="none" stroke="#7f7f7f" stroke-opacity=".5" d="M654.84689 169.25778V578.07687" />
+</g>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M98.325 169.25778V557.33779" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M767.925 169.25778V557.33779" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M98.325 169.25778H767.925" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="4" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M98.325 557.33779H767.925" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 244.68398 29.499413)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 13.244001 24.854002 30.753603 43.000005 50.482007 62.29841 70.77801 82.439609 92.67361">Rainforest</tspan></text>
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 277.83485 29.499413)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 12.384001 23.994002 35.2084 46.8184 59.064805 71.3112">Savanna</tspan></text>
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 311.03157 29.499413)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 14.276001 25.937603 36.171606 47.833208 56.312807">Desert</tspan></text>
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 336.22706 29.499413)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 12.384001 20.605603 32.267206 44.582406 56.897607">Steppe</tspan></text>
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 355.00959 30.58281)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 17.114003 28.775605 41.090806 46.990407 55.212007 66.873607 75.3532">Mediter-</tspan></text>
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 356.8828 35.438905)" font-size="17.2" font-family="DejaVuSans"><tspan y="0" x="0 8.479601 20.089602 32.336004 43.997606 55.607606">ranean</tspan></text>
+<g>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M184.70626 523.21279H757.425C759.425 523.21279 760.425 524.21279 760.425 526.21279V546.83779C760.425 548.83779 759.425 549.83779 757.425 549.83779H184.70626C182.70626 549.83779 181.70626 548.83779 181.70626 546.83779V526.21279C181.70626 524.21279 182.70626 523.21279 184.70626 523.21279Z" fill="#ffffff" fill-opacity=".8" />
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#cccccc" stroke-opacity=".8" d="M184.70626 523.21279H757.425C759.425 523.21279 760.425 524.21279 760.425 526.21279V546.83779C760.425 548.83779 759.425 549.83779 757.425 549.83779H184.70626C182.70626 549.83779 181.70626 548.83779 181.70626 546.83779V526.21279C181.70626 524.21279 182.70626 523.21279 184.70626 523.21279Z" />
+</g>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M187.70626 532.44717H217.70626V542.94717H187.70626Z" fill="#1f77b4" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 269.97248 14.070404)" font-size="15" font-family="DejaVuSans"><tspan y="0" x="0 12.75 19.275002 25.800004 34.725004 39.870004 47.04 57.21 62.43 78.44375 88.56875 95.73875 105.908748 113.30374 118.52374 125.378749 134.93375">Offsite Water (L)</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M401.5656 532.44717H431.5656V542.94717H401.5656Z" fill="#ff7f0e" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 324.5237 14.070404)" font-size="15" font-family="DejaVuSans"><tspan y="0" x="0 12.75 23.43 32.355 37.5 44.67 54.839998 60.059999 76.073749 86.198749 93.368747 103.53874 110.93375 116.15375 123.00875 132.56375">Onsite Water (L)</tspan></text>
+<path transform="matrix(.25508,0,0,-.25508,211.379,149.88703)" d="M613.05 532.44717H643.05V542.94717H613.05Z" fill="#2ca02c" />
+<text xml:space="preserve" transform="matrix(.25508 0 -0 .25508 378.46919 14.070404)" font-size="15" font-family="DejaVuSans"><tspan y="0" x="0 9.555 19.725 29.85 39.825 49.95 60.690004 70.86 76.08 82.935009 92.490009">Leakage (L)</tspan></text>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="7.9701" font-family="Linux Libertine T" font-weight="bold"><tspan y="-548.161" x="393.201 395.80723 400.127 404.63014 410.46424 415.35789 420.08415 422.93745">(b)GPT-4</tspan></text>
+<text xml:space="preserve" transform="matrix(.99899956 0 -0 1.0010016 -100 711)" font-size="8.957429" font-family="Linux Libertine T" font-weight="bold"><tspan y="-525.02017" x="53.85188 58.733678 61.617967 66.28479 71.641338 75.40345 82.0409 86.63606 91.18644 99.85723 104.38969 107.59645 111.97663 118.05872 122.1433 127.07884 132.59662 136.42145 141.77799 149.88445 155.08873 158.29549 161.17978 166.11533 173.89037 178.42284 182.50742 186.26953 191.20508 195.0299 201.10305 205.70717 212.56858 216.39339 220.77356 223.68473 228.12761 232.21219 235.41896 239.86183 247.13527 251.21987 256.1554 261.51194 267.02973 270.23649 274.07029 276.9546 281.33476 287.41685 290.91917 295.8547 301.93684 308.89677 312.73054 315.61485 318.8216 321.7059 327.2237 334.14778 340.92854 349.035 353.47789 358.503 361.3873 366.74385 374.8503 378.05708 380.96827 385.34843 390.8662 395.53303 398.73979 406.5417 410.92185 419.02833 423.5608 426.44508 431.60459 434.42616 439.03028 443.6344 450.4958 453.70256 458.6381 464.129 468.50917 474.02696 477.85179 482.92167 488.27824 492.10304 494.9873 500.5051 507.42918 512.5976 515.5088 520.04129 528.14779 532.6803 535.887 540.49118 543.6979 548.302 552.90609">Figure2:Waterconsumptionacross11selectedcountriesforwritingamedium-lengthemail(250tokens)usingLlama-3-70B</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T" font-weight="bold"><tspan y="-514.587" x="53.798 58.335 63.858304 71.13005 77.69346 83.19883 88.51591 91.725879 96.3346 100.76401 104.52989 108.91446 112.74311 118.01536 122.46269 126.55137 129.76134 132.64852 137.32 141.70458 144.61865 149.09288">andGPT-4,respectively.</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-481.50456" x="64.40834 68.71334 71.11881 75.92976 79.98622 82.32956 84.6729 88.71162 92.368648 98.92822 104.60904 108.57674 115.589008 120.19579 124.97124 129.0277 132.48946 134.89495 138.65848 144.33043 147.79219 152.26583 159.27809 164.95005 167.29338 169.69887 176.71114 179.11661 181.92153 185.97798 188.78289 191.18836 195.662 200.47295 205.64781 210.12146 214.57736 219.05101 223.76432 228.77942 235.79167 239.75939 242.56429 247.33974 251.8755 256.3669 260.84056 263.1839 267.65754 272.09568 276.13438">Finally,weemphasizesomelimitationsofourmethodology.</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-481.50456" x="279.79139 284.09638 286.50184 289.80384 293.2656 296.0705">First,</tspan><tspan y="-470.65568" x="54.34419 58.817838 63.531145 68.741519 75.753787 80.289569 84.78097 88.748668 91.092 96.47103 100.52749 103.75846 109.63455 112.43946 117.214908 121.1826 128.19487 131.65663 135.62433 137.96767 142.30817 146.27588 151.64603 155.10778 157.51326 164.52552 169.13231 171.47565 173.88114 176.3665 178.85186 182.6509 186.70735 189.51226 191.91774 196.39139 201.20232 206.57248 211.04611 215.71504 218.51996 223.2954 229.17151 233.22797 237.02701 239.83193 244.54523 248.60169 252.85344 259.484 263.54048 266.34538 270.31309 275.52348 280.23677 283.69853 287.75498 292.1931 296.07206">ourmodelsarethemselvessimplificationsoftheactualwaterusage,</tspan></text>
+<text xml:space="preserve" transform="matrix(.997998 0 -0 1.002006 -100 711)" font-size="8.948449" font-family="Linux Libertine T"><tspan y="-463.5451" x="53.574258 60.258749 65.07301 67.49804 71.32797 78.3883 83.20256 87.292 93.02796 97.52903 101.59163 105.59158 112.687709 117.188777 121.69879 124.12382 126.486209 130.54882 137.32279 141.8507 146.29807 152.98256 160.07868 162.90639 169.67142 174.52147 178.61092 181.43863 183.86367 188.37369 193.22374 197.31319 201.92163 204.28403 208.22135 212.59714 216.59709 218.95949 222.44939 226.80727 229.23232 236.32843 239.58567 243.58562 247.67505 250.03745 252.46248 255.29019 262.1447 264.97245 269.7867 273.78666 277.04389 283.28993 287.37937 290.6366">whichhasbeenboileddowntonationallevels;inrealitythereare</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-448.95799" x="54.34419 57.805944 62.51925 66.895259 70.357 73.16191 77.218379 82.02933 84.834239 87.23971 91.296169 95.68993 100.10144 104.157909 107.459888 109.86535 113.921817 116.72672 119.132198 123.60584 128.4168 133.92897 138.305 144.9267 148.15766 152.12537 156.5635 158.96898 163.44263 170.29512 174.35158 179.1625 185.70433 188.50925 190.91472 197.92699 201.80593 205.80913 210.11412 214.14397 217.94301 222.41666 227.22759 231.719 235.7222 242.28177 248.2999 252.77355 257.58448 259.92784 266.5495 270.5172 273.97898 276.78388 279.18934 286.20164 290.25807 293.06297">substantialvariationsbyregionandtime.Second,weonlyestimate</tspan><tspan y="-438.10914" x="54.34419 57.149095 61.924535 67.98703 74.617618 78.67408 81.47899 85.446689 90.84346 95.55677 99.01852 103.07498 107.51313 113.57562 118.067028 122.780338 126.08231 128.48778 133.29872 139.83167 142.63658 147.41202 153.47452 160.48679 165.03145 169.52285 173.49054 177.9287 180.33417 185.14511 187.89676 191.86447 195.08655 199.05425 203.86519 207.66425 213.73563 216.54053 218.94602 225.95827 229.82834 233.87592 237.78148 242.13086 245.9299 248.27326 252.98656 257.47798 259.88343 264.69438 271.22734 274.03224 278.80766 284.87019 291.50077 295.55723">thewaterusageduringthemodelinferencetime,excludingthewa-</tspan></text>
+<text xml:space="preserve" transform="matrix(.99095919 0 -0 1.0091233 -100 711)" font-size="8.885336" font-family="Linux Libertine T"><tspan y="-427.69599" x="54.28882 57.096586 61.06833 66.63055 69.385 73.925418 78.40362 81.21139 85.822879 89.12822 91.53614 96.352 101.41664 105.47724 108.94252 112.4078 116.94821 120.75113 123.15906 127.21965 130.02742 134.06136 140.81423 147.45156 149.85948 152.66724 159.69554 162.10346 166.59944 168.94518 175.1738 179.84748 184.26349 190.82976 194.8015 197.57373">terfootprintassociatedwithidlepower.</tspan></text>
+<text xml:space="preserve" transform="matrix(.99095919 0 -0 1.0091233 -100 711)" font-size="8.885336" font-family="Linux Libertine T"><tspan y="-427.69599" x="204.03337 208.9825 213.32744 217.29918 224.37189 229.09001 233.90586 238.40184 242.3736 247.92693 252.40514 257.12327 262.6855 269.7049 274.2453 278.74128 282.71305 285.05879 287.4667 292.28257">Evenunderourmodeling</tspan><tspan y="-416.83708" x="54.28882 58.349416 61.814699 65.279979 69.99809 77.01751 81.629 84.43677 86.84469 91.3229 96.138759 99.604038">assumptions,</tspan></text>
+<text xml:space="preserve" transform="matrix(.99095919 0 -0 1.0091233 -100 711)" font-size="8.885336" font-family="Linux Libertine T"><tspan y="-416.83708" x="106.09922 108.50714 113.580669 115.988597 121.719638 125.52255 130.30287 134.36345 136.70919 139.05492 143.02666 147.84252 152.28517 154.6931 159.50894 166.22624 169.03401 175.77799 180.2562 184.63666 187.44443 191.50502 193.91295 200.99454 205.60604 208.8403 212.87424 216.67716 219.08509 222.55036 228.79674 233.29273 237.35332 240.16109 246.48743 250.96564 258.04725 260.855 265.63536 271.88175 275.85353 280.66935 284.6411 287.94645 292.3891">itischallengingtoobtainprecisedataontheenergy</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-405.56355" x="54.34419 57.095838 61.809144 65.77684 70.25936 77.27162 79.67709 86.16566 90.22212 95.033069 101.66365 104.46856 109.244 115.342 119.3097 121.65304 125.68287 129.48192 132.28684 135.5888 137.99428 141.79332 144.1988 147.00371 153.71419 160.34479 164.40125 167.20615 171.17385 176.615 179.0205 183.83144 186.63634 190.60405 195.41498 198.87674 201.28221 204.08713 210.7976 213.20308 220.15322 226.32222 229.07389 232.37584 234.78133 238.58037 242.63683 246.72879 254.17601 258.64967 261.87178 265.91047 270.3131 274.65364 278.62135 281.39076 285.48274 288.28764 293.06306">fuelmixandtheelectricitywaterintensityinAfrica.Moreover,the</tspan></text>
+<text xml:space="preserve" transform="matrix(.99548986 0 -0 1.0045307 -100 711)" font-size="8.92596" font-family="Linux Libertine T"><tspan y="-396.92366" x="54.041738 58.120897 61.941209 64.76181 69.501499 73.58066 78.186458 82.17636 87.01422 91.00413 94.324588 98.78756 105.62484 109.445148 113.94383 118.78171 122.26283 127.00252 134.05402 138.68659 141.50719 143.92612 148.4248 155.51201 160.0107 165.01816 169.73107 174.44397 184.1822 186.60114 191.43901 194.20604 198.19596 201.44499 205.43489 210.27277 214.0931 220.32341 227.37491 231.45407 238.3003 242.7365 246.81566 250.27 257.1073 261.62385 265.61375 270.3088 274.29875 279.1366 283.6531 286.07206 290.9099">actualenergyconsumptionofLLMinferencemayvarydepending</tspan></text>
+<text xml:space="preserve" transform="matrix(.9969955 0 -0 1.0030136 -100 711)" font-size="8.93946" font-family="Linux Libertine T"><tspan y="-386.59797" x="53.96012 58.465608 65.57248 68.38841 73.197849 79.45547 82.11942 86.82158 91.327068 94.81345 98.29984 100.722438 105.12959 107.48961 114.346179 118.172267 122.91911 126.4055 129.23036 133.73586 140.79804 143.22063 147.01096 151.07842 155.59285 160.5185 165.02399 169.66358 172.48844 174.91103 181.97319 184.39579 188.18613 192.27146 195.09632 197.5189 202.0244 209.12233 211.94719 216.0057 219.8318 224.64124 229.48642 231.90901 236.40555 241.1524 245.14833 250.89641 255.64327 259.12965 263.18818 269.96427 274.37144 281.23695 284.4909 288.48686 292.5722">onthe(possiblycustomized)optimizationtechniquesusedbyreal</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-380.55339" x="53.267957 56.79965 61.46329 64.99498 67.85656 71.90443 79.058368 82.59006 87.42576 92.12563 96.264049 99.632747 102.49432 104.948398 108.8242 113.63274 116.02342 120.16184 123.53053 125.92122 133.41927 136.2265 140.79055 147.0027 149.86428 154.73619 161.61846 166.31832 169.61457 174.17859 178.87845 182.24715 184.7012 188.74907 191.61064 195.74906 199.25357 206.75164 212.95473 217.85382 222.74387 225.80467 232.84995 240.00389 244.63132 249.21346 253.2613 255.652 260.4877 266.6727 273.04789 276.57957 281.3881 285.2639 290.13584">systems,particularlyfortheproprietaryGPT-4model.Assuch,</tspan></text>
+<text xml:space="preserve" transform="matrix(.99899956 0 -0 1.0010016 -100 711)" font-size="8.957429" font-family="Linux Libertine T"><tspan y="-365.47895" x="53.85188 58.366426 63.122819 68.70329 71.9638 75.967769 79.46117 84.21756 86.58232 89.412868 95.16353 98.65693 103.47603 107.99057 112.74697 115.11173 121.8925 126.398097 132.65935 135.91985 139.92382 144.40253 148.49607 151.75656 156.28902 160.3557 167.13648 171.23001 176.98069 179.48877 181.99684 185.329 188.8224 191.65294 194.68056 199.1951 202.45558 206.98805 210.99202 216.5725 220.57648 224.06987 226.9004 229.32787 236.40424 240.49779 243.32833 247.3323 253.074 256.4062 260.49974 263.3303 268.14939 272.15336 277.74278 280.57334 285.39244 289.48597">ourresultsshouldberegardedasfirst-orderestimatesratherthan</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-358.4173" x="53.267957 57.967824 61.26407 65.37531 69.25112 71.7052 75.23689 81.756938 85.053188 89.10104 93.80092 97.09717 101.14503 104.67672 108.72459 113.63273 116.49431 120.63273 123.49431 125.94838 130.51242 135.42057 138.95226 143.42574 151.32222 157.84226 161.89012 166.79827 170.67407 175.2381 180.04665 183.41533 187.55374 192.08155 198.6016 204.89524 210.06601 217.21994 221.83832 226.42046 230.4683 235.34024 239.92238 243.90683 248.33504 252.38289 254.77356 259.3376 264.10087 268.1487 271.51744 277.5213 281.65974 286.56785">preciserepresentations.WeencourageAImodeldevelopersand</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-340.4704" x="54.34419 58.835588 62.892049 65.69696 71.644069 75.443119 79.410808 84.221759 87.026668 90.99436 96.178119 100.651767 105.320697 109.28838 112.59036 116.64683 119.45174 123.925388 127.22736 132.57978 135.38468 141.74008 145.7078 150.51873 155.29418 159.35063 164.16158 167.96062 173.81897 176.62387 179.92584 183.9823 188.79325 192.25499 196.86177 200.91823 204.14919 208.1169 212.92784 216.72689 223.17993 226.4109 230.3786 234.81674 238.8732 242.10416 246.59557 249.00104 253.81198 260.1319 262.9368 267.71223 271.67994 274.0854 279.278 286.29029 290.76393 294.22569">datacenteroperatorstoenhancetransparencyregardingtheirmost</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-336.2812" x="53.267957 56.5642 60.675455 64.55126 68.59913 73.50727 78.98592 85.750469 89.888889 92.750469 96.798328 102.784099 107.59263 111.12432 115.26274 119.79054 123.747859 128.35717 132.40503 135.9367 140.69997 144.80216 148.67797 151.13202 155.27045 157.66114 160.05182 167.33254 169.78659 177.31182 183.60547 186.4127 189.78139 192.23546 196.11127 200.24968 207.7749 211.6507 216.21474 221.02327 225.93141 228.79299 232.16168 234.61574 238.6636 244.81237 247.6196 251.75801 255.63384 258.0879 262.99604 270.13188 276.89643 281.03483 283.8964 287.94425">recentwaterusage,especiallyinAfricancountriesfacingwater</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-322.009" x="53.798 57.294897 61.132516 65.23016 68.493938 72.33155 74.761447 77.594829 81.68351">scarcity.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="10.9091" font-family="Linux Libertine T" font-weight="bold"><tspan y="-299.792" x="53.798 59.405279 62.067098 78.58348 86.394397 91.72894 96.38713 102.910778 106.45623 110.36169">4.2Results</tspan></text>
+<text xml:space="preserve" transform="matrix(.9974969 0 -0 1.0025095 -100 711)" font-size="8.943955" font-family="Linux Libertine T"><tspan y="-285.37785" x="53.663324 58.439397 65.20103 69.72667 73.72462 80.790348 85.298099 90.14571 93.63386 96.460147 99.7873 103.87469 106.70097 112.9528 115.77908 120.590938 126.84276 131.59201 134.41829 136.8421 139.20331 141.62712 144.4534 151.30448 155.81224 160.83873 165.3465 170.09574 175.67675 180.2024 184.28978 187.11608 191.20346 194.69162 198.68956 201.51586 205.73738 212.34699 218.5988 223.34804 226.8362 233.08802 235.51183 240.59198 243.41828 250.1799 254.17786 257.666 260.49229 262.9161 269.9818 274.06919 276.89549 283.1473 285.9736 290.78544">Todemonstratetheutilityofourdataset,weuseittoestimatethe</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-272.36979" x="54.009828 60.64041 64.69687 67.50178 71.469478 76.98164 80.78069 85.25434 90.06529 93.52704 98.24034 105.25261 109.859409 112.664318 115.069789 119.543437 126.564579 131.03823 135.99121 138.79611 145.3557 152.03954 156.72621 161.41289 168.86009 172.32186 176.48484 178.8903 180.84308 184.72202 186.67479 190.8289 198.27611 202.2438 205.04872 209.10518 211.48403 217.15598 221.84265 224.18599 228.24245 235.25472 239.31118 242.31136 246.43881 249.43901 253.56647 257.69395 265.1234 269.17988 273.9908 280.6924 286.92356 291.5925 295.5602">waterconsumptionoftwoLLMs,i.e.,Meta’sLlama-3-70BandOpe-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.001998 0 -0 .998006 -100 711)" font-size="8.984315" font-family="Linux Libertine T"><tspan y="-264.7038" x="53.69073 58.560228 64.80432 67.47267 69.88046 75.621448 81.775699 86.63621 91.469768 94.50646 98.684169 102.89781 105.682949 110.211048 112.58289 114.95475 119.41995 126.13124 128.566 133.43549 140.15575 142.9948 147.82836 154.08144 161.17905 165.19504 168.03408 172.86763 177.45862 184.24178 186.67653 193.77414">nAI’sGPT-4,followingthemethodin[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-264.176" x="197.369 201.53838">23</tspan></text>
+<text xml:space="preserve" transform="matrix(1.001998 0 -0 .998006 -100 711)" font-size="8.984315" font-family="Linux Libertine T"><tspan y="-264.7038" x="205.29782 208.49623 212.70987 218.07352 222.90708 229.15119 231.99022 236.09604 239.59993 244.19989 249.94087 256.58027 262.83338 266.78648 271.25169 275.3575 277.72935 282.50004 286.60588 289.44493">].Thetasksweevaluate</tspan></text>
+<text xml:space="preserve" transform="matrix(.99398186 0 -0 1.0060545 -100 711)" font-size="8.912439" font-family="Linux Libertine T"><tspan y="-251.69312" x="54.12373 58.196714 61.44084 67.67956 70.49589 77.24261 83.9002 87.21562 89.63089 92.44723 98.685939 105.01377 108.82829 113.32016 120.360988 124.98654 128.23067 132.21454 137.00943 140.99329 145.82382 149.29969 151.71497 156.07315 162.31185 166.45613 170.6004 173.61281 178.23838 182.31136 186.76758 193.00627 196.24149 200.22536 204.92221 209.4141 212.7295 217.80069 221.87368 226.70421 233.46875 239.79659 246.83742 250.88367 255.39336 257.80863 262.5411 269.58195 272.59434 274.9472 278.93107 283.76164 288.21788 291.03419">aretowriteacomprehensive10-pagereportandamedium-length</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-244.6686" x="53.267957 57.315824 64.46976 68.60818 71.06225 73.452938 78.35203 82.49044 88.928989 92.46068 97.3326 101.8423 108.60684 116.421848 120.88626 128.45676 132.84874 135.30281 139.83061 144.63915 147.9354 151.98325 158.4218 165.54857 169.68698 174.59514 182.08412 186.29499">email,asshownbyFigures2and3.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="6.5753" font-family="Linux Libertine T"><tspan y="-245.513" x="190.158">3</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-244.6686" x="194.71846 201.0755 205.88405 212.15958 215.45583 219.50368 223.03537 227.8439 230.23459 233.09616 239.54378 241.99784 246.90599 251.48812 253.9422 257.818 261.95643 264.818 268.92018 276.41825 279.27983 284.15174 288.29017">Ourresultsindicatedthat</tspan><tspan y="-233.60054" x="52.940217 59.704767 63.073457 65.52753 68.38911 70.84318 75.75133 82.597377 89.044979 93.25584 97.4667 100.5275 105.22736 109.36578 113.893589 120.25969 123.55594 127.6038 132.36705 136.93109 140.29978 145.47959 150.28813 153.81983 156.27388 161.18204 168.01902 172.80039 175.19107 179.32949 186.48343 190.62184 193.68265 197.89351 200.95432 205.16518 209.37604 217.01898 221.15741 226.06555 232.96593 239.16904 244.06813 248.94911 252.00992 258.52998 260.98405 268.21043 274.5041 277.3113 280.68003 283.1341 287.0099">writinga10-pagereportusingLlama-3-70BandGPT-4inAfrica</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-218.12549" x="54.34419 58.143239 62.616888 67.33019 69.67353 76.24198 80.04103 84.51468 89.32563 92.78738 97.50069 104.512958 110.5577 114.61416 119.220958 123.82775 127.058719 131.46135 135.81073 138.2162 145.22847 149.28493 152.08983 156.05754 158.40088">couldconsumeapproximately</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-218.12549" x="165.04921 169.10567 174.64446 181.65673 186.37004 190.16909 197.02159 201.07805">asmuchas</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T" font-weight="bold"><tspan y="-218.12549" x="208.6939 213.2563 215.42212 219.98453 226.61511 229.49991 232.35808 235.53578 239.87628 243.67533">0.66liters</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-218.12549" x="249.54256 253.59902 258.40995">and</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T" font-weight="bold"><tspan y="-218.12549" x="264.97843 269.54084 276.18028 279.06507 281.92323 285.10096 289.44148 293.2405">59liters</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-209.381" x="53.798 58.317068 63.33825 70.03615 74.13379 76.96717 80.97515 83.78164 87.99585 91.25962 95.2676 98.764499 103.48083 107.551578 111.38919 114.22257 116.652469 121.03703 125.04501 127.41214 131.50081">ofwater,respectively.</tspan></text>
+<text xml:space="preserve" transform="matrix(.99045446 0 -0 1.0096376 -100 711)" font-size="8.880811" font-family="Linux Libertine T"><tspan y="-196.52794" x="64.3755 72.82116 77.59904 81.56876 88.637889 92.43887 96.9148 103.93064 108.53979 112.59832 115.90198 118.30868 123.12208 129.80933 132.61566 137.39354 143.61898 150.25295 154.31148 157.11782 161.08753 166.64691 171.36263 174.82614 178.88468 183.32509 189.55052 194.02645 199.02635 201.83269 206.61055 210.58028 214.0438 220.26923 227.28507 231.82315 236.31684 240.28656 242.63109 248.35033 252.81739 256.78709 259.5934 266.15635 270.18824 274.15797 281.22709 285.64088 289.69938 293.00303 295.40974">Whencomparingthewaterusageofthesemodelsbetweenvari-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-189.32936" x="53.267957 57.83199 62.640523 68.517627 74.81129 77.61852 80.98722 83.44129 87.3171 91.45552 98.70001 102.57582 107.139858 111.94839 116.85654 119.71812 123.08681 125.54088 129.58875 133.12044 137.45807 140.31964 145.19156 151.57578 157.56156 162.4697 164.92377 167.78533 171.89658 178.81508 183.20706 186.06864 190.20705 193.06862 197.11647 202.99358 207.13199 212.04013 218.95862 221.82019 226.69211 233.08538 237.61319 240.00388 244.5679 249.03234 253.17075 257.89778 262.0362 266.47346 270.5213 273.89 278.02845 282.55625 286.6041 290.1358">ousAfricancountries,theUnitedStatesandtheglobalaverages,</tspan></text>
+<text xml:space="preserve" transform="matrix(.99398186 0 -0 1.0060545 -100 711)" font-size="8.912439" font-family="Linux Libertine T"><tspan y="-175.44278" x="53.79072 60.377019 66.62464 71.11651 75.510349 78.9862 82.970058 86.41917 90.77735 94.8236 101.59705 104.41338 109.208278 115.4559 118.21876 122.710628 125.06351 127.41639 131.84587 138.50347 140.91875 145.74929 150.20549 154.5726 158.89514 161.31041 164.62584 168.1017 170.91803">weobservedthefollowing:First,</tspan></text>
+<text xml:space="preserve" transform="matrix(.99398186 0 -0 1.0060545 -100 711)" font-size="8.912439" font-family="Linux Libertine T"><tspan y="-175.44278" x="175.14253">9</tspan></text>
+<text xml:space="preserve" transform="matrix(.99398186 0 -0 1.0060545 -100 711)" font-size="8.912439" font-family="Linux Libertine T"><tspan y="-175.44278" x="181.55057 186.04245 191.06906 193.88539 198.68029 204.93682 209.08109 215.48914 218.965 222.94886 225.30175 229.34799 233.1625 235.97884 240.02509 246.79856 252.9927 255.75556 259.07099 261.48625 265.30076 269.37376 276.46806 280.28257 284.77445 289.50694 294.3375">ofthe11selectedAfricancoun-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005485 0 -0 .994545 -100 711)" font-size="9.01558" font-family="Linux Libertine T"><tspan y="-166.45401" x="53.504526 56.35345 59.707246 62.150468 66.18043 71.923358 76.77373 80.893848 85.30247 91.55928 97.90625 100.286357 104.767108 111.42962 115.45959 121.04023 127.77487 131.89499 134.74391 138.77387 144.3545 148.21318 152.75704 157.64348 161.15955 165.94683 173.06914 177.74823 180.59716 183.04038 187.58422 194.69751 197.54644 202.39682 206.51694 213.63024 216.47916 221.32953 227.58634 232.09412 234.47425 239.01808 243.46277 247.58289 252.18083 256.30097 260.7186 264.74858 268.10237 272.22248 276.73027 280.67008 284.88035 287.55799">trieshavealowerwaterconsumptionthantheglobalaverage.In</tspan></text>
+<text xml:space="preserve" transform="matrix(.9964939 0 -0 1.0035186 -100 711)" font-size="8.934962" font-family="Linux Libertine T"><tspan y="-154.04499" x="53.987287 58.070566 62.591657 67.11275 69.53413 72.35757 74.778949 79.28217 84.124919">addition,</tspan></text>
+<text xml:space="preserve" transform="matrix(.9964939 0 -0 1.0035186 -100 711)" font-size="8.934962" font-family="Linux Libertine T"><tspan y="-154.04499" x="88.34222 94.55202 96.91085 101.378337 105.37226 108.69607 111.11745 115.20072 119.40909 123.74254 128.24576 132.99024 135.81369 142.87232 149.08213 151.85196 155.17577 157.59714 161.42131 165.50458 169.71295 173.79622 178.63898 185.41167 190.39739 195.14185 199.9846 202.40598 205.89061 208.31198">Algeria,SouthAfrica,andTunisia</tspan></text>
+<text xml:space="preserve" transform="matrix(.9964939 0 -0 1.0035186 -100 711)" font-size="8.934962" font-family="Linux Libertine T"><tspan y="-154.04499" x="214.63794 218.5693 222.9385 226.93244 234.0268 238.83382 242.91709 247.28629 253.52289 259.8578 262.2166 266.6573 273.26023 277.25413 282.82063 289.49504 293.5783">evenhavealowerwa-</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-143.628" x="53.798 56.631383 60.639364 66.2075 70.04511 74.56418 79.423969 82.92086 87.68202 94.76548 99.419048 102.252429 104.68232 109.201389 116.30277 119.136157 123.960079 128.05773 135.15015 137.98354 142.80747 149.05706 154.76865 156.74126 161.08997 165.29521 169.39286 173.77742 177.7854 181.1209 185.21854 189.70174 193.62006 197.83428 203.18721 208.01114 210.44104 216.17058 223.25403 227.35167 234.202 238.7121 244.96169 248.45859 253.21974 256.55525 261.2088 264.5443 266.9742 270.4711 272.901 277.7608 282.24403 286.44926 290.5469">terconsumptionthantheU.S.average.Thismaybesurprising,as</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-133.98914" x="52.95705 59.25071 62.05795 65.426639 67.880718 71.75652 78.394298 80.848369 86.87035 90.74616 95.31019 102.464138 109.61808 114.182109 119.090259 121.48094 128.64394 133.14458 135.59865 139.58312 146.27523 150.38648 157.4589 161.59732 167.62836 174.26612 181.03067 185.16909 188.03066 192.0785 195.4472 198.50801 202.0397 205.9155 210.05391 213.35016 217.22595 223.76412 227.90253 232.81067 239.89215 244.47429 247.97882 255.13275 259.00856 263.57258 268.4807 271.3423 273.79634 278.70448 282.75233 287.66047 290.52204">Africaiscommonlyviewedasawater-scarceanddrycontinent.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0049876 0 -0 .99503728 -100 711)" font-size="9.01112" font-family="Linux Libertine T"><tspan y="-122.317028" x="53.263345 58.642984 63.490964 69.753688 74.53859 79.42262 83.98225 88.010219 91.36235 93.74129 98.38201 100.82403 105.70805 112.448368 115.72842 119.756389 123.874469 127.3888 131.9304 139.0492 141.49121 147.24031 150.08782 154.93579 159.05388 164.13616 166.98366 171.83165 178.09439 182.83423 186.86222 190.21434 193.26009 196.05353 200.83844 204.86643 209.48014 216.21143 220.32952 223.17704 227.205 232.7919 235.2339 240.11794 242.96544 246.99343 251.87744 255.3918 257.8338 260.68135 267.56587 270.35929 274.47737 278.33415 281.18165 285.72328 289.0754">Theunderlyingreasonisthattheper-fuelwaterintensityfactors</tspan></text>
+<path transform="matrix(1,0,0,-1,-46.202,601.346)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H47.821" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="5.4795" font-family="Linux Libertine T"><tspan y="-103.484" x="53.798">3</tspan></text>
+<text xml:space="preserve" transform="matrix(.9899495 0 -0 1.0101526 -100 711)" font-size="6.90371" font-family="Linux Libertine T"><tspan y="-99.83047" x="57.42111 63.420434 68.06663 71.559909 73.43082 78.48433 82.226139 85.7056 89.440509 92.47813 95.90927 99.06426 100.88684 104.55271 107.7077 109.889278 114.53547 117.69046 121.18374 124.67702 126.54792 128.72949 130.6004 134.07988 137.82169 140.97669 144.3526 146.53418 149.68918 152.38162 155.91634 160.16902 163.64159 166.77587 169.73067 172.88567 176.55153 179.24399 183.89019 186.07176 189.78595 194.42525 198.16707 201.83293 207.28685 210.76633 213.8523 216.42047 220.66626 225.7681 229.24758 232.91345 234.73603 239.78955 242.482 244.3529 249.80683 253.38985 255.21242 260.32118 263.0136 265.96839 269.12339 270.94596 275.59214 277.41474 279.28565 283.02745 286.11338 289.26838 291.83656 293.65913">Wedidnotevaluateadditionaltasksbecausethenumberswouldsimplyscalelinearly</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="7.043193" font-family="Linux Libertine T"><tspan y="-93.79814" x="53.267957 56.486696 60.95208 65.8964 68.07979 71.819728 75.63714 78.65162 80.877269 82.78597 86.33574 91.87169 95.421459 99.32339 101.549037 105.33827 110.212169 113.36047 117.17788 120.32619 122.94625 126.46785 131.81363 134.82811 138.3779 142.1953 144.94216 148.68209 154.24622 157.90163 160.12728 162.036 165.58577 171.12172 174.6715 178.58046 181.72878 184.94751 187.96199 193.46977 195.69544 198.91417 201.66103 206.98567 209.16905 212.71884 217.06449 220.2128 223.43154 226.44602 231.9538 237.51793 241.117 244.68087 247.82918 249.68857 252.95662 258.09815 261.5986 266.81056 269.90956 273.35368 276.50196 278.71354 281.98158 284.2072 287.99644">asafunctionoftheenergyconsumptionofeachtaskforeachmodel.However,the</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="6.9738" font-family="Linux Libertine T"><tspan y="-84.653" x="53.798 59.307306 62.424596 64.62832 68.380229 71.94383 75.47257 78.987369 80.828449 84.34324 87.83014 93.1651 98.31873 101.83353 105.53661 107.37769 112.64989 115.18835 118.30563 123.81493 127.00196 128.89186 134.41512 136.61884 140.37075 145.23149 147.95128 151.1383 156.64762 161.50836 163.67024 167.18505 171.52275 175.03755 177.24127 180.99318 184.11048 188.44818 190.6519 193.83893 196.55872 200.1293 202.84909">methodologywouldremainthesameforothertasks.</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-481.50456" x="320.91136">(</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="LibertineMath" font-style="italic"><tspan y="-486.393" x="319.874">𝑤</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="6.5753" font-family="LibertineMath" font-style="italic"><tspan y="-484.92103" x="326.27299">𝑘</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-481.50456" x="334.05747 338.55775 342.6142 347.22099 351.8278 354.1711 356.5766 360.37565 364.42323 368.79924 371.14259 376.9654 379.7703 386.09019 392.25923 395.01087 398.31288 400.71833 404.51737 408.57383 410.9527 416.2696 420.7077 424.6754 429.48637 433.45408 436.75608 440.8125 443.6174 446.02287 450.49653 457.15373 459.55033 461.94694 465.98564 469.95335 474.60447 478.66093 481.8919 487.70588 490.04924 494.46073 501.0203 504.988 510.1451 512.95 517.72549 521.7819 528.4391 531.244 536.0194 541.8422 546.2804 548.6237 553.09738 557.4734 561.52987">)applicabletoAfrica’sgenerationfleetarelowerthantheglobal</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-480.1648" x="314.82237 318.96076 323.38899 327.43687 330.80555 334.94398 339.47178 343.51966 349.52354 354.33207 359.2402 363.82237 367.8702 371.23893 373.62959 378.2932 380.74729 385.65544 392.64637 395.50794 400.37989 406.89994 414.97755 419.11598 421.97755 426.0254 431.8572 437.17286 441.2207 444.7524 449.31645 454.12498 457.42124 461.29704 467.81709 470.5066 475.41474 478.94645 481.808 484.26206 487.12364 491.93217 494.79374 501.30473 505.8597 509.9076 514.81576 518.6915 523.5635 530.7174 534.85586 538.22457 545.3332 549.8972">averagesunderlyingtheWaterResourceInstitutebenchmarkof</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0084641 0 -0 .99160686 -100 711)" font-size="9.042294" font-family="Linux Libertine T"><tspan y="-468.40644" x="315.08213 319.28678 321.2761 325.48078 329.68544 336.12358 340.88883 343.8185 348.2312 356.8304 363.91957">4.807L/kWh[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-464.475" x="370.25 374.41938">36</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0084641 0 -0 .99160686 -100 711)" font-size="9.042294" font-family="Linux Libertine T"><tspan y="-468.40644" x="375.41148 378.63053 382.84425 389.02915 394.78004 398.30653 403.1713 407.6653 414.4199 421.55427 424.00474 431.13008 436.09428 440.2266 444.68443 447.0716 453.34696 457.5516 461.76533 468.0497 470.8528 474.21656 476.66703 480.5371 484.66944 487.72575 491.25224 496.00846 500.11369 503.98377 506.43424 508.96607 511.4979">].AsshowninTable2,Africa-specific</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0084641 0 -0 .99160686 -100 711)" font-size="9.042294" font-family="Linux Libertine T"><tspan y="-468.40644" x="530.13388 534.62789 538.7602 541.14736 545.9488 549.9907">values</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-448.95799" x="321.18305 325.67445 328.07994 330.66294 333.2459 337.21363 342.36186 345.1135 348.34449 352.81816 361.67668 366.1148 368.45817 372.9318 377.3078 381.36427 385.55387 389.61033 393.95085 397.91856 401.22053 405.27699 409.71513 413.68284 418.99085 421.7425 426.21614 431.36439 434.16929 438.9447 442.1757 446.20558 452.0195 456.56419 460.46974 466.88728 469.63893 474.3522 478.31993 480.66328 484.12504 488.0661 490.71125 493.1167 497.6081 502.41908 506.47554 509.2804 513.9937 517.29568 521.3521 525.5417 529.97988 534.0363 537.49807 541.29708 547.9277 552.7031 556.6708 559.90176">differfromglobalaveragesforthreekeyfuels:(i)naturalgas,where</tspan><tspan y="-438.10914" x="320.86589 327.03489 329.78657 333.08854 335.494 339.29304 343.3495 345.72837 351.1429 355.7497 358.98069 363.01054 367.50196 371.9756 378.98786 381.39335 386.20429 390.26075 395.0717 397.8766 400.21995 406.75288 412.48698 418.22105 424.3013 431.55323 433.94984 436.34645 440.37629 444.344 449.10166">Africa’spredominantlyCCGTfleet[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-442.557" x="447.719">9</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-438.10914" x="456.47584">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-442.557" x="455.757 459.92637">43</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-438.10914" x="468.80778 473.92054 478.49183 480.89729 484.865 487.2083 491.6997">]yields</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="txmiaX"><tspan y="-442.557" x="505.00898">=</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-438.10914" x="518.0143">0</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="LibertineMath" font-style="italic"><tspan y="-442.557" x="517.037">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-438.10914" x="524.4328 528.5603 532.6878">795</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-438.10914" x="538.76809 543.4548 546.3218 550.6534 559.0947">L/kWh</tspan></text>
+<text xml:space="preserve" transform="matrix(.9969955 0 -0 1.0030136 -100 711)" font-size="8.93946" font-family="Linux Libertine T"><tspan y="-430.30125" x="318.68849 323.05989 327.05583 330.38133 333.8677 338.61457 344.3448 350.67393 355.14366 357.50367 362.00917 366.4163 370.50166 375.10548 379.1908 383.5622 387.55818 390.88365 394.96897 399.43873 405.67848 410.18394">versusaglobalaverageof</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="txsys"><tspan y="-431.598" x="413.948">∼</tspan></text>
+<text xml:space="preserve" transform="matrix(.9969955 0 -0 1.0030136 -100 711)" font-size="8.93946" font-family="Linux Libertine T"><tspan y="-430.30125" x="420.91563 425.07246 427.03916 431.19599 437.59663 442.31666 445.2041 449.5666 458.06803 465.12126 467.9461 472.75556 476.84089 481.90956 484.33213 489.1773 493.00343 495.36344 500.11033 504.63368 508.6296 514.3598 517.8462 520.2688 527.331 531.9706 534.33059 538.32656 541.3481 545.17416 549.7064 553.5325 555.8925">1.58L/kWhthatincludessimple-cycle</tspan></text>
+<text xml:space="preserve" transform="matrix(.99899956 0 -0 1.0010016 -100 711)" font-size="8.957429" font-family="Linux Libertine T"><tspan y="-420.21913" x="318.2734 322.92234 325.28709 329.3806 334.23554 337.0661 340.5595 344.93074 347.60008 350.02754 352.45503 357.37266 362.19175 366.73316 371.2656 374.5261 379.04066 383.7523 388.20414 394.82368 398.82765 401.63133 405.85923 412.5504 417.3695 421.37348 424.63398 430.88627 437.11167 439.88847 443.2206 445.6481 449.4819 453.57545 455.97605 461.72669 466.25917 470.32585 474.3298 478.88917 483.1081 487.9272 490.35469 494.83338 499.65248 502.6801 507.4992 511.50318 515.59677 522.3865 525.647 529.65097 533.14437 537.1483 540.61489 544.995 549.5095 551.937 555.2692">plants;(ii)hydropower,whereAfrica’sdeep,high-headreservoirs</tspan></text>
+<text xml:space="preserve" transform="matrix(.99949988 0 -0 1.0005003 -100 711)" font-size="8.961916" font-family="Linux Libertine T"><tspan y="-409.47615" x="318.1141 322.7295 325.15815 329.16413 331.5301">yield</tspan></text>
+<text xml:space="preserve" transform="matrix(.99949988 0 -0 1.0005003 -100 711)" font-size="8.961916" font-family="Linux Libertine T"><tspan y="-409.47615" x="359.01658">5</tspan></text>
+<text xml:space="preserve" transform="matrix(.99949988 0 -0 1.0005003 -100 711)" font-size="8.961916" font-family="Linux Libertine T"><tspan y="-409.47615" x="365.4538 369.6211">32</tspan></text>
+<text xml:space="preserve" transform="matrix(.99949988 0 -0 1.0005003 -100 711)" font-size="8.961916" font-family="Linux Libertine T"><tspan y="-409.47615" x="376.02888 380.76078 383.65547 388.0289 396.5517 403.62263">L/kWh[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-409.681" x="406.609 410.77839">39</tspan></text>
+<text xml:space="preserve" transform="matrix(.99949988 0 -0 1.0005003 -100 711)" font-size="8.961916" font-family="Linux Libertine T"><tspan y="-409.47615" x="415.15565 420.59556 424.9779 428.9839 432.31773 435.81288 440.57167 446.30729 450.78828 453.1542 457.67103 462.08927 466.18486 470.80027 474.8062 478.30137 481.13334 483.562 490.64195 494.73753 497.56947 501.57545 507.31108 511.82789">]versusglobalestimatesof</tspan></text>
+<text xml:space="preserve" transform="matrix(.99949988 0 -0 1.0005003 -100 711)" font-size="8.961916" font-family="Linux Libertine T"><tspan y="-409.47615" x="522.5574 526.72476 533.1414 537.87338 540.76809 545.13247 553.6552">22L/kWh</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0049876 0 -0 .99503728 -100 711)" font-size="9.01112" font-family="Linux Libertine T"><tspan y="-400.7106" x="316.377">[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-398.722" x="321.179 325.34837">27</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0049876 0 -0 .99503728 -100 711)" font-size="9.01112" font-family="Linux Libertine T"><tspan y="-400.7106" x="327.88267 331.0906 335.46104 339.5791 344.46315 351.25755 353.94285 356.38487 358.82685 361.26887 366.19798 371.082 375.8669 379.72367 382.1026 386.13059 390.24867 393.06916 397.29539 404.0267 408.8747 412.90269 416.18275 422.44548 426.30226 430.90693 435.44856 437.82749 440.2695 445.15354 451.9029 454.7504 458.84147 462.6982 467.5462 472.43025 476.97187 479.3508 483.8924 488.39799 495.27348 499.8331 502.27513 504.89735 507.5196 511.54756 514.8276 518.8555 523.73959 527.59628 531.6242 537.3823 542.023 544.4651 548.49307 550.87197">];and(iii)nuclear,wherecoolingtechnologydifferencesyield</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-387.763" x="317.749 321.91838 323.89097 328.06034 332.2297 338.6407 343.02528 347.03327 350.36878 353.86567 358.62684">1.515versus</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-387.763" x="370.06797 374.23735 376.20994 380.3793 386.79029 391.52455 394.4207 398.7963 407.32334 414.38887 418.87208 421.2392 425.75828 430.1787 434.27638 436.6435 439.01063 443.0993">2.12L/kWhglobally.</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-373.01695" x="331.24723 335.5522 340.02586 344.73915 349.68324 354.1569 358.54179 363.0154 367.7287 372.67283 376.13459 380.10227 382.44563 386.47547 390.2745 393.0794 397.10926 403.24278 407.04185 411.51548 416.22877 421.03974 423.8446 427.1466 429.55207 433.51979 438.62367 441.0469 447.2159 449.55928 453.9974 457.9651 461.2671 463.67256 467.729 471.3239 476.268 480.9813 485.79228 488.19773 491.6595 494.06495 498.1214 501.7163 506.66044 511.09855 515.6698 520.2766 523.08157 526.67648 530.7329 535.5438 541.66848 546.35519 548.7606 553.13668 557.70797 561.7644">Fourofourselectedcountries(Algeria,Tunisia,Egypt,andLibya)</tspan></text>
+<text xml:space="preserve" transform="matrix(.99548986 0 -0 1.0045307 -100 711)" font-size="8.92596" font-family="Linux Libertine T"><tspan y="-364.19496" x="319.3955 322.64457 326.63447 328.99095 335.82823 340.46083 343.78129 346.2002 353.2517 357.33088 360.65135 363.07026 365.4267 372.27293 376.7716 383.84989 389.61607 395.38227 401.49653 409.06578 413.52873 417.60789 421.08903 425.30207 431.9698 436.77195 439.1909 443.0112 450.05378 454.85597 458.93513 464.6656 467.4862 472.28837 478.5187 480.87516 485.31138 491.90769 495.89759 499.37873">relyprimarilyonCCGTgas,whichhasthelowest</tspan></text>
+<text xml:space="preserve" transform="matrix(.99548986 0 -0 1.0045307 -100 711)" font-size="8.92596" font-family="Linux Libertine T"><tspan y="-364.19496" x="517.12838 521.2075 528.25906 532.7577 537.5956 544.29898 547.11959 551.92178 555.9116 559.2321">amongther-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0029955 0 -0 .9970134 -100 711)" font-size="8.993259" font-family="Linux Libertine T"><tspan y="-355.9491" x="317.0054 324.11009 328.21998 332.8335 335.62144 340.39686 344.41685 346.79109 350.29847 354.52528 359.45359 366.0996 372.8805 376.72966 381.26225 386.03767 390.912 393.75389 397.09934 399.53654 403.55653 409.30323 411.98323 416.34495 420.87754 425.65296 428.4948 435.57255 441.82286 444.61079 447.95625 450.39344 454.24256 460.60078 464.7107 469.58503 476.37495 483.9203 488.45289 491.7264 496.32197 500.17109 504.0202 508.5528 513.47219 516.7547 520.77468 523.1489 530.0198 534.55239 541.6661 545.5152 550.04788 554.1578">malfuels.Twocountries(SouthAfricaandMorocco)relyoncoal</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-347.34925" x="314.556">(</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-347.34925" x="339.20277">2</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-347.34925" x="345.65953 349.8704 354.08128">008</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-347.34925" x="358.29216 360.99073 365.53666 372.30119 377.17314 379.62718 383.503 390.91954 393.3736 399.45899 404.33094 406.78498 411.3128 416.18476 420.2326 426.14595 429.0075 433.87944 438.01786 445.47969 450.00749 454.1459 460.22224 464.68666 469.49519 474.91047 478.44215 481.3037 483.75779 486.14845 491.08375 495.63874 499.68659 502.07728 506.57789 515.8961 518.7577 523.62966 530.2221 534.74996 537.1406 541.70468 546.1691 550.30758">),whichishigherthangasbutstillbelowtheglobal</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0059822 0 -0 .99405357 -100 711)" font-size="9.020038" font-family="Linux Libertine T"><tspan y="-334.9598" x="315.73423 322.40003 326.432 328.87644 333.38645 338.2392 341.08955 345.18464 351.98576 356.1079 360.51869 364.55067 367.9061 372.02827 376.53828 380.48005 384.69239 389.71659 394.13639 398.16838 405.2852 412.02317 414.4676 417.3179 424.40766 429.26045 431.70487 436.21488 441.06767 445.0996 450.683 455.22914 460.11799 463.6358 466.08024 468.93055 475.1995 483.99403 489.95628 497.2084 501.33058 506.21943 513.02059 518.3334 524.29568 531.55679 536.03976 540.16189 542.54318 547.33279 551.36477">weightedaverage.EvenwithhigheronsiteWUEandPUEvalues</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005485 0 -0 .994545 -100 711)" font-size="9.01558" font-family="Linux Libertine T"><tspan y="-323.7752" x="316.2205 319.06944 323.71247 328.39155 330.83479 334.69343 338.81358 343.42054 347.9644 352.98606 359.2519 362.04673 365.4005 367.84376 371.7024 375.82255 382.93583 387.4977 391.61787 394.4668 400.81379 404.67243 408.7024 413.58885 416.43778 420.4677 423.82154 429.56446">typicalofAfricandatacenters[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-322.009" x="435.152">3</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005485 0 -0 .994545 -100 711)" font-size="9.01558" font-family="Linux Libertine T"><tspan y="-323.7752" x="436.92448 440.134 444.34428 447.1932 452.04359 458.3004 462.84428 465.4678 468.09135 471.60743 474.05067 476.8996 483.1564 487.27656 491.83845 496.31916 500.4393 505.32575 508.17469 512.2948 516.80258 523.0594 527.67538 531.76846 535.7984 540.47756 546.22048 549.0694 553.6132">],theoffsiteadvantagekeepsto-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-314.1451" x="314.82237 317.68394 321.82234 326.5584 333.32295 337.46138 340.32295 344.3708 350.07585 353.95164 358.51567 363.4238 366.95549 371.764 378.91798 383.61784 386.4794 388.93348 393.4975 400.75105 405.30604 409.35389 411.74455 416.24519 425.3551 428.21669 433.08863 439.4728 444.00065 446.3913 450.95533 455.41978 459.55818 464.29426 467.5905 471.63838 474.44563 478.49348 481.78977 485.83763 490.74574 494.62156 501.0148 503.82206 508.38609 514.0911 520.64736 525.21139 530.364 533.22567 538.09756 544.4818 548.6926">talwaterconsumptionbelowtheglobalreferencefor9ofthe11</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-300.092" x="317.955 321.7926 326.31169 331.07286 335.93266 338.76603 342.10154 344.53144 348.53944 352.03633">countries.</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-286.22709" x="331.24723 335.5522 339.58207 343.3811 347.85475 352.6657 357.1571 361.33787 364.14274 368.91819 375.10499 378.33598 382.30366 385.7654 390.47874 392.82206 395.62696 401.31669 403.72215 410.76106 415.06605 417.4715 421.90965 425.3714 429.54328 435.8987 439.95518 444.76615 451.48548 457.83207 460.23753 465.04847 469.53987 471.94535 475.7444 479.80085 482.6057 488.8014 495.08583 498.54759 501.35246 504.58348 509.0571 513.86807 520.52529 523.7562 527.7239 530.0672 534.12368 536.9286 539.33407 543.80776 548.61868 552.0804 556.8558 559.2612">Second,theresultsinFigs.2and3indicateastrongrelationship</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0004999 0 -0 .99950036 -100 711)" font-size="8.970882" font-family="Linux Libertine T"><tspan y="-278.31309" x="317.79615 322.3085 326.31849 329.1533 335.78276 339.85554 343.86555 350.97047 353.80528 358.6316 364.88429 368.8943 371.2626 375.3354 379.17494 382.00975 385.3469 387.77799 391.61756 394.04866 396.88343 403.74617 406.52714 411.29069 415.3007 419.9117 426.99873 429.4298 436.06828 440.16795 445.03019 451.81217 458.5134 462.6131 465.44789 469.4579 475.02879 478.86833 483.38966 488.2519 491.75053 496.51408 503.60108 508.25697 511.09178 513.5228 518.0441 522.9064 527.1227 532.11947 534.9543 539.7806 542.2117 546.733 551.38888 553.81997">betweentheelectricityfuelmixandwaterconsumption.Ethiopia</tspan></text>
+<text xml:space="preserve" transform="matrix(.99347886 0 -0 1.0065641 -100 711)" font-size="8.9079279" font-family="Linux Libertine T"><tspan y="-265.47239" x="320.04206 324.11299 328.94105 335.70219 340.93116 344.91297 349.5362 354.2663 358.65794 361.0096 363.42369 369.48997 373.97959 378.99473 384.74928 389.23887 394.06697 398.52095 405.26426 409.33518 412.57768 418.8043 421.6192 426.41166 432.6472 437.1368 441.96488 444.3166 451.1579 454.97047 459.46009 464.19017 469.01826 471.83317 475.1469 477.56098 481.54283 487.2706 491.1901 495.555 499.36756 503.41178 507.45597 511.96339 514.37747 519.20559 525.9132 528.72817 533.5206 539.75619 544.21017 546.5619 551.05148 555.4431 559.514">andRepublicofCongoaretheonlycountriesexceedingtheglobal</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-258.80589" x="314.82237 318.96076 323.38899 327.43687 330.80555 334.94398 339.47178 343.42909 348.37345 352.9556 356.3243 358.77836 363.2066 367.25447 375.11473 379.57914 387.19493 390.0565 394.9284 398.9763 401.43034 407.75117 412.6231 416.67097 420.8094 425.44587 433.06166 436.3579 440.40577 442.79646 445.2505 449.38893 454.29707 458.17286 465.17286 469.73686 477.58808 482.46 487.06025 491.6424 494.93867 499.56608 503.61396 506.0046 510.1068 513.9826 516.8442 520.2129 522.667 529.49496 534.2582 538.75888 545.4509 549.4988">average,drivenbytheirheavyrelianceonhydroelectricpower</tspan><tspan y="-247.73783" x="314.556 317.2546 321.46549 325.67637 327.66859 331.87947 340.0748 344.2132 349.12135 356.1304 360.34129 364.55216 366.54438 370.75526 378.94154 382.2378 386.28565 389.81736 394.58064 398.69187 402.5677 405.42924 407.8833 412.31153 416.3594 418.75007 425.8406">(95.7%and99.6%respectively[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-245.297" x="433.335 437.50437">37</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-247.73783" x="437.32243 440.54624 443.2448 447.66398 454.4285 459.3004 461.7545 465.63029 472.92915 477.80107 481.93949 487.889 490.75059 495.6225 502.09727 506.9692 509.42329 513.9511 518.82308 522.8709 526.4026 531.6911 538.4556 542.59408 545.4557 549.50357">]),whichhasthehighestwater</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-231.9828" x="321.18305 323.5885 328.39949 331.20439 335.17207 339.98304 343.4448 345.85026 348.65516 355.1526 359.64399 364.35728 370.26 373.0649 379.4647 382.69569 386.6634 390.12516 394.09288 397.52799 401.86854 406.34217 408.74763 413.97578 417.88133 422.29286 426.3493 431.01826 435.49189 438.79389 442.85035 445.6552 448.0607 452.53434 459.28034">intensityduetoreservoirevaporation[</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-231.9828" x="483.16609 486.32606 490.21388 495.94798 500.4216 505.1349 509.94587 512.75076 516.05276 518.4582 522.4259 527.8138 534.4444 536.84988 539.6548 546.3563 553.3686 557.9044 562.3959">].Countrieswithmod-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-225.60173" x="314.82237 318.8702 322.2389 326.37733 329.2389 336.3747 341.24665 345.83787 350.42 353.71629 361.35923 364.8909 369.76286 373.90126 377.20658 381.25444 384.7861 389.85728 393.38896 398.19749 402.0733 410.03318 414.1716 420.78224 427.1121 431.2505 438.40446 440.8585 445.32295 447.777 451.9154 456.9956 462.31126 469.07579 473.2142 478.1223 482.70448 486.8429 491.92308 496.0615 500.96965 508.6307 514.8338 518.9722 523.5272 528.09127 532.9994 538.0796 542.2181 544.60879 548.14047">eratehydroshares,suchasNamibia,Rwanda,andGabon,also</tspan></text>
+<text xml:space="preserve" transform="matrix(.9944848 0 -0 1.0055457 -100 711)" font-size="8.916949" font-family="Linux Libertine T"><tspan y="-211.24848" x="319.71833 323.79338 328.4213 333.0492 336.29496 340.7891 344.86415 348.6806 355.7161 358.53385 363.33119 369.5552 374.01368 376.36778 380.8619 385.25798 389.33305 393.92527 398.0003 402.3607 406.3466 409.66368 413.73875 418.1972 422.09394 426.2938 431.09114 433.5076 437.9661 442.76344 445.11753 447.534 451.9925 456.78984 459.60758 462.02409 466.85707 473.5537 476.37147 481.1688 487.39283 491.9048 494.3213 497.7989 502.42683 505.67256 510.16673 514.85708 519.3512 522.6683 525.4861 527.9025 532.3967 537.2297 541.3047 544.12246 550.34646 552.76296 559.8073">approachtheglobalaverage,highlightingthedisproportionateim-</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-199.43624" x="321.18305 325.78984 329.84629 333.64533 338.6693 343.14295 348.12257 352.898 357.3894 361.8808 365.1118 371.80455 376.27818 383.31709 389.94767 394.00413 396.80903 400.7767 406.2978 411.01109 414.47285 418.5293 422.9674 426.84638 431.01826 433.6545 440.68455 444.48359 448.95726 453.7682 456.5731 459.87507 463.93153 467.39329 470.19819 474.37895 478.81709 482.87355 486.3353 489.33549 493.82688 498.3005 505.3128 507.71827 512.52926 516.5857 519.39059 523.4204 530.1309 533.92996 538.4036 543.11697 547.92788 550.7328 554.0348 556.44027 560.4079">pactofhydroonwaterusage.Incontrast,gas-dominatedcountries</tspan><tspan y="-188.58838" x="320.91136 323.40559 327.27568 329.22846 333.66658 335.6194 339.3918 345.56086 347.90419 352.34233 356.31004 359.612 362.01747 366.0739 369.8375 374.7816 379.49488 384.30586 386.7113 390.17308 392.57853 396.63499 400.39857 404.45503 409.26597 415.57704 420.52113 424.95924 429.53053 434.1373 436.9422 441.3981 445.30369 449.65306 454.4285 456.83396 461.20997 463.61543 468.23109 471.03599 475.81144 481.5899 483.93327 488.34477 494.90434 498.87205 502.3338 506.94947 513.58 517.6365 520.4414 524.40908 529.5218 533.32089 537.79458 542.60549 546.0672 550.7805 557.7928 562.39956">(e.g.,Algeria,Tunisia,andEgypt)exhibitthelowestwaterconsump-</tspan><tspan y="-177.73952" x="321.18305 323.98796 326.3934 330.86705 335.678 339.78773 346.4183 351.19377 353.5992 355.94258 362.07609 365.87513 370.34877 374.4052 376.74858 379.74876 384.12477 388.1812 391.64299 395.67283 402.32118 405.78294 410.3542 413.81599 416.62086 420.58857 427.60084 433.22843 435.98008 440.03654 442.37989 446.88017 449.2856 456.2624 460.72715 464.69486 467.49977 474.05934 478.08918 482.0569 486.86784 490.97758 497.29747 501.63798 505.60569 508.90769 512.9641 515.3075 517.6508 521.7694 526.1809 530.23739 533.53939 535.9448 540.0013 542.8062 545.2117 549.68539 556.6532 559.05868">tion,whilecoal-basedsystemsfallinbetween.Overall,variationin</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044899 0 -0 .9955301 -100 711)" font-size="9.006659" font-family="Linux Libertine T"><tspan y="-169.34194" x="316.20329 322.93125 327.04728 329.8934 333.91938 339.49449 343.34934 347.88868 352.7703 356.2829 361.06544 368.18074 372.85517 375.70127 378.14207 382.6814 389.78767 392.22846 397.9747 405.08998 409.62934 412.9077 419.15837 422.67097 425.51707 428.79548 433.3348 438.21644 442.71977 445.0975 451.96058 454.33833 456.7791 461.6607 466.27214 470.36116 477.14317 479.98927 486.75325 490.7792 493.15699 497.246 501.10087 503.94697 507.29743 509.73826 513.5931 516.0339 518.88 525.74307 528.53518 533.3177 537.3437 541.9551 549.0703 551.51119">waterconsumptionismorestronglylinkedtoelectricityfuelmix</tspan></text>
+<text xml:space="preserve" transform="matrix(.997998 0 -0 1.002006 -100 711)" font-size="8.948449" font-family="Linux Libertine T"><tspan y="-157.31043" x="318.59284 321.42054 326.2348 330.32426 337.42933 340.25706 347.02207 350.852 353.2144 355.6394 362.70869 366.79814 369.62583 373.53633 377.76896 384.45344 386.87846 389.70619 396.77546 401.5897 406.12657 410.65449 413.9117 418.48435 422.48429 424.84669 428.90928 432.7392 435.5669 438.89573 441.32075 447.40568 450.89558 455.70985 459.7993 463.05656 469.3115 473.31147 480.3807 484.38069 487.7095 492.18376 494.60877 499.45884 506.18806 510.27754 516.0314 518.859 523.6733 529.9282 534.5725 537.9013 540.3263 547.39559 551.485 554.94808">thantoclimate,withhydroelectricshareemergingastheprimary</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -100 711)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-146.667" x="317.955 322.49198 325.82749 328.2574 332.64198 336.64997 339.45646">driver.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-137.05837" x="324.6872 330.00285 334.0507 338.57853 342.71693 346.0132 350.59538 353.0494 357.95756 364.69496 367.08564 371.13349 375.2719 379.9084 384.04679 388.57463 392.53193 396.74278 400.61857 405.1826 409.99113 414.89927 417.76084 421.12953 423.5836 427.63145 433.3727 435.82679 442.9445 447.52665 451.5745 455.1062 459.15406 462.52278 467.5939 470.89018 474.93806 479.46586 481.91993 486.48396 491.3921 497.1424 499.687 503.64433 505.63655 510.16435 512.1566 516.35848 521.1398 523.5939 528.0583 532.7219 539.06997 543.2084 548.1165">Regardingleakage,countriesindesertregions(e.g.,Libyaand</tspan><tspan y="-125.99032" x="314.82237 319.86634 324.39418 329.0578 333.7577 336.61927 341.80815 345.79258 350.22987 355.10179 357.55586 362.02027 364.47434 369.83528 374.7072 377.16127 381.6891 386.56105 390.6089 396.46788 398.85856 402.9064 407.04484 411.6813 415.81974 420.34754 426.88569 430.2544 434.39283 437.2544 441.30226 447.32423 451.90638 455.95423 459.48594 464.1858 466.63987 469.50144 476.04866 480.9206 485.05903 489.55967 492.01374 496.92189 503.93998 506.33067 510.83128 517.5234 521.5712 527.43026 531.9399 536.36807 540.4159 543.7846 547.9231 550.3138">Egypt)exhibithigherleakageratesdespitehavingloweroverall</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101525 -100 711)" font-size="8.876284" font-family="Linux Libertine T"><tspan y="-112.64636" x="320.8477 327.47825 331.5347 334.3396 338.3073 343.4733 347.27235 351.746 356.55696 360.0187 364.732 371.7443 376.35108 379.15599 381.56144 386.03507 392.70118 395.50605 400.2815 404.33796 411.0129 413.8178 418.59327 424.4161 428.85423 431.19758 435.6712 440.0472 444.10368 448.31105 452.3675 456.708 460.67573 463.97773 468.03419 472.4723 476.34239 480.15919 485.4583 490.23377 492.63923 497.965 502.74046 505.1459 509.584 514.3595 516.7028 519.10836 523.54647 528.3219 531.12686 536.44369 539.2486 544.024 549.8557 553.0867 557.5603 559.9036">waterconsumptionthantheglobalaverage.Thishighlightstherole</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0024968 0 -0 .9975093 -100 711)" font-size="8.988789" font-family="Linux Libertine T"><tspan y="-103.08777" x="317.1631 321.69343 326.70018 333.4148 337.52268 340.3631 344.3811 349.95414 352.39009 357.26203 360.04856 363.39237 367.50025 371.00587 373.84635 377.19017 381.96324 385.81044 388.65089 393.42393 396.69587 402.93406 405.37004 410.24195 414.25993 416.74385 419.22776 421.71165 425.55885 427.9948 432.0128 436.8847 440.73194 443.16789 447.18589 452.9117 455.3477 462.43986 466.40388 470.80839 474.91627 478.76347 482.78144 486.12528 490.55674 494.6646 497.50508 499.93205 504.81297 511.5276 518.2422 522.35006 525.1905 529.2085 534.7725 537.14559 541.67599 545.1816 548.68728 552.70529 556.2109">ofwaterinfrastructureinefficienciesinexacerbatingwaterlosses.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -100 711)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-92.78618" x="314.82237 320.13798 324.18586 328.71366 331.16773 335.73176 340.6399 347.1056 350.6373 355.44584 359.32164 367.1276 371.26603 377.73173 380.5933 385.46525 392.43806 396.83003 399.6916 403.73945 408.43934 413.2026 420.18449 424.3229 429.23106 436.74723 441.1392 445.27763 449.77827 453.9167 458.8248 463.73295 470.8054 475.67735 479.81575 484.24397 491.22587 495.2737 497.66438 501.64884 506.1495 510.2879 513.14956 517.26077 524.7769 527.1676 531.21548 535.35397 539.9904 544.12887 548.6567">RegionssuchastheSteppeandSavannahaveelevatedleakage</tspan></text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,1071 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="517" height="95" viewBox="0 0 517 95">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-48,742)" d="M48 647H565V742H48Z" />
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,-48,742)" d="M0 0H612V792H0Z" />
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.31065,0,0,-.31065,1.9039993,71.586)" d="M0 0H396V231.75H0Z" />
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.31065,0,0,-.31065,1.9039993,71.586)" d="M.000006214 .000076294H396V231.75008H.000006214Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M0 0H402.75V239.26H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_15">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_16">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_17">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_18">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_19">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_20">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_21">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_23">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_24">
+<path transform="matrix(.31065,0,0,-.31065,128.062,71.586)" d="M0 0H396V231.75H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_25">
+<path transform="matrix(.31065,0,0,-.31065,128.062,71.586)" d="M.000006214 .000076294H396V231.75008H.000006214Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_26">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M0 0H402.75V239.26H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_27">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M84.75 63.762H391.5V225.012H84.75Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_28">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_29">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_30">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_31">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_32">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_33">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_34">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_35">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_36">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_37">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_38">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_39">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_40">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_41">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_42">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_43">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.00000599 .0121H402V238.5121H.00000599Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_44">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_45">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_46">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_47">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_48">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_49">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M.000006001 .0121H402.75V239.2621H.000006001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_50">
+<path transform="matrix(.28035,0,0,-.28035,263.978,93.36902)" d="M0 0H895.5V334.5H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(.28035,0,0,-.28035,263.978,93.36902)" d="M.50727 334.5H895.5V330.19H.50727V334.5Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M0 0H873.74V274.51H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_53">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M61.875 134.26H868.13V133.51H61.875ZM61.875 166.51H868.13V165.76H61.875ZM61.875 199.51H868.13V198.76H61.875ZM61.875 231.76H868.13V231.01H61.875ZM61.875 264.76H868.13V264.01H61.875Z" />
+</clipPath>
+<clipPath id="clip_54">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M61.5 100.51H868.5V264.76H61.5Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_55">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_56">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_57">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_58">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_59">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_60">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_61">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_62">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_63">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_64">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_66">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_67">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_68">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_69">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_70">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_71">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_72">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_73">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_74">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_75">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_76">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_77">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_78">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_79">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_80">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_81">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_82">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_83">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_84">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_85">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_86">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_87">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_88">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_89">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_90">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_91">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_92">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_93">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_94">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_95">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_96">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_97">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_98">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_99">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_100">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_101">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_102">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_103">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_104">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_105">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_106">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_107">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_108">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_109">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_110">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_111">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_112">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_113">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_114">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_115">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.000013009 .0080566H873V274.50807H.000013009Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_116">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.00001302 .0080566H873.75V274.50807H.00001302Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_117">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.00001302 .0080566H873.75V274.50807H.00001302Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_118">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.00001302 .0080566H873.75V274.50807H.00001302Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_119">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M.00001302 .0080566H873.75V274.50807H.00001302Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_120">
+<path transform="matrix(.28035,0,0,-.28035,263.978,93.36902)" d="M.000013855 .000091553H895.5V327.5901H.000013855Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_121">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M0 0H896.25V320.26H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_122">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_123">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_124">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_125">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_126">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_127">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_128">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_129">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M86.25 50.262H873V308.262H86.25Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_130">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_131">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_132">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_133">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_134">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_135">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_136">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_137">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_138">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_139">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_140">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_141">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_142">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_143">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_144">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_145">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_146">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_147">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_148">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_149">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_150">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_151">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_152">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_153">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_154">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_155">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.75001 .012115H895.5V319.51213H.75001Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_156">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.000013355 .012115H896.25V320.26213H.000013355Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_157">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.000013355 .012115H896.25V320.26213H.000013355Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_158">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.000013355 .012115H896.25V320.26213H.000013355Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_159">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.000013355 .012115H896.25V320.26213H.000013355Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_160">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M.000013355 .012115H896.25V320.26213H.000013355Z" clip-rule="evenodd" />
+</clipPath>
+</defs>
+<g clip-path="url(#clip_1)">
+<g clip-path="url(#clip_2)">
+<g>
+<g clip-path="url(#clip_3)">
+<g clip-path="url(#clip_4)">
+<g clip-path="url(#clip_5)">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#d9d9d9" d="M85.875 64.137H391.88M85.875 96.387H391.88M85.875 128.64H391.88M85.875 160.14H391.88M85.875 192.39H391.88M85.875 224.64H391.88" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M85.875 64.137H391.875V224.637H85.875Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="2.25" stroke-linecap="round" stroke-dasharray="4.5,4.5" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M111.38 65.637H162.38 213.38 264.38 315.38 366.38" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M110.95 68.807 114.7 61.307H107.2Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M110.95 68.807 114.7 61.307H107.2Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M161.95 68.807 165.7 61.307H158.2Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M161.95 68.807 165.7 61.307H158.2Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M212.95 68.807 216.7 61.307H209.2Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M212.95 68.807 216.7 61.307H209.2Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M263.95 68.807 267.7 61.307H260.2Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M263.95 68.807 267.7 61.307H260.2Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M314.95 68.807 318.7 61.307H311.2Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M314.95 68.807 318.7 61.307H311.2Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M365.95 68.807 369.7 61.307H362.2Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M365.95 68.807 369.7 61.307H362.2Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M111.38 68.637 162.38 72.387 213.38 79.137 264.38 92.637 315.38 118.14 366.38 139.89" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M115.45 68.433C115.45 65.74 113.26 63.558 110.57 63.558 107.88 63.558 105.7 65.74 105.7 68.433 105.7 71.125 107.88 73.307 110.57 73.307 113.26 73.307 115.45 71.125 115.45 68.433Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M115.45 68.433C115.45 65.74 113.26 63.558 110.57 63.558 107.88 63.558 105.7 65.74 105.7 68.433 105.7 71.125 107.88 73.307 110.57 73.307 113.26 73.307 115.45 71.125 115.45 68.433Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M166.45 72.933C166.45 70.24 164.26 68.058 161.57 68.058 158.88 68.058 156.7 70.24 156.7 72.933 156.7 75.625 158.88 77.807 161.57 77.807 164.26 77.807 166.45 75.625 166.45 72.933Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M166.45 72.933C166.45 70.24 164.26 68.058 161.57 68.058 158.88 68.058 156.7 70.24 156.7 72.933 156.7 75.625 158.88 77.807 161.57 77.807 164.26 77.807 166.45 75.625 166.45 72.933Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M217.45 79.683C217.45 76.99 215.26 74.808 212.57 74.808 209.88 74.808 207.7 76.99 207.7 79.683 207.7 82.375 209.88 84.557 212.57 84.557 215.26 84.557 217.45 82.375 217.45 79.683Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M217.45 79.683C217.45 76.99 215.26 74.808 212.57 74.808 209.88 74.808 207.7 76.99 207.7 79.683 207.7 82.375 209.88 84.557 212.57 84.557 215.26 84.557 217.45 82.375 217.45 79.683Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M268.45 93.183C268.45 90.49 266.26 88.308 263.57 88.308 260.88 88.308 258.7 90.49 258.7 93.183 258.7 95.875 260.88 98.057 263.57 98.057 266.26 98.057 268.45 95.875 268.45 93.183Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M268.45 93.183C268.45 90.49 266.26 88.308 263.57 88.308 260.88 88.308 258.7 90.49 258.7 93.183 258.7 95.875 260.88 98.057 263.57 98.057 266.26 98.057 268.45 95.875 268.45 93.183Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M319.45 117.93C319.45 115.24 317.26 113.06 314.57 113.06 311.88 113.06 309.7 115.24 309.7 117.93 309.7 120.62 311.88 122.81 314.57 122.81 317.26 122.81 319.45 120.62 319.45 117.93Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M319.45 117.93C319.45 115.24 317.26 113.06 314.57 113.06 311.88 113.06 309.7 115.24 309.7 117.93 309.7 120.62 311.88 122.81 314.57 122.81 317.26 122.81 319.45 120.62 319.45 117.93Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M370.45 139.68C370.45 136.99 368.26 134.81 365.57 134.81 362.88 134.81 360.7 136.99 360.7 139.68 360.7 142.37 362.88 144.56 365.57 144.56 368.26 144.56 370.45 142.37 370.45 139.68Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M370.45 139.68C370.45 136.99 368.26 134.81 365.57 134.81 362.88 134.81 360.7 136.99 360.7 139.68 360.7 142.37 362.88 144.56 365.57 144.56 368.26 144.56 370.45 142.37 370.45 139.68Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4.5,6" stroke-linejoin="round" fill="none" stroke="#000000" d="M111 70.512 162 76.512 213 88.512 264 113.26 315 162.01 366 224.26" />
+<g clip-path="url(#clip_6)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-59.537" x="51.3 59.5496">0%</tspan></text>
+</g>
+<g clip-path="url(#clip_7)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-91.587" x="43.175 51.4246 59.6742">20%</tspan></text>
+</g>
+<g clip-path="url(#clip_8)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-123.66" x="43.175 51.4246 59.6742">40%</tspan></text>
+</g>
+<g clip-path="url(#clip_9)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-155.74" x="43.175 51.4246 59.6742">60%</tspan></text>
+</g>
+<g clip-path="url(#clip_10)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-187.81" x="43.175 51.4246 59.6742">80%</tspan></text>
+</g>
+<g clip-path="url(#clip_11)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-219.89" x="35.05 43.2818 51.5136 59.0186">100%</tspan></text>
+</g>
+<g clip-path="url(#clip_12)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="103.18 111.4546">16</tspan></text>
+</g>
+<g clip-path="url(#clip_13)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="154.27 162.5446">32</tspan></text>
+</g>
+<g clip-path="url(#clip_14)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="205.38 213.6546">64</tspan></text>
+</g>
+<g clip-path="url(#clip_15)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="252.43 260.7046 268.9792">128</tspan></text>
+</g>
+<g clip-path="url(#clip_16)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="303.52 311.7946 320.06919">256</tspan></text>
+</g>
+<g clip-path="url(#clip_17)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="354.63 362.9046 371.1792">512</tspan></text>
+</g>
+<g clip-path="url(#clip_18)">
+<text xml:space="preserve" transform="matrix(-.000000016396817 -.32079 .3216637 -.00000001411476 -2.8688274 76.08017)" font-size="15.775" font-family="Calibri"><tspan y="27.500002" x="40.862 54.39695 62.710374">Mod</tspan><tspan y="27.500004" x="70.99225 78.4696 82.224048 86.735698 94.24459 100.99629">el FLO</tspan><tspan y="27.500006" x="111.534 119.8001 127.309 130.3378 140.1183 145.40293 149.15738">PS Util</tspan><tspan y="27.500008" x="152.91184 156.66629 162.69234 170.24857 175.53319 179.25609 187.56952">ization</tspan><tspan y="27.50001" x="195.8514 200.31572 204.84316 216.12229"> (%)</tspan></text>
+</g>
+<g clip-path="url(#clip_19)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-16.062" x="206.93 215.2092 222.7774 227.99141 234.7538 243.0488 247.5202 253.54 257.26878 263.28858">Batch size</tspan></text>
+</g>
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M100.13 173.64H244.13V213.39H100.13Z" fill="#ffffff" fill-rule="evenodd" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M100.13 173.64H244.13V213.39H100.13Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="2.25" stroke-linecap="round" stroke-dasharray="4.5,4.5" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M109.88 203.64H135.38" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M122.25 207.76 126 200.26H118.5Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M122.25 207.76 126 200.26H118.5Z" />
+<g clip-path="url(#clip_20)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-199.06" x="138.43 148.21019 156.47359 166.98059 172.24199 179.0044 186.52519 194.7886 202.29361 206.79662 210.52542 219.53142 227.82642 231.53942">GPU(L40S) only</tspan></text>
+</g>
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M109.88 183.39H135.38" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" d="M126.75 183.76C126.75 181.28 124.74 179.26 122.25 179.26 119.76 179.26 117.75 181.28 117.75 183.76 117.75 186.25 119.76 188.26 122.25 188.26 124.74 188.26 126.75 186.25 126.75 183.76Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,-2.8688274,76.08017)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M126.75 183.76C126.75 181.28 124.74 179.26 122.25 179.26 119.76 179.26 117.75 181.28 117.75 183.76 117.75 186.25 119.76 188.26 122.25 188.26 124.74 188.26 126.75 186.25 126.75 183.76Z" />
+<g clip-path="url(#clip_21)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="15.8" font-family="Calibri"><tspan y="-179.04" x="138.43 148.21019 156.47359 166.98059 175.244 185.0242 193.2876">GPU+HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_22)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="12.775" font-family="Calibri"><tspan y="-200.21" x="275.38 281.40983 288.1678 294.19758 300.95555 305.43955 311.46934 315.95338 318.94273 324.2188 330.24864">Theoretical</tspan></text>
+</g>
+<g clip-path="url(#clip_23)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 -2.8688274 76.08017)" font-size="12.8" font-family="Calibri"><tspan y="-184.44" x="277.63 288.1388 294.1676 299.4412 302.4492 312.95799 319.71638">maximum</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.4682" font-family="Nimbus Roman No9 L"><tspan y="-657.323" x="79.332 82.15191 85.91179 91.695568 99.22379 103.93211 113.010028 117.244129 123.0279 128.20197 132.43607 136.67017 141.37848">(a)MFUofL40S.</tspan></text>
+<g>
+<g clip-path="url(#clip_24)">
+<g clip-path="url(#clip_25)">
+<g clip-path="url(#clip_26)">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M85.5 64.512H391.5V224.262H85.5Z" fill="#ffffff" fill-rule="evenodd" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#d9d9d9" d="M85.125 64.137H391.13M85.125 96.387H391.13M85.125 128.64H391.13M85.125 160.14H391.13M85.125 192.39H391.13M85.125 224.64H391.13" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M85.125 64.137H391.125V224.637H85.125Z" />
+<g clip-path="url(#clip_27)">
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="2.25" stroke-linecap="round" stroke-dasharray="4.5,4.5" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M110.63 64.887H161.63L212.63 65.637H263.63 314.63 365.63" />
+</g>
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M110.72 68.807 114.47 61.307H106.97Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M110.72 68.807 114.47 61.307H106.97Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M161.72 68.807 165.47 61.307H157.97Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M161.72 68.807 165.47 61.307H157.97Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M212.72 68.807 216.47 61.307H208.97Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M212.72 68.807 216.47 61.307H208.97Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M263.72 68.807 267.47 61.307H259.97Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M263.72 68.807 267.47 61.307H259.97Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M314.72 68.807 318.47 61.307H310.97Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M314.72 68.807 318.47 61.307H310.97Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M365.72 68.807 369.47 61.307H361.97Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M365.72 68.807 369.47 61.307H361.97Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M110.63 69.387 161.63 73.887 212.63 84.387 263.63 99.387 314.63 118.14 365.63 124.89" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M115.22 69.932C115.22 67.24 113.03 65.057 110.34 65.057 107.65 65.057 105.47 67.24 105.47 69.932 105.47 72.625 107.65 74.807 110.34 74.807 113.03 74.807 115.22 72.625 115.22 69.932Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M115.22 69.932C115.22 67.24 113.03 65.057 110.34 65.057 107.65 65.057 105.47 67.24 105.47 69.932 105.47 72.625 107.65 74.807 110.34 74.807 113.03 74.807 115.22 72.625 115.22 69.932Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M166.22 73.682C166.22 70.99 164.03 68.807 161.34 68.807 158.65 68.807 156.47 70.99 156.47 73.682 156.47 76.375 158.65 78.557 161.34 78.557 164.03 78.557 166.22 76.375 166.22 73.682Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M166.22 73.682C166.22 70.99 164.03 68.807 161.34 68.807 158.65 68.807 156.47 70.99 156.47 73.682 156.47 76.375 158.65 78.557 161.34 78.557 164.03 78.557 166.22 76.375 166.22 73.682Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M217.22 84.932C217.22 82.24 215.03 80.057 212.34 80.057 209.65 80.057 207.47 82.24 207.47 84.932 207.47 87.625 209.65 89.807 212.34 89.807 215.03 89.807 217.22 87.625 217.22 84.932Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M217.22 84.932C217.22 82.24 215.03 80.057 212.34 80.057 209.65 80.057 207.47 82.24 207.47 84.932 207.47 87.625 209.65 89.807 212.34 89.807 215.03 89.807 217.22 87.625 217.22 84.932Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M268.22 99.182C268.22 96.49 266.03 94.307 263.34 94.307 260.65 94.307 258.47 96.49 258.47 99.182 258.47 101.87 260.65 104.06 263.34 104.06 266.03 104.06 268.22 101.87 268.22 99.182Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M268.22 99.182C268.22 96.49 266.03 94.307 263.34 94.307 260.65 94.307 258.47 96.49 258.47 99.182 258.47 101.87 260.65 104.06 263.34 104.06 266.03 104.06 268.22 101.87 268.22 99.182Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M319.22 117.93C319.22 115.24 317.03 113.06 314.34 113.06 311.65 113.06 309.47 115.24 309.47 117.93 309.47 120.62 311.65 122.81 314.34 122.81 317.03 122.81 319.22 120.62 319.22 117.93Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M319.22 117.93C319.22 115.24 317.03 113.06 314.34 113.06 311.65 113.06 309.47 115.24 309.47 117.93 309.47 120.62 311.65 122.81 314.34 122.81 317.03 122.81 319.22 120.62 319.22 117.93Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M370.22 124.68C370.22 121.99 368.03 119.81 365.34 119.81 362.65 119.81 360.47 121.99 360.47 124.68 360.47 127.37 362.65 129.56 365.34 129.56 368.03 129.56 370.22 127.37 370.22 124.68Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M370.22 124.68C370.22 121.99 368.03 119.81 365.34 119.81 362.65 119.81 360.47 121.99 360.47 124.68 360.47 127.37 362.65 129.56 365.34 129.56 368.03 129.56 370.22 127.37 370.22 124.68Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4.5,6" stroke-linejoin="round" fill="none" stroke="#000000" d="M111 76.512 162 88.512 213 112.51 264 159.76 315 223.51H366" />
+<g clip-path="url(#clip_28)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-59.537" x="51.05 59.3246">0%</tspan></text>
+</g>
+<g clip-path="url(#clip_29)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-91.587" x="42.925 51.1996 59.4742">20%</tspan></text>
+</g>
+<g clip-path="url(#clip_30)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-123.66" x="42.925 51.1996 59.4742">40%</tspan></text>
+</g>
+<g clip-path="url(#clip_31)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-155.74" x="42.925 51.1996 59.4742">60%</tspan></text>
+</g>
+<g clip-path="url(#clip_32)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-187.81" x="42.925 51.1996 59.4742">80%</tspan></text>
+</g>
+<g clip-path="url(#clip_33)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-219.89" x="34.8 43.0634 51.3268 58.847604">100%</tspan></text>
+</g>
+<g clip-path="url(#clip_34)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="102.95 111.1996">16</tspan></text>
+</g>
+<g clip-path="url(#clip_35)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="154.05 162.3246">32</tspan></text>
+</g>
+<g clip-path="url(#clip_36)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="205.15 213.42459">64</tspan></text>
+</g>
+<g clip-path="url(#clip_37)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="252.2 260.4496 268.6992">128</tspan></text>
+</g>
+<g clip-path="url(#clip_38)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="303.3 311.5746 319.84919">256</tspan></text>
+</g>
+<g clip-path="url(#clip_39)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-38.662" x="354.4 362.6746 370.9492">512</tspan></text>
+</g>
+<g clip-path="url(#clip_40)">
+<text xml:space="preserve" transform="matrix(-.000000016396817 -.32079 .3216637 -.00000001411476 123.152179 76.05625)" font-size="15.775" font-family="Calibri"><tspan y="27.275002" x="40.862 54.39695 62.710374">Mod</tspan><tspan y="27.275004" x="70.99225 78.4696 82.224048 86.735698 94.24459 100.99629">el FLO</tspan><tspan y="27.275006" x="111.534 119.8001 127.309 130.3378 140.1183 145.40293 149.15738">PS Util</tspan><tspan y="27.275008" x="152.91184 156.66629 162.69234 170.24857 175.53319 179.25609 187.56952">ization</tspan><tspan y="27.27501" x="195.8514 200.31572 204.84316 216.12229"> (%)</tspan></text>
+</g>
+<g clip-path="url(#clip_41)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-16.062" x="206.7 214.9476 222.4526 227.7456 234.429 242.724 247.1796 253.1836 256.91239 262.91639">Batch size</tspan></text>
+</g>
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M100.88 171.39H248.63V213.39H100.88Z" fill="#ffffff" fill-rule="evenodd" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M100.88 171.39H248.63V213.39H100.88Z" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="2.25" stroke-linecap="round" stroke-dasharray="4.5,4.5" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M110.63 202.89H136.13" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M123 207.01 126.75 199.51H119.25Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#53b5c9" d="M123 207.01 126.75 199.51H119.25Z" />
+<g clip-path="url(#clip_42)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-198.51" x="139.13 148.9102 157.1736 167.6806 172.942 182.7222 190.98561 199.24903 206.76982 212.03122 215.79163 224.07083 232.36583 236.11043">GPU(H100) only</tspan></text>
+</g>
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M110.63 181.89H136.13" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M127.5 182.26C127.5 179.78 125.49 177.76 123 177.76 120.51 177.76 118.5 179.78 118.5 182.26 118.5 184.75 120.51 186.76 123 186.76 125.49 186.76 127.5 184.75 127.5 182.26Z" fill="#ffffff" />
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#f5750b" d="M127.5 182.26C127.5 179.78 125.49 177.76 123 177.76 120.51 177.76 118.5 179.78 118.5 182.26 118.5 184.75 120.51 186.76 123 186.76 125.49 186.76 127.5 184.75 127.5 182.26Z" />
+<g clip-path="url(#clip_43)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="15.8" font-family="Calibri"><tspan y="-177.51" x="139.13 148.9102 157.1736 167.6806 175.94402 185.72422 193.98761">GPU+HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_44)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="12.05" font-family="Nimbus Sans"><tspan y="-209.21" x="317.98 324.728 330.72889 337.46485 344.2008 347.94837 354.68434 357.68479 360.6732 366.69819 373.39799">Theoretical</tspan></text>
+</g>
+<g clip-path="url(#clip_45)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="12.775" font-family="Calibri"><tspan y="-194.91" x="320.23 330.74385 336.74809 341.99864 344.98799 355.5018 362.23423">maximum</tspan></text>
+</g>
+<path transform="matrix(.3216637,0,-.0000000022436136,-.32079,123.152179,76.05625)" d="M106.88 135.01H109.13L109.12 132.76H106.87ZM111.38 135H113.63L113.62 132.75H111.37ZM115.88 134.99H118.13L118.12 132.74H115.87ZM120.38 134.99 122.63 134.98 122.62 132.73 120.37 132.74ZM124.88 134.98 127.13 134.97 127.12 132.72 124.87 132.73ZM129.38 134.97 131.63 134.96 131.62 132.71 129.37 132.72ZM133.88 134.96 136.13 134.95 136.12 132.7 133.87 132.71ZM138.38 134.95H140.63L140.62 132.7H138.37ZM142.88 134.94H145.13L145.12 132.69H142.87ZM147.38 134.93H149.63L149.62 132.68H147.37ZM151.88 134.92H154.13L154.12 132.67H151.87ZM156.38 134.91H158.63L158.62 132.66H156.37ZM160.88 134.91 163.13 134.9 163.12 132.65 160.87 132.66ZM165.38 134.9 167.63 134.89 167.62 132.64 165.37 132.65ZM169.88 134.89 172.13 134.88 172.12 132.63 169.87 132.64ZM174.38 134.88 176.63 134.87 176.62 132.62 174.37 132.63ZM178.88 134.87H181.13L181.12 132.62H178.87ZM183.38 134.86H185.63L185.62 132.61H183.37ZM187.88 134.85H190.13L190.12 132.6H187.87ZM192.38 134.84H194.63L194.62 132.59H192.37ZM196.88 134.83H199.13L199.12 132.58H196.87ZM201.38 134.83 203.63 134.82 203.62 132.57 201.37 132.58ZM205.88 134.82 208.13 134.81 208.12 132.56 205.87 132.57ZM210.38 134.81 212.63 134.8 212.62 132.55 210.37 132.56ZM214.88 134.8 217.13 134.79 217.12 132.54 214.87 132.55ZM219.38 134.79H221.63L221.62 132.54H219.37ZM223.88 134.78H226.13L226.12 132.53H223.87ZM228.38 134.77H230.63L230.62 132.52H228.37ZM232.88 134.76H235.13L235.12 132.51H232.87ZM237.38 134.75H239.63L239.62 132.5H237.37ZM241.88 134.75 244.13 134.74 244.12 132.49 241.87 132.5ZM246.38 134.74 248.63 134.73 248.62 132.48 246.37 132.49ZM250.88 134.73 253.13 134.72 253.12 132.47 250.87 132.48ZM255.38 134.72 257.63 134.71 257.62 132.46 255.37 132.47ZM259.88 134.71H262.13L262.12 132.46H259.87ZM264.38 134.7H266.63L266.62 132.45H264.37ZM268.88 134.69H271.13L271.12 132.44H268.87ZM273.38 134.68H275.63L275.62 132.43H273.37ZM277.88 134.67H280.13L280.12 132.42H277.87ZM282.38 134.67 284.63 134.66 284.62 132.41 282.37 132.42ZM286.88 134.66 289.13 134.65 289.12 132.4 286.87 132.41ZM291.38 134.65 293.63 134.64 293.62 132.39 291.37 132.4ZM295.88 134.64 298.13 134.63 298.12 132.38 295.87 132.39ZM300.38 134.63H302.63L302.62 132.38H300.37ZM304.88 134.62H307.13L307.12 132.37H304.87ZM309.38 134.61H311.63L311.62 132.36H309.37ZM313.88 134.6H316.13L316.12 132.35H313.87ZM318.38 134.59H320.63L320.62 132.34H318.37ZM322.88 134.59 325.13 134.58 325.12 132.33 322.87 132.34ZM327.38 134.58 329.63 134.57 329.62 132.32 327.37 132.33ZM331.88 134.57 334.13 134.56 334.12 132.31 331.87 132.32ZM336.38 134.56 338.63 134.55 338.62 132.3 336.37 132.31ZM340.88 134.55H343.13L343.12 132.3H340.87ZM345.38 134.54H347.63L347.62 132.29H345.37ZM349.88 134.53H352.13L352.12 132.28H349.87ZM354.38 134.52H356.63L356.62 132.27H354.37ZM358.88 134.51H361.13L361.12 132.26H358.87ZM363.38 134.51 365.63 134.5 365.62 132.25 363.37 132.26ZM367.88 134.5 369 134.49V132.24L367.87 132.25Z" fill="#49ed60" />
+<g clip-path="url(#clip_46)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="12.775" font-family="Calibri"><tspan y="-138.46" x="270.25 281.51759 287.52183 292.77238">Max </tspan></text>
+</g>
+<g clip-path="url(#clip_47)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="12.775" font-family="Calibri"><tspan y="-138.46" x="296.55 307.81758 313.80906 322.04893">MFU </tspan></text>
+</g>
+<g clip-path="url(#clip_48)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="12.775" font-family="Calibri"><tspan y="-138.46" x="325.1 328.08937 334.82179">in </tspan></text>
+</g>
+<g clip-path="url(#clip_49)">
+<text xml:space="preserve" transform="matrix(.3216637 0 .0000000022436136 .32079 123.152179 76.05625)" font-size="12.775" font-family="Calibri"><tspan y="-138.46" x="337.88 343.13056 347.61457 353.6188 356.60816 363.34059 366.32994 373.06236">Training</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.4682" font-family="Nimbus Roman No9 L"><tspan y="-657.323" x="194.837 197.65692 201.89102 207.6748 215.20304 219.91135 228.98926 233.22336 239.00714 245.12119 249.35529 253.58939 260.78736 266.9014 273.01545 278.1895">(b)MFUofH100NVL.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-640.913" x="48.964006 53.949327 56.441987 60.925188 67.22857 71.71177 78.26621 84.2468 88.73 95.705867 100.189067 104.17014 107.15595 109.64861 113.13654 117.61974 126.16473 130.64792 137.69551 145.66664 150.65196 161.18749 163.68015 166.66596 170.64704 175.13024 179.61344 187.16315 193.63689 196.12955 198.62221 207.16719 209.65985 214.14305 218.12413 221.10994 225.09102 229.0721 232.56003 235.05269 239.53589 248.08087 252.56407 256.54518 259.0378 263.0189 271.56385 275.05177 277.5444 281.52549 289.56834 292.55415 297.03736">Fig.8:ComparisonofMFUtrendswithincreasingbatchsizefor</tspan><tspan y="-629.687" x="48.964006 55.437746 60.423067 66.896808 69.882617 74.365818 78.849018 81.341678 88.96311 92.94419 97.42739 105.04883 111.52257 116.50789 122.98163 125.96744 132.44118 137.4265 147.03849 150.52642 155.00962 158.49755 160.9902 164.97129 171.94715 178.57332 183.05652 187.53972 190.52553 193.01819 197.50139 205.12284 210.6013 213.09397 217.07505 224.0509 231.17023 238.79167 243.27487 252.3937 254.88637 259.36958 262.35539 266.33647 269.32228 273.30335 277.78657 281.76765 285.74873">GPU-onlyandGPU-HPUsystemsduringLlama27Binference.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-598.156" x="48.964006 52.451936 56.935136 61.194177 67.667919 74.643779 77.13644 84.1123 89.09762 91.59028 96.07348 100.80774 105.29094 110.0252 114.5084 118.9916 124.47007 128.31667 132.79987 137.28307 141.26415 144.24996 146.74262 153.71848 157.69956 162.18276 164.67542 168.6565 173.64182 177.12975 181.11083 184.09664 188.44535 192.42642 197.89592 201.877 206.3602 210.8434 213.33606 220.31192 224.79512 229.27832 232.76625 237.75157 244.22531 249.70378 254.18698 258.67018 266.14814 270.1292 274.61244 281.5883 286.07148 293.04734 295.53999">showninFig.6,ourexperimentalservercouldhostaL40Sandupto</tspan><tspan y="-586.929" x="48.964006 56.693044 63.166788 68.14314 77.86272 82.34592 85.331729 89.814929 92.30759 96.79079 99.28345 103.76665 108.24985 112.23093 115.71886 121.19733 125.68053 129.6616 134.1448 138.628 141.12067 145.10175 152.83078 156.81186 163.53667 166.52248 172.99622 177.98154 187.70111 192.18431 195.17012 199.65332 202.14598 206.62918 209.12184 213.60504 218.08824 225.3062 229.7894 234.2726 240.50424 244.98744 251.21013 254.19594 258.67915 265.1529 270.1382 276.61198 279.59779 285.08525 291.559 296.04219">4HPUprototypes,denotedas’HPUprototypex4’or’4HPU’.Due</tspan><tspan y="-575.703" x="48.964006 51.456666 59.535394 62.028055 66.51125 74.08786 77.57579 82.05899 86.54219 90.03012 92.52278 96.50386 100.98706 103.47972 105.97238 109.95346 116.04165 120.52485 123.01751 125.77916 128.76497 132.74605 135.73186 139.71294 144.19614 148.17722 155.75382 158.24648 166.3252 170.8084 174.78948 177.77529 182.25849 188.64257 192.62364 195.60945 203.18605 206.67398 211.15718 215.13826 219.11934 221.612 224.10466 226.59732 230.5784 234.55948 237.05214 239.5448 244.028 248.5112 255.59465 260.07786 264.05894 266.55158 273.02534 277.0064 280.9875 289.06623 291.55888 296.04206">tothesubstantialdifferenceinhardwarespecificationsbetweenthe</tspan><tspan y="-564.476" x="48.964006 55.437746 59.920946 64.404148 72.68013 79.15387 85.62761 94.898868 98.879947 103.363147 111.63913 114.13179 118.61499 126.388858 132.8626 137.84792 148.11444 152.59764 155.58345 160.06665 162.55931 167.04251 169.53517 174.01837 178.50157 182.48265 188.51703 191.00969 197.29514 203.67922 207.6603 214.94101 219.42421 223.90741 230.19286 233.17867 237.15975 241.14083 244.62876 247.12142 251.60462 254.09728 261.87117 264.3638 272.63978 277.123 281.10408 283.5967 287.5778 292.06098 296.04206">H100NVLandtheHPUprototype,itwasnotfeasibletobalance</tspan><tspan y="-553.25" x="48.964006 51.456666 55.939867 59.920949 70.859958 73.845767 78.328968 85.27792 93.21319 97.69639 101.67747 104.17013 108.15121 111.13702 115.62022 120.10342 124.084499 128.56769 132.54877 137.03197 141.51517 148.96625 152.45418 156.93738 160.42531 162.91797 166.89905 177.83806 181.81914 186.30234 190.78554 193.2782 195.77086 200.25406 204.73726 207.72307 211.70415 214.19681 216.68947 221.17267 225.65587 232.11168 234.60434 239.08754 243.57074 247.05867 253.25444 259.72819 267.6724 271.1603 275.1414 281.59718 285.57826 289.06617 291.5588 296.042">themforaheterogeneoussystemconfiguration;thus,wesetaside</tspan><tspan y="-542.023" x="48.964006 51.456666 55.939867 62.35981 68.83355 73.31675 77.79995 84.72201 91.19575 97.66949 105.586818 113.082729 119.556468 124.54179 133.46337 137.94657 140.93238 145.41558 147.90824 152.39144 154.8841 159.3673 163.8505 170.27043 173.75836 178.24156 181.72949 184.22216 188.20323 197.61795 200.60376 203.58957 208.07277 217.48749 221.33408 225.81728 230.30048 234.28156 237.26737 239.76003 246.73589 250.71697 255.20017 257.6928 261.18074 265.8612 272.33497 276.59403 283.06779 286.8247 291.17344 295.1545 297.78169">theH100NVL+HPUprototypesystemfromexperiments.However,</tspan><tspan y="-530.797" x="48.964006 53.447206 57.930406 61.911489 68.3404 70.83306 75.31626 81.7362 84.22886 88.20994 91.034358 95.517559 99.498638 104.439128 110.912868 115.898189 124.819759 127.312419 133.2392 136.225 140.7082 143.20087 145.69353 152.62456 157.10776 160.86467 165.21338 169.19446 171.68712 176.17032 180.65352 184.6346 189.1178 193.80724 196.2999 200.7831 207.20304 213.67678 218.15998 222.64318 229.5742 236.04795 242.52169 250.44799 252.94065 258.86744 262.71403 267.1972 271.68043 275.6615 279.64259 282.13523 286.1163 293.0473 295.53996">oncethetargetHPUisfullydeveloped,theH100NVLisexpectedto</tspan><tspan y="-519.57" x="48.964006 53.447206 60.593427 64.08135 68.56455 71.05721 73.54987 77.53095 82.01415 84.50681 91.661998 94.647808 99.131008 105.28195 109.26303 113.74623 116.23889 118.73155 122.71263 127.19583 131.67903 134.66484 138.64592 141.13858 143.40708 147.75579 154.90201 159.38521 163.86841 167.84949 170.8353 174.81638 177.30904 179.8017 184.2849 188.7681 192.25603 197.66277 203.14124 207.62444 214.77962 219.26282 223.2439 226.2297 230.7129 237.09699 241.07807 244.06388 251.2101 254.69803 259.1812 263.1623 267.14338 269.63603 272.12867 274.62135 278.60243 282.5835 285.07615 287.5688 292.052 296.53523">besuitableforcollaborativeoperations.Thehardwarespecifications</tspan><tspan y="-508.344" x="48.964006 51.949815 56.433015 62.557065 65.04972 69.53292 76.65224 81.13544 84.89236 89.37556 91.86822 95.8493 99.830379 106.45654 110.93974 114.42767 118.40875 126.03019 130.01128 132.99709 140.11641 144.59961 148.58069 151.07335 155.05443 157.54709 160.03975 164.02083 171.64228 174.13494 181.75638 186.51753 190.49861 194.98181 197.47447 204.5938 207.5796">forthedevicesusedaredetailedinTableI.</tspan><tspan y="-497.082" x="57.930006 63.408475 67.89168 75.95247 82.42621 89.482769 96.458629 100.941829 105.425029 109.406108 115.97848 120.46168 123.94961 127.93069 136.49359 139.4794 143.9626 151.01915 153.51181 157.99501 166.0558 169.90239 174.38559 178.86879 182.84987 185.83568 188.32834 195.3042 199.28528 203.76848 206.26114 213.81981 220.20389 224.18497 231.75261 237.23108 239.72374 243.70482 250.68068 258.7415 267.2954 271.77864 277.75923 284.08055 290.5543 293.04695 295.53959">TheAImodelusedfortheexperimentswasLlama27B,with</tspan><tspan y="-485.855" x="48.964006 52.451936 56.935136 61.418336 63.910997 68.394199 72.375278 74.867938 77.360599 85.65451 90.13771 94.11879 96.61145 104.8964 109.3796 113.36068 116.84861 119.34127 123.82447 128.30768 132.28876 141.0848 143.57746 152.36454 156.84774 161.33094 163.8236 166.31626 173.29212 175.78478 179.76586 188.05977 190.55243 195.03563 198.02144 202.50464 206.98784 211.47104 215.95424 220.43744 224.92064 231.71718 238.69304 242.67412 246.6552 250.14313 254.62633 257.61216 261.59324 268.5691 272.55018 277.0334 279.52604 286.08049 291.55897 296.04219">syntheticdatadesignedtooptimizethroughputmeasurement.The</tspan><tspan y="-474.629" x="48.964006 53.447206 57.428289 59.920949 63.90203 74.051998 77.539928 80.032588 84.013668 93.67047 97.92951 101.91059 104.8964 107.38906 111.37014 121.5201 124.50591 127.49172 131.97492 144.62651 154.77648 157.26914 167.42807 171.91127 176.39447 184.30284 188.28392 192.76712 202.92606 205.41872 209.90192 219.54976 223.03769 227.01877 231.50197 235.98517 239.96625 244.44945 248.43053 258.08735 260.58 264.56108 269.04426 273.52748 276.0201 286.17008 292.55418 296.53526">batchsizevariedfrom1to64,andthesequencelengthwas</tspan><tspan y="-463.402" x="48.964006 52.945089 57.428289 61.911489 64.404148 66.896808 71.380008 75.863208 78.849018 82.83009 91.02538 95.00646 102.20648 104.69914 109.18234 113.66554 118.14874 124.35349 128.8367 135.31044 141.26413 145.74733 150.23053 152.72319 157.20639 161.68959 167.9033 172.3865 178.86025 184.81394 187.3066 191.7898 194.28246 198.26354 204.46829 208.95149 215.42523 221.37894 226.8574 231.3406 235.8238 238.80962 241.30228 245.78548 248.77129 252.75237 257.23558 265.43086 269.27745 273.62614 277.6072 281.5883 286.07148 288.56413 291.05677 295.53999">configuredasinput1K,output1K,total2K.End-to-endexecution</tspan><tspan y="-452.176" x="48.964006 51.456666 53.949327 60.925188 67.38996 73.77404 77.75512 83.73571 90.71157 94.69265 98.67373 102.16166 106.64486 109.63067 113.61175 120.57864 124.55972 128.5408 131.52661 136.00981 139.49774 145.47834 149.45941 151.95207 156.92842 160.41635 164.89955 168.38748 170.88014 174.86122 181.83708 185.32501 190.05928 194.04036 198.52356 205.49045 207.98311 212.46631 215.45212 219.93532 224.41852 228.90172 233.38492 237.86812 242.35132 247.33664 253.72072 257.7018 263.67344 267.6545 271.6356 274.12825 278.1093 282.59254 285.08518 289.06626 291.5589 295.53999">timewasmeasuredacrossallsystems,andthroughputwascalculated</tspan><tspan y="-440.949" x="48.964006 53.447206 57.428289 60.916219 64.8973 73.66644 78.14964 86.90981 89.40247 93.88567 97.86675 101.35468 109.621707 116.597568 120.57864 124.55972 128.04766 132.53086 135.51667 139.49774 146.4736 150.45468 154.93788 157.43054 160.91847 167.446 172.43132 176.69036 183.1641 187.14517 194.41692 198.398 202.8812 207.3644 210.85233 215.33553 222.31139 226.79459 229.28725 231.7799 236.2631 245.02329 251.40737 255.38845 263.16233 270.13819 274.6214 279.1046 281.59727 284.0899 288.57313 291.55894 295.54">basedonthesemeasurements.Powerconsumptionwasmonitored</tspan><tspan y="-429.723" x="48.964006 53.447206 56.935136 59.427797 63.910997 72.76083 79.23457 84.219898 94.57609 100.55668 104.53776 108.51884 117.368679 123.842418 128.32563 130.81829 135.30149 142.27735 146.25843 148.75109 151.24375 159.59146 164.7561 167.74192 171.72299 176.20619 179.69412 182.67993 186.66101 194.02243 199.00775 205.48149 207.97415 210.46681 214.44789 223.29773 226.28354 232.75728 237.7426 242.2258 246.709 251.1922 255.6754 262.14915 265.13496 271.75218 275.73326 280.21644 289.06629 291.55894 296.0421">usingAPCRackAutomaticTransferSwitch(AP4423A),andthe</tspan><tspan y="-418.496" x="48.964006 53.447206 57.706247 64.179988 68.161067 74.03406 78.2931 82.27418 84.76684 89.25004 93.23112 99.6152 106.088939 110.070018 113.055828 119.92409 124.40729 128.38837 131.37418 133.64267 137.99138 141.97246 149.34284 152.32865 155.31446 159.79766 169.66967 172.16233 176.64553 183.51378 187.99698 190.48964 193.25128 196.23709 200.21817 203.20398 207.18506 211.66826 215.64934 222.5176 227.0008 230.98188 233.47454 239.94828 243.92935 247.91043 255.28978 257.78245 262.26564 269.13389 272.6218 277.10499 280.5929 283.08555 287.06663 294.04249 296.53514">powervalueswerederivedfromthedifferencebetweenthesystem’s</tspan><tspan y="-407.27" x="48.964006 53.447206 57.706247 64.179988 68.161067 74.28511 78.26619 82.74939 87.23259 90.72052 95.20372 102.17958 106.66278 109.15544 111.6481 116.1313 123.75274 128.23593 132.71913 135.70494 138.1976 142.6808 150.30225 155.78072 161.25919 172.36856 174.86122 179.34442 182.33023 186.31131 189.29712 193.2782 197.7614 201.74248 208.8618 212.84288 217.32608 224.94753 227.44019 229.93285 236.55902 239.05168 243.53488 246.02754 253.14687 256.6348 259.12745 263.10853 265.60118 269.58226">powerconsumptionduringLLMinferenceanditsidlestate.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L" font-style="italic"><tspan y="-389.69" x="48.964006 54.442476 61.167276 65.650478 69.63155 74.11475 76.607418 81.090618 85.573818 88.066478 90.559139 93.051799 95.54446">B.Scalability</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-375.515" x="57.930006 63.408475 67.89168 75.15446 78.64239 82.62347 86.604549 89.097209 93.078289 97.561489 100.054149 102.54681 105.03947 107.53213 115.28806 119.77126 126.03877 128.53144 133.01464 140.26845 146.74219 151.72751 158.20125 161.18706 167.6608 172.64612 182.40157 186.88477 189.87058 194.35378 196.84644 201.32964 203.8223 208.3055 212.7887 220.05149 224.53469 228.51576 230.99945 234.98053 237.96634 242.44954 246.93274 250.91382 255.39702 259.3781 263.86134 268.34455 275.11418 278.60209 283.08528 286.57319 289.06584 293.0469">ThescalabilityoftheGPU-HPUprototypeheterogeneoussystem</tspan><tspan y="-364.28804" x="48.964006 55.34808 59.329164 66.896808 70.653728 74.912769 78.893848 81.386508 85.869709 89.850788 92.343448 96.324527 104.887439 108.868518 113.306888 117.287967 119.780628 124.263828 127.751758 134.3331 142.39389 148.86763 153.85295 160.32669 163.3125 167.7957 172.2789 174.77156 183.33448 186.8224 191.3056 194.79354 197.2862 201.26728 208.24314 214.56446 217.55027 222.03347 226.01454 230.49774 233.98567 236.47834 240.96154 249.53342 254.01662 262.57954 267.06275 271.04383 273.53648 277.51756 286.08045 289.56837 292.061 296.04209">wasevaluatedagainstaGPU-onlysystem,focusingonbatchsize</tspan><tspan y="-353.062" x="48.964006 51.456666 53.949327 60.925188 63.417848 65.91051 69.89159 72.38425 74.87691 79.36011 83.84331 91.61718 95.59826 100.08146 108.84163 111.33429 115.81749 118.8033 123.2865 127.7697 132.2529 136.7361 141.2193 145.7025 148.19516 154.7227 161.19644 168.96135 172.44928 176.93248 181.19152 187.66526 196.43439 198.92705 207.69618 212.6815 215.17417 219.65737 226.17594 230.65914 233.64495 237.62602 240.61183 247.13936 250.12517 254.60837 261.87117 264.3638 268.847 277.114 282.5925 285.08515 289.06623 296.04209">limitationsandthroughput.AsshowninFig.7(a),fortheLlama</tspan><tspan y="-341.83503" x="48.964006 58.31596 62.79916 73.648509 80.62437 85.10757 89.59077 93.571849 100.933269 107.407009 109.899669 112.39233 121.744289 130.59412 134.5752 139.0584 143.5416 146.03426 149.88085 154.36405 161.72547 164.21813 168.1992 172.6824 177.1656 179.65827 189.01023 193.49343 201.34799 205.83119 217.17369 220.1595 222.65216 227.13536 231.61856 236.10176 243.46318 247.44426 251.92746 261.2794 265.76258 270.2458 272.73844 277.22163 281.70484 289.06623 293.54945">27Bmodelwithacontextlengthof2K(inputandoutput1K</tspan><tspan y="-330.609" x="48.964006 52.945089 56.92617 60.907255 65.39046 68.37627 73.44228 75.934947 80.418148 87.22364 93.69738 98.6827 105.15644 108.14225 112.62545 117.10865 119.60131 126.90893 130.39685 134.88005 138.36798 140.86064 144.84172 154.65097 161.03505 165.01613 171.32848 173.82114 176.3138 183.28966 185.78232 188.27498 192.25606 199.56368 202.05634 209.36396 216.16945 220.65265 224.63373 227.12639 231.10747 238.41509 241.90302 244.39568 248.37676 255.18225 259.66548 265.48466 269.96784 277.27546 281.75868 286.24189 293.04737 295.54">each),theGPU-onlysystemwaslimitedtoabatchsizeof16dueto</tspan><tspan y="-319.38203" x="48.964006 55.939867 59.920949 66.896808 71.380008 74.365818 81.76309 85.74417 89.72525 94.20845 98.18953 102.17061 104.66327 107.15593 114.54424 118.52532 123.00852 127.49172 130.97965 133.4723 136.45812 140.4392 142.93186 147.41506 149.90772 153.39565 158.55132 162.5324 167.0156 174.41287 178.39395 180.88661 183.37928 187.36035 194.33621 198.81941 201.31208 207.70513 210.19779 217.59506 220.08773 224.57093 228.552 231.53781 235.51889 239.49997 242.9879 249.88306 252.37572 256.85893 263.74513 268.22834 272.2094 274.70207 278.68315 286.0804 289.56834 292.06098 296.04206">memorycapacityconstraints,andattemptstoincreasethebatchsize</tspan><tspan y="-308.156" x="48.964006 51.456666 59.454694 63.937894 71.926959 76.41016 82.9108 89.88666 94.36986 97.35567 104.842609 107.828418 111.809497 115.297428 119.780628 122.273288 124.765949 128.74703 136.74506 139.23772 147.23575 153.70949 158.19269 164.19121 168.67441 175.17505 183.14618 187.12726 194.10312 198.58632 201.57213 209.56119 212.547 219.02074 223.50394 231.47507 237.97571 241.95679 244.9426 247.9284 252.4116 255.39742 258.88536 264.6328 270.1113 274.59449 282.0904 288.56416 293.54948">to32ormoreresultedinOutofMemory(OoM)errors.TheHPU</tspan><tspan y="-296.92903" x="48.964006 53.447206 56.433015 60.916215 63.408876 67.892078 70.384738 74.867938 79.351139 83.332218 88.156139 94.629878 97.122539 99.6152 106.68969 111.17289 115.65609 122.12983 130.69274 135.17594 140.74407 147.71993 151.701 158.67687 163.16007 166.14588 173.2114 177.6946 181.67568 187.25278 191.73598 196.21918 198.71184 201.2045 206.02843 210.0095 214.4927 218.9759 221.46857 228.53409 232.02202 234.51468 238.99788 241.98369 248.54709 255.02083 264.08586 268.06694 272.048 276.02909 280.51228 287.07569 291.05677 295.53999">prototype,with16GBofmemoryperunit,couldstoreKVcacheand</tspan><tspan y="-285.703" x="48.964006 53.447206 57.428289 60.4141 63.39991 67.88311 70.86892 81.03682 85.0179 87.51056 90.00322 93.9843 98.4675 100.96016 103.45282 107.93602 115.620227 118.112888 122.09396 126.57716 130.55825 136.73609 141.21929 145.70249 149.68357 152.66938 156.65045 159.14311 161.63578 166.11898 170.60218 177.2911 180.27692 184.76012 190.93796 195.42116 203.10536 205.59803 213.27326 217.75646 225.44066 229.92386 233.90494 236.3976 240.37868 244.86188 248.84296 255.52292 260.0061 263.98719 270.174 274.65724 279.14045 281.6331 284.12574 289.5594 295.53999">performattentionlayeroperationsforupto16batchesperunit.By</tspan><tspan y="-274.476" x="48.964006 53.447206 56.208856 58.701517 61.194177 65.677379 69.658458 74.141658 76.634319 81.117519 88.496868 90.989528 95.472728 102.35892 108.83266 118.202548 122.183628 126.1647 130.14579 134.62899 141.50621 145.48729 149.97049 157.35881 159.85147 164.33467 171.2119 175.19298 177.68564 180.1783 184.15938 188.64258 191.13524 193.6279 198.1111 205.49942 207.99208 215.37143 217.86409 222.34729 229.22452 235.69826 240.68358 250.06244 254.54564 257.53147 262.01466 264.5073 268.99049 271.48313 275.9663 280.44953 284.4306 289.56837 296.0421">offloadingtheKVcacheandtheattentiontotheHPUprototype,we</tspan><tspan y="-263.25" x="48.964006 53.447206 57.428289 64.404148 68.887348 73.370548 76.858478 79.351139 82.336948 86.31802 88.810688 92.79176 100.84359 103.33625 107.81945 111.791568 117.85285 120.34551 124.82871 132.37844 135.86637 140.34957 143.8375 146.33016 150.31124 160.84676 164.82784 168.80892 176.86075 181.34395 185.32503 189.80823 194.29143 196.78409 204.32483 206.81749 210.79857 213.62299 218.10619 222.08727 228.64171 233.12491 237.10599 239.59865 243.57973 251.62259 255.11052 257.60319 261.58427 265.56535 272.6219 279.09565 281.5883 284.08094 288.56416 293.04737 297.53059">demonstratedthatthesystemcanhandlelargerbatchsizeswithout</tspan><tspan y="-252.023" x="48.964006 51.456666 55.939867 59.920949 62.90676 66.88784 70.86892 74.35685 76.84951 81.33271 88.95415 91.44681 95.93001 103.049327 107.532527 112.015727 118.991588 123.474788 127.455867 133.57993 138.06313 144.18718 150.66092 155.64624 162.11998 165.60791">increasingthenumberofGPUs.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L" font-style="italic"><tspan y="-234.443" x="48.964006 54.944597 61.669397 66.65472 71.13792 74.22236 78.70556 83.18876 87.67196 92.15516 96.63836 101.12156 106.75246 116.866558 121.35873 123.85139 130.32514 137.44446 142.92293 146.0791 150.06018 154.54338 158.52446 163.00766 167.49086 173.47145">C.Throughput&amp;TimeBreakdown</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-220.26799" x="57.930006 63.408475 67.89168 75.00203 79.39557 83.24215 90.86359 95.34679 99.327869 102.313678 105.299488 109.782688 112.75953 119.73539 123.71647 128.19968 132.18076 139.30008 146.27594 150.25702 152.74968 155.73549 158.22815 165.3385 168.32431 172.80751 178.92259 184.40106 189.87953 200.97994 203.4726 207.9558 210.9416 214.92269 217.9085 221.88957 226.37277 230.35385 237.47318 239.96584 244.44904 247.43485 251.91805 256.40126 260.88447 265.36769 269.8509 274.3341 279.95603 282.44868 289.06587 291.5585 296.0417">ThekeyperformancemetricforLLMinferencethroughputisthe</tspan><tspan y="-209.04199" x="48.964006 53.447206 57.930406 64.906269 69.389469 73.370548 80.59746 85.08066 92.31654 96.79974 100.78082 105.26402 109.2451 112.23091 116.21199 118.70465 122.68573 131.41004 133.9027 138.3859 142.77944 146.76052 151.24372 158.98172 163.46492 167.446 174.67292 178.16085 182.14192 186.123 190.6062 195.0894 199.5726 206.06429 210.82544 219.54975 223.03768 225.53034 232.5062 236.9894 239.48206 241.97472 244.96053 253.6938 256.18647 260.66969 268.89189 272.87297 277.35615 281.33723 283.82987 288.31306 291.80097 294.2936 297.78153">numberofgeneratedtokenspersecond.Tosimplifytheanalysis,</tspan><tspan y="-197.81499" x="48.964006 55.437746 63.355077 67.83827 72.32147 75.30728 82.28314 86.26422 88.75688 91.24954 95.23062 99.2117 107.63115 110.12381 114.60701 122.5333 125.02596 129.50916 133.9027 137.88378 142.36698 145.8549 148.34757 155.77175 162.7476 166.72869 170.70977 174.1977 178.6809 181.6667 185.64778 192.62364 196.60472 201.08792 203.58058 211.00476 215.48796 219.46904 222.95697 226.93805 235.3575 239.8407 248.26912 250.76178 255.24498 263.16233 269.63609 274.6214 281.09516 284.08097 288.56416 293.04737 295.54">wenormalizedthetokens/smeasurementsbasedontheGPU-only</tspan><tspan y="-186.58899" x="48.964006 52.451936 56.935136 60.423067 62.915727 66.896808 78.75039 85.22413 87.71679 90.20945 99.56141 104.04461 113.40553 117.88873 121.86981 124.36247 128.34355 132.82675 136.80783 140.29576 147.41507 155.87935 160.36255 164.34363 173.69559 176.6814 181.1646 185.6478 193.51132 199.98506 204.97039 216.32184 220.80504 223.79085 228.27405 230.76671 235.24991 237.74257 242.22577 246.70897 250.69005 259.04673 265.52049 269.50157 272.48738 281.34617 285.82936 289.31727 293.29835 297.78157">systemwith16batches.WhenfourHPUprototypeswereused,</tspan><tspan y="-175.36199" x="48.964006 51.456666 55.939867 59.920949 62.90676 66.88784 70.86892 74.35685 76.84951 81.33271 88.38927 90.88193 95.36513 101.92853 106.41173 110.39281 112.88547 116.86655 123.9231 127.41103 129.90369 133.88477 140.43921 143.42502 146.41083 150.89403 160.45221 164.93541 171.99198 174.48464 181.5412 186.0244 193.08992 197.071 201.5542 208.61077 213.09397 220.15053 223.13634 227.11742 230.60535 235.08855 237.5812 240.07387 244.05495 251.12047 253.61313 260.66969 263.16233 267.6455 270.63133 275.1145 279.59773 284.08094 288.56416 293.04737 297.53059">increasingthebatchsizefrom16to32and64resultedinthroughput</tspan><tspan y="-164.13599" x="48.964006 51.456666 58.432527 62.915727 65.901538 70.25024 74.59894 78.58002 85.55588 89.53696 94.02016 96.51282 102.87896 107.36216 113.22618 117.70938 119.95098">improvementsof1.9</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Computer Modern" font-style="italic"><tspan y="-164.13599" x="124.43418">×</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-164.13599" x="131.59833 136.71816 141.20136 143.44297">,2.9</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-164.13599" x="155.09032 160.21013 164.19121 168.67441 176.03583 180.51903 182.76062">,and4.1</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-164.13599" x="194.40798 199.52779 202.5136 206.49468 209.9826 214.4658 218.44689 222.42797 224.92063 227.18912 231.53783 235.5189 238.01157 241.91196 247.03179 253.50553 257.76457 264.2383 267.99525 272.34397 276.32505 278.9522 284.07203 290.54579 293.03843 295.53108">,respectively.However,with</tspan><tspan y="-152.90898" x="48.964006 52.451936 59.427797 63.40888 65.901538 68.394199 72.375278 77.53095 82.01415 85.99523 88.48789 92.46897 99.12204 102.60997 105.10263 109.08371 113.06479 116.55272 120.95522 124.44315 128.92636 132.90744 139.56052 143.5416 149.1994 153.6826 158.09407 160.58673 165.06993 171.22089 175.70409 178.46573 180.95839 183.45105 187.93425 191.91533 196.39853 198.89119 203.37439 210.0185 214.3672 218.71591 222.69699 225.6828 230.166 234.14708 238.12816 244.78124 248.76232 253.24552 259.89857 262.3912 266.8744 270.3623 274.84553 277.60719 280.09983 282.5925 286.57359 289.06623 293.0473 297.53053">smallerbatchsizes,suchas8,theoffloadingoverheadandinsufficient</tspan><tspan y="-141.68299" x="48.964006 55.437746 60.423067 69.362567 73.845767 76.338428 78.831089 81.323749 83.81641 87.797489 91.778568 94.271228 96.763889 101.247089 108.20501 110.69767 114.67875 121.62771 124.12037 131.07831 138.05417 140.54683 145.03003 147.52269 154.49855 158.47963 163.43805 167.92125 171.90233 174.88814 177.87395 182.35715 185.34296 192.31882 196.2999 200.7831 204.76418 211.21999 215.65836 219.63944 222.1321 226.6153 230.10323 234.81058 237.30324 241.78644 246.26964 248.7623 252.74338 256.72447 259.2171 261.70976 266.19294 273.15089 275.64353 280.1267 284.1078 289.0662 291.55885 296.04206">HPUutilizationledtominimalperformancegains,indicatingthatthe</tspan><tspan y="-130.45598" x="48.964006 55.437746 60.423067 66.896808 69.882617 76.35635 81.341678 90.95365 94.44158 98.92478 102.41271 104.90537 108.88645 119.00055 121.49321 128.11939 132.60259 137.08579 139.57845 142.0711 149.04697 151.53963 155.5207 159.50179 167.11426 170.10007 174.58327 180.70732 183.19998 187.18106 190.00548 194.48868 198.46976 201.45557 205.93877 209.91985 212.4125 216.39359 224.01503 228.49823 231.48404 235.96724 239.94832 243.9294 247.41733 250.90526 253.39792 257.8811 262.36433 267.74418 272.7295 275.22215 279.70533 285.08518 289.56837 292.55418 297.03736">GPU-HPUsystemisoptimizedforlarge-batchprocessing.Fig.7(b)</tspan><tspan y="-119.22998" x="48.964006 52.451936 56.935136 61.194177 67.667919 75.69284 78.1855 82.6687 91.18678 93.67944 96.172107 103.147968 111.666049 116.14925 118.64191 122.12984 124.6225 127.60831 130.10097 134.40485 138.88805 141.3807 143.87337 148.35657 157.3678 161.851 169.37381 173.85701 177.83809 182.32129 186.30237 189.28818 193.26926 195.76192 198.25458 202.73778 211.75798 215.24591 217.73857 221.71965 226.20285 234.72093 239.20413 243.68733 247.66841 250.65422 254.6353 257.12797 259.6206 264.10383 268.58705 276.61195 281.09516 285.57838 288.56419 291.05683 295.54005">showsthetimedistributionofgenerationstageoperationsduring</tspan><tspan y="-108.00298" x="48.964006 51.456666 55.939867 58.925676 62.906759 65.89257 69.87365 74.35685 78.33793 82.31901 88.99898 95.47272 97.96538 100.45804 109.37961 113.86281 117.84389 120.33655 126.72063 131.20383 134.18964 143.1112 147.45992 151.80863 155.7897 158.77552 163.25872 167.23979 171.22087 180.13347 183.11928 186.10509 190.58829 202.00252 204.49518 208.47626 212.95946 216.44739 220.93059 228.35477 230.84743 233.83324 237.81432 242.29752 245.78545 248.77126 252.75234 255.73815 263.66444 266.65025 270.63133 277.60719 281.58827 284.0809 288.5641 291.05674 295.53993">inference,withnetworkoverheadfromtensortransfersremaining</tspan><tspan y="-96.776988" x="48.964006 51.456666 55.715707 61.60663 66.22433 70.20541 73.191219 77.674419 82.157619 86.640819 93.500118 97.983318 102.466518 109.935527 114.54425 118.30117 122.64987 126.63095 133.49025 137.47133 143.33536 145.82802 150.31122 156.6684 161.1516 165.13268 167.62534 171.60642 178.46572 181.95365 184.4463 188.42739 194.78456 197.27722 201.76042 205.7415 208.72731 212.70839 216.68947 220.1774 224.15848 227.64641 232.25513 237.7336 242.2168 244.70946 250.57349 254.55457 259.03779 263.521 266.01365 268.50633 271.49214 278.468 284.332 286.82466 291.30787 295.28895 297.7816">low,around10%,evenasthebatchsizeincreases.Thisconfirmsthat,</tspan><tspan y="-85.54999" x="48.964006 52.945089 58.728418 63.211618 65.70428 69.19221 73.17329 77.65649 81.14442 84.63235 88.61343 95.40099 97.893657 104.67225 109.65757 113.63865 117.61973 120.11239 122.60505 127.08825 133.87581 136.86162 142.43872 145.42453 151.40512 155.94213 158.43479 162.91799 169.20343 173.68663 176.17929 180.66249 184.64357 187.13623 189.62889 194.11209 198.09317 204.87177 209.35497 213.83817 217.81925 220.80506 224.78614 227.2788 229.77146 234.25466 238.73786 244.53015 248.51123 251.27288 254.25868 258.23979 262.22087 264.7135 266.982 271.33073 275.3118 277.80445 284.58308 289.06629 291.55894 296.0421">asdiscussedinSectionIV-C,thepipelinedoperationseffectivelyhide</tspan><tspan y="-74.32399" x="48.964006 53.447206 57.428289 59.920949 66.30503 70.78823 73.77404 81.39548 85.74418 90.09288 94.07396 97.05977 101.54297 105.52405 109.50513 113.98833">networkoverhead.</tspan></text>
+<g>
+<g clip-path="url(#clip_50)">
+<g clip-path="url(#clip_51)">
+<g clip-path="url(#clip_52)">
+<g clip-path="url(#clip_53)">
+</g>
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M61.875 100.88H868.125V264.38H61.875Z" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M76.875 200.63H120.38V100.88H76.875ZM149.63 173.63H193.88V100.88H149.63ZM223.13 156.38H267.38V100.88H223.13ZM296.63 150.38H340.13V100.88H296.63ZM370.13 228.38H413.63V100.88H370.13ZM442.88 198.38H487.13V100.88H442.88ZM516.38 173.63H559.88V100.88H516.38ZM589.88 165.38H633.38V100.88H589.88ZM662.63 196.13H706.88V100.88H662.63ZM736.13 181.88H779.63V100.88H736.13ZM809.63 193.13H853.13V100.88H809.63Z" fill="#f2a46e" />
+<g clip-path="url(#clip_54)">
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M76.875 200.63H120.38V100.88H76.875ZM149.63 173.63H193.88V100.88H149.63ZM223.13 156.38H267.38V100.88H223.13ZM296.63 150.38H340.13V100.88H296.63ZM370.13 228.38H413.63V100.88H370.13ZM442.88 198.38H487.13V100.88H442.88ZM516.38 173.63H559.88V100.88H516.38ZM589.88 165.38H633.38V100.88H589.88ZM662.63 196.13H706.88V100.88H662.63ZM736.13 181.88H779.63V100.88H736.13ZM809.63 193.13H853.13V100.88H809.63Z" />
+</g>
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M76.875 264.38H120.38V200.63H76.875ZM149.63 247.13H193.88V173.63H149.63ZM223.13 244.13H267.38V156.38H223.13ZM296.63 238.88H340.13V150.38H296.63ZM370.13 264.38H413.63V228.38H370.13ZM442.88 252.38H487.13V198.38H442.88ZM516.38 248.63H559.88V173.63H516.38ZM589.88 247.13H633.38V165.38H589.88ZM662.63 250.88H706.88V196.13H662.63ZM736.13 249.38H779.63V181.88H736.13ZM809.63 246.38H853.13V193.13H809.63Z" fill="#8cb9e2" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M76.875 264.38H120.38V200.63H76.875ZM149.63 247.13H193.88V173.63H149.63ZM223.13 244.13H267.38V156.38H223.13ZM296.63 238.88H340.13V150.38H296.63ZM370.13 264.38H413.63V228.38H370.13ZM442.88 252.38H487.13V198.38H442.88ZM516.38 248.63H559.88V173.63H516.38ZM589.88 247.13H633.38V165.38H589.88ZM662.63 250.88H706.88V196.13H662.63ZM736.13 249.38H779.63V181.88H736.13ZM809.63 246.38H853.13V193.13H809.63Z" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M149.63 264.38H193.88V247.13H149.63ZM223.13 264.38H267.38V244.13H223.13ZM296.63 264.38H340.13V238.88H296.63ZM442.88 264.38H487.13V252.38H442.88ZM516.38 264.38H559.88V248.63H516.38ZM589.88 264.38H633.38V247.13H589.88ZM662.63 264.38H706.88V250.88H662.63ZM736.13 264.38H779.63V249.38H736.13ZM809.63 264.38H853.13V246.38H809.63Z" fill="#ffe494" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M149.63 264.38H193.88V247.13H149.63ZM223.13 264.38H267.38V244.13H223.13ZM296.63 264.38H340.13V238.88H296.63ZM442.88 264.38H487.13V252.38H442.88ZM516.38 264.38H559.88V248.63H516.38ZM589.88 264.38H633.38V247.13H589.88ZM662.63 264.38H706.88V250.88H662.63ZM736.13 264.38H779.63V249.38H736.13ZM809.63 264.38H853.13V246.38H809.63Z" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M61.875 100.88H868.13" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M61.875 100.88V51.383M355.13 100.88V51.383M868.13 100.88V51.383" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M61.875 51.383V20.633M355.13 51.383V20.633M868.13 51.383V20.633" />
+<g clip-path="url(#clip_55)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-145.51" x="84.1 92.33455 100.5691 104.323558">61.2</tspan></text>
+</g>
+<g clip-path="url(#clip_56)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-131.91" x="157.43 165.6618 173.89362 177.63822">44.6</tspan></text>
+</g>
+<g clip-path="url(#clip_57)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-123.08" x="230.75 239.01342 247.27683 251.02143">33.8</tspan></text>
+</g>
+<g clip-path="url(#clip_58)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-120.13" x="304.07 312.3334 320.5968 324.373">30.1</tspan></text>
+</g>
+<g clip-path="url(#clip_59)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-159.36" x="377.42 385.65458 393.88914 397.6436">78.2</tspan></text>
+</g>
+<g clip-path="url(#clip_60)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-144.18" x="450.75 458.98179 467.21357 470.95817">59.6</tspan></text>
+</g>
+<g clip-path="url(#clip_61)">
+</g>
+<g clip-path="url(#clip_62)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-127.73" x="597.4 605.63186 613.86367 617.6083">39.5</tspan></text>
+</g>
+<g clip-path="url(#clip_63)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-143.23" x="670.73 678.9934 687.25686 691.00149">58.4</tspan></text>
+</g>
+<g clip-path="url(#clip_64)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-135.93" x="744.05 752.3134 760.57687 764.3531">49.5</tspan></text>
+</g>
+<g clip-path="url(#clip_65)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-141.43" x="817.4 825.63186 833.86367 837.6083">56.2</tspan></text>
+</g>
+<g clip-path="url(#clip_66)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-227.26" x="84.1 92.331798 100.56359 104.30819">38.8</tspan></text>
+</g>
+<g clip-path="url(#clip_67)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-204.96" x="157.43 165.66454 173.89908 177.65352">44.8</tspan></text>
+</g>
+<g clip-path="url(#clip_68)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-194.68" x="230.75 239.01342 247.27683 251.02143">53.8</tspan></text>
+</g>
+<g clip-path="url(#clip_69)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-189.11" x="304.07 312.3334 320.5968 324.373">54.2</tspan></text>
+</g>
+<g clip-path="url(#clip_70)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-241.11" x="377.42 385.6518 393.88359 397.62818">21.8</tspan></text>
+</g>
+<g clip-path="url(#clip_71)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-220.13" x="450.75 458.98179 467.21357 470.95817">33.3</tspan></text>
+</g>
+<g clip-path="url(#clip_72)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-205.88" x="524.08 532.3146 540.54916 544.3036">45.8</tspan></text>
+</g>
+<g clip-path="url(#clip_73)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-200.83" x="597.4 605.6346 613.86917 617.6236">50.0</tspan></text>
+</g>
+<g clip-path="url(#clip_74)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-218.33" x="670.73 678.9934 687.25686 691.00149">33.5</tspan></text>
+</g>
+<g clip-path="url(#clip_75)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-210.36" x="744.05 752.3134 760.57687 764.3531">41.5</tspan></text>
+</g>
+<g clip-path="url(#clip_76)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-214.36" x="817.4 825.63186 833.86367 837.6083">33.0</tspan></text>
+</g>
+<g clip-path="url(#clip_77)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-250.28" x="157.43 165.6618 173.89362 177.63822">10.6</tspan></text>
+</g>
+<g clip-path="url(#clip_78)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-248.81" x="230.75 239.01342 247.27683 251.02143">12.4</tspan></text>
+</g>
+<g clip-path="url(#clip_79)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-246.21" x="304.07 312.3334 320.5968 324.373">15.6</tspan></text>
+</g>
+<g clip-path="url(#clip_80)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-253.16" x="455.25 463.48457 467.239">7.1</tspan></text>
+</g>
+<g clip-path="url(#clip_81)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-251.16" x="528.58 536.8118 540.55648">9.5</tspan></text>
+</g>
+<g clip-path="url(#clip_82)">
+</g>
+<g clip-path="url(#clip_83)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-252.33" x="675.23 683.4934 687.26968">8.1</tspan></text>
+</g>
+<g clip-path="url(#clip_84)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-251.63" x="748.58 756.8118 760.55648">9.0</tspan></text>
+</g>
+<g clip-path="url(#clip_85)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-250.13" x="817.4 825.6346 833.86917 837.6236">10.8</tspan></text>
+</g>
+<g clip-path="url(#clip_86)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-96.358" x="35.475">0</tspan></text>
+</g>
+<g clip-path="url(#clip_87)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-129.06" x="27.35 35.6246">20</tspan></text>
+</g>
+<g clip-path="url(#clip_88)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-161.76" x="27.35 35.6246">40</tspan></text>
+</g>
+<g clip-path="url(#clip_89)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-194.46" x="27.35 35.6246">60</tspan></text>
+</g>
+<g clip-path="url(#clip_90)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-227.16" x="27.35 35.6246">80</tspan></text>
+</g>
+<g clip-path="url(#clip_91)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-259.86" x="19.25 27.4996 35.7492">100</tspan></text>
+</g>
+<g clip-path="url(#clip_92)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-75.508" x="64.4 74.148609 82.38041 92.87161 98.10141 104.832218 112.33721 120.56901 128.05821">GPU(L40S)</tspan></text>
+</g>
+<g clip-path="url(#clip_93)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-75.508" x="157.72 167.5002 175.7636">GPU</tspan></text>
+</g>
+<g clip-path="url(#clip_94)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-55.908" x="149.75 157.98456 165.47768 175.96805 184.20259">+1HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_95)">
+</g>
+<g clip-path="url(#clip_96)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-55.908" x="223.08 231.34612 238.83924 249.34539 257.61149">+2HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_97)">
+</g>
+<g clip-path="url(#clip_98)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-55.908" x="296.4 304.6661 312.1908 322.69694 330.963">+4HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_99)">
+</g>
+<g clip-path="url(#clip_100)">
+</g>
+<g clip-path="url(#clip_101)">
+</g>
+<g clip-path="url(#clip_102)">
+</g>
+<g clip-path="url(#clip_103)">
+</g>
+<g clip-path="url(#clip_104)">
+</g>
+<g clip-path="url(#clip_105)">
+</g>
+<g clip-path="url(#clip_106)">
+</g>
+<g clip-path="url(#clip_107)">
+</g>
+<g clip-path="url(#clip_108)">
+</g>
+<g clip-path="url(#clip_109)">
+</g>
+<g clip-path="url(#clip_110)">
+</g>
+<g clip-path="url(#clip_111)">
+</g>
+<g clip-path="url(#clip_112)">
+<text xml:space="preserve" transform="matrix(-.000000012666437 -.2869037 .28787358 -.000000003914324 264.1202 .8002548)" font-size="15.75" font-family="Calibri"><tspan y="16.525006" x="111.48 119.0085 122.74125 130.28549 138.55425 144.53925">Elapse</tspan><tspan y="16.525008" x="152.06775 160.3365 165.58126 170.8575 174.55875 187.31624 194.84474">d time </tspan><tspan y="16.52501" x="198.57749 203.82224 211.36649 216.64273 220.32823 228.62848 232.32973 236.83423">ratio (%</tspan><tspan y="16.525012" x="248.09548">)</tspan></text>
+</g>
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M24.375 15.383H135.375V70.883H24.375Z" fill="#ffffff" fill-rule="evenodd" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M24.375 15.383H135.375V70.883H24.375Z" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M45.375 57.383H53.625V65.632999H45.375Z" fill="#f2a46e" fill-rule="evenodd" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M45.375 57.383H53.625V65.632999H45.375Z" />
+<g clip-path="url(#clip_113)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.775" font-family="Calibri"><tspan y="-56.633" x="57.925 66.932529 72.21715 78.16432 85.65745 93.93932 99.8865 103.625179 111.875499">Attention</tspan></text>
+</g>
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M45.375 38.633H53.625V47.633H45.375Z" fill="#8cb9e2" fill-rule="evenodd" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M45.375 38.633H53.625V47.633H45.375Z" />
+<g clip-path="url(#clip_114)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-38.108" x="57.925 64.6558 68.384609 76.6796 84.864009 92.369">Linear</tspan></text>
+</g>
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" d="M45.375 19.883H53.625V28.883H45.375Z" fill="#ffe494" fill-rule="evenodd" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M45.375 19.883H53.625V28.883H45.375Z" />
+<g clip-path="url(#clip_115)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="15.8" font-family="Calibri"><tspan y="-19.583" x="57.925 68.4162 75.921199 81.90939 93.20639 101.406589 106.65218">Network</tspan></text>
+</g>
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="8" stroke-linejoin="miter" fill="none" stroke="#000000" d="M647.63 100.88V20.201" />
+<path transform="matrix(.28787358,.000000008709439,0,-.2869037,264.1202,.8002548)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="8" stroke-linejoin="miter" fill="none" stroke="#000000" d="M794.63 100.88V20.201" />
+<g clip-path="url(#clip_116)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="14.3" font-family="Malgun Gothic"><tspan y="-25.858" x="183.25 191.5011 198.98 204.21379 210.97769 219.2145 223.719">Batch 8</tspan></text>
+</g>
+<g clip-path="url(#clip_117)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="14.3" font-family="Malgun Gothic"><tspan y="-25.858" x="473.75 482.00114 489.48005 494.71385 501.47773 509.7145 514.219 521.71218">Batch 16</tspan></text>
+</g>
+<g clip-path="url(#clip_118)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="14.3" font-family="Malgun Gothic"><tspan y="-25.858" x="694.45 702.72976 710.2086 715.4424 722.2063 730.486 734.962 742.45516">Batch 32</tspan></text>
+</g>
+<g clip-path="url(#clip_119)">
+<text xml:space="preserve" transform="matrix(.28787358 .000000008709439 -0 .2869037 264.1202 .8002548)" font-size="14.3" font-family="Malgun Gothic"><tspan y="-25.858" x="804.33 812.5811 820.06 825.29379 832.0577 840.2945 844.799 852.2922">Batch 64</tspan></text>
+</g>
+</g>
+</g>
+<g clip-path="url(#clip_120)">
+<g clip-path="url(#clip_121)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#d9d9d9" d="M86.625 50.637H872.63M86.625 102.39H872.63M86.625 154.14H872.63M86.625 205.14H872.63M86.625 256.89H872.63M86.625 307.89H872.63" />
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M86.625 50.637H872.625V307.887H86.625Z" />
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M108.38 50.637H163.13V108.387H108.38Z" fill="#f2f2f2" fill-rule="evenodd" />
+<g clip-path="url(#clip_122)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M108.38 50.637H163.13V108.387H108.38Z" />
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M206.63 50.637H261.38V102.387H206.63Z" fill="#f2f2f2" fill-rule="evenodd" />
+<g clip-path="url(#clip_123)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M206.63 50.637H261.38V102.387H206.63Z" />
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M304.88 50.637H359.63V154.137H304.88Z" fill="#9dc3e6" fill-rule="evenodd" />
+<g clip-path="url(#clip_124)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M304.88 50.637H359.63V154.137H304.88Z" />
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M403.13 50.637H457.88V167.637H403.13Z" fill="#9dc3e6" fill-rule="evenodd" />
+<g clip-path="url(#clip_125)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M403.13 50.637H457.88V167.637H403.13Z" />
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M501.38 50.637H556.13V173.637H501.38Z" fill="#9dc3e6" fill-rule="evenodd" />
+<g clip-path="url(#clip_126)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M501.38 50.637H556.13V173.637H501.38Z" />
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M599.63 50.637H654.38V152.637H599.63Z" fill="#f5750b" fill-rule="evenodd" />
+<g clip-path="url(#clip_127)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M599.63 50.637H654.38V152.637H599.63Z" />
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M697.88 50.637H752.63V224.637H697.88Z" fill="#f5750b" fill-rule="evenodd" />
+<g clip-path="url(#clip_128)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M697.88 50.637H752.63V224.637H697.88Z" />
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M796.13 50.637H850.88V286.887H796.13Z" fill="#f5750b" fill-rule="evenodd" />
+<g clip-path="url(#clip_129)">
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M796.13 50.637H850.88V286.887H796.13Z" />
+</g>
+<g clip-path="url(#clip_130)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-116.99" x="121.4 129.63455 133.38899 141.62354">1.12</tspan></text>
+</g>
+<g clip-path="url(#clip_131)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-110.94" x="219.7 227.93454 231.68898 239.92353">1.00</tspan></text>
+</g>
+<g clip-path="url(#clip_132)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-162.66" x="318 326.23179 329.97639 338.20817">2.00</tspan></text>
+</g>
+<g clip-path="url(#clip_133)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-176.01" x="416.3 424.53456 428.289 436.52357">2.26</tspan></text>
+</g>
+<g clip-path="url(#clip_134)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-181.99" x="514.6 522.8318 526.5764 534.8082">2.38</tspan></text>
+</g>
+<g clip-path="url(#clip_135)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-161.51" x="612.9 621.1346 624.88906 633.1236">1.98</tspan></text>
+</g>
+<g clip-path="url(#clip_136)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-233.56" x="711.2 719.4346 723.189 731.4236">3.38</tspan></text>
+</g>
+<g clip-path="url(#clip_137)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-295.69" x="809.5 817.7318 821.47647 829.70828">4.58</tspan></text>
+</g>
+<g clip-path="url(#clip_138)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-45.987" x="43.575 51.80955 55.564 63.79855">0.00</tspan></text>
+</g>
+<g clip-path="url(#clip_139)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-97.537" x="43.575 51.8068 55.551404 63.783205">1.00</tspan></text>
+</g>
+<g clip-path="url(#clip_140)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-149.06" x="43.575 51.80955 55.564 63.79855">2.00</tspan></text>
+</g>
+<g clip-path="url(#clip_141)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-200.61" x="43.575 51.8068 55.551404 63.783205">3.00</tspan></text>
+</g>
+<g clip-path="url(#clip_142)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-252.14" x="43.575 51.80955 55.564 63.79855">4.00</tspan></text>
+</g>
+<g clip-path="url(#clip_143)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-303.66" x="43.575 51.80955 55.564 63.79855">5.00</tspan></text>
+</g>
+<g clip-path="url(#clip_144)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-25.137" x="111.65 120.64175 128.13488 133.4195 140.09232 148.37419 152.11287">Batch 8</tspan></text>
+</g>
+<g clip-path="url(#clip_145)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-25.137" x="205.88 214.88753 222.44376 227.72838 234.44852 242.7304 246.48485 254.75095">Batch 16</tspan></text>
+</g>
+<g clip-path="url(#clip_146)">
+</g>
+<g clip-path="url(#clip_147)">
+</g>
+<g clip-path="url(#clip_148)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-25.137" x="500.8 509.79176 517.28488 522.56948 529.2423 537.5242 541.2628 549.4974">Batch 32</tspan></text>
+</g>
+<g clip-path="url(#clip_149)">
+</g>
+<g clip-path="url(#clip_150)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-5.5621" x="590.85 600.59896 608.8335 619.3239 627.5585 635.793 645.542 653.77658">GPU+1HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_151)">
+</g>
+<g clip-path="url(#clip_152)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-5.5621" x="689.15 698.899 707.13357 717.62399 725.8585 734.0931 743.84207 752.0766">GPU+2HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_153)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-25.137" x="795.7 804.6918 812.1849 817.4695 824.14236 832.4242 836.16287 844.3974">Batch 64</tspan></text>
+</g>
+<g clip-path="url(#clip_154)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="-5.5621" x="787.45 797.199 805.43356 815.9397 824.17428 832.4088 842.1578 850.39236">GPU+4HPU</tspan></text>
+</g>
+<g clip-path="url(#clip_155)">
+<text xml:space="preserve" transform="matrix(-.000000013552503 -.28996793 .2908219 -.000000012758589 260.14674 94.39325)" font-size="15.775" font-family="Calibri"><tspan y="33.025007" x="86.087 96.59315 104.90657 110.143878 122.90585">Norma</tspan><tspan y="33.02501" x="130.46208 134.1692 137.90789 143.93393 151.45862 159.7405 164.2206 171.74527 180.02715 187.55184 192.8207 200.32959 207.83849 212.31859">lized Energy E</tspan><tspan y="33.025014" x="219.08606 223.58193 228.07779 231.81647 238.56816 242.30684 249.83153 258.1134 264.8651">fficiency</tspan></text>
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M102.38 228.39H244.13V293.64H102.38Z" fill="#ffffff" fill-rule="evenodd" />
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="8" stroke-linejoin="miter" fill="none" stroke="#000000" d="M102.38 228.39H244.13V293.64H102.38Z" />
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M111.38 277.14H121.13V286.14H111.38Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="8" stroke-linejoin="miter" fill="none" stroke="#000000" d="M111.38 277.14H121.13V286.14H111.38Z" />
+<g clip-path="url(#clip_156)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-276.79" x="127.85 137.59859 145.83039 155.57898 160.08199 166.81279 175.0446 183.27642 190.76561 195.26862">GPU(L40S) </tspan></text>
+</g>
+<g clip-path="url(#clip_157)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-276.79" x="199.92 208.1676 216.4626 220.144">only</tspan></text>
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M111.38 256.89H121.13V265.89H111.38Z" fill="#9dc3e6" fill-rule="evenodd" />
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="8" stroke-linejoin="miter" fill="none" stroke="#000000" d="M111.38 256.89H121.13V265.89H111.38Z" />
+<g clip-path="url(#clip_158)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-256.01" x="127.85 137.59859 145.83039 155.57898 160.08199 169.83058 178.0624 186.2942 194.52602 199.02902">GPU(H100) </tspan></text>
+</g>
+<g clip-path="url(#clip_159)">
+</g>
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" d="M111.38 235.89H121.13V244.89H111.38Z" fill="#f5750b" fill-rule="evenodd" />
+<path transform="matrix(.2908219,0,-.00000000075633946,-.28996793,260.14674,94.39325)" stroke-width=".75" stroke-linecap="butt" stroke-miterlimit="8" stroke-linejoin="miter" fill="none" stroke="#000000" d="M111.38 235.89H121.13V244.89H111.38Z" />
+<g clip-path="url(#clip_160)">
+<text xml:space="preserve" transform="matrix(.2908219 0 .00000000075633946 .28996793 260.14674 94.39325)" font-size="15.8" font-family="Calibri"><tspan y="-235.64" x="127.85 137.59859 145.83039 155.57898 160.08199 166.81279 175.0446 183.27642 190.76561 195.26862 202.77362 212.52222 220.75402">GPU(L40S)+HPU</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-635.27" x="311.978 316.96333 319.45597 323.93916 329.86595 334.34913 340.52696 346.00544 350.48866 354.46974 357.29414 361.77735 369.9547 373.9358 376.69746 379.1901 381.68278 385.66386 388.1565 392.13758 396.6208 400.46739 408.63575 413.11897 419.78996 426.2637 431.24903 441.40797 444.89588 449.3791 452.867 455.35966 459.34074 470.01075 473.99183 478.47505 486.64344 493.1172 498.1025 504.57627 507.56208 514.0358 519.0211 529.18008 533.66329 537.64437 540.137 544.1181 547.10397 551.58718 556.0704 560.05148">Fig.9:EnergyefficiencyofGPUsystemandGPU-HPUheteroge-</tspan><tspan y="-624.043" x="311.978 316.46119 320.44227 324.92549 329.4087 336.03486 339.52278 344.00599 347.4939 349.98655 353.96763 360.94349">neoussystem.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L" font-style="italic"><tspan y="-590.426" x="311.978 318.45176 325.17658 331.65034 337.1288 346.7408 353.21458 355.7072 358.19987 360.6925 363.18516 366.67308 371.15626 373.6489 376.14155 380.62477">D.GPUUtilization</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-573.57406" x="320.944 325.70518 333.1921 337.6753 342.1585 346.64173 350.6228 353.6086 357.09654 359.58918 363.57026 368.05348 375.54045 378.03309 382.5163 389.50114 391.99378 398.96965 403.45283 407.4339 411.41499 416.91139 421.3946 428.88157 436.8527 441.838 448.31178 453.55714 460.03089 467.01573 470.8623 475.34553 479.82875 483.8098 486.79563 489.28828 496.26414 500.2452 504.7284 507.22105 511.20213 518.689 525.1628 527.65548 530.14816 537.6351 541.123 545.10409 549.08517 551.5778 554.0705 558.5537">TounderstandtheimpactonMFU,weexperimentedwithscaling</tspan><tspan y="-562.34707" x="311.978 316.46119 320.44227 322.9349 326.916 334.1339 337.62184 340.11448 344.09556 348.07664 354.2993 360.77305 365.25624 367.74888 370.24153 376.95735 379.44999 383.43107 387.23283 391.716 394.20866 398.69184 405.9098 410.393 414.87623 417.36888 424.59577 428.57685 433.06007 440.03593 444.5191 449.00233 451.49497 455.47605 458.46186 462.94508 467.42829 471.9115 476.3947 483.61268 488.0959 492.5791 496.56019 499.546 503.52708 506.0197 508.51237 512.99557 517.47879 523.7014 526.68728 529.17996 531.4215 535.4026 537.64419 542.6205 545.11318 547.60586 552.08908 556.0701 560.0512">batchsizeswhileleavingonlycompute-boundoperations(i.e.,linear</tspan><tspan y="-551.12008" x="311.978 316.46119 320.9444 324.92549 327.9113 331.89237 334.385 336.87767 341.36085 345.84407 349.33198 356.64857 361.13179 369.94578 372.43843 376.92164 385.2335 391.70726 396.69258 403.16633 409.7387 416.21247 420.69569 425.1789 427.67155 430.16419 432.65684 437.14 441.62324 445.6043 448.09696 450.5896 454.49 461.0534 467.52717 475.83903 480.3222 483.308 487.7912 490.28385 494.26493 498.246 500.73866 504.71974 513.5337 521.5048 526.4901 537.2946 540.28048 544.7637 552.08029 554.57296 559.05618">operations)ontheGPU.Additionally,weprojectedMFUforthe</tspan><tspan y="-539.89407" x="311.978 315.95909 320.44227 324.92549 327.9113 330.40394 334.88716 337.87297 341.85404 346.33723 355.3664 358.8543 362.8354 366.81648 371.29969 375.28077 378.26658 380.75923 389.7884 394.2716 401.80339 405.78446 409.76554 413.7466 422.78474 426.7658 431.24903 435.73225 438.22489 440.71757 445.20075 449.68397 452.66978 456.65086 459.1435 461.63615 466.11933 470.60255 477.3901 482.8686 487.3518 495.87886 499.72544 504.20863 508.69184 512.6729 515.65878 518.1514 525.12728 529.10836 533.59158 540.6302 544.1181 548.0992 552.08029 554.57296 558.554">end-to-endscenarioofeachconfiguration.Theexperimentscaled</tspan><tspan y="-528.66708" x="311.978 316.46119 320.44227 322.9349 326.916 335.5865 339.0744 341.56706 345.54814 349.5292 357.2134 360.19923 363.18504 367.6682 378.8314 383.31459 391.9851 394.47776 403.15724 407.64045 412.12367 416.60688 423.0358 430.01167 433.99275 437.97383 441.46174 445.94496 448.93077 451.4234 455.90663 464.58613 467.07878 471.56196 479.73036 484.21357 486.7062 489.19886 491.6915 494.18415 498.16523 502.1463 504.63896 507.1316 511.6148 520.28536 524.76858 531.9507 536.4339 540.9171 543.4098 552.0803 554.573 559.0562">batchsizesfrom16to512,measuringtheutilizationofboththe</tspan><tspan y="-517.44107" x="311.978 317.45649 321.9397 326.4229 334.941 338.9221 343.40528 351.42127 357.89503 362.37825 366.86146 374.86848 381.34223 387.81599 393.29447 399.06886 404.05418 406.5468 411.03004 416.8044 424.82038 429.3036 432.2894 436.27049 439.7584 443.73948 448.22267 450.7153 457.736 460.22865 464.71186 472.2257 475.21153 479.1926 482.6805 487.1637 489.65635 492.14 495.62794 501.4023 504.89024 509.3734 513.63247 520.1062 522.5989 527.0821 535.0981 537.59078 542.074 546.05508 552.0805 554.5732 559.0564">L40SandH100NVL.Fig.8presentstheresults,showingthatthe</tspan><tspan y="-506.21406" x="311.978 318.45176 323.43708 329.91084 332.89665 337.37983 341.86305 344.35569 351.49293 354.98085 359.46406 362.95198 365.4446 369.4257 376.40156 381.28825 384.27406 388.12065 392.559 396.54008 399.52589 404.0091 406.50175 410.48283 413.97074 420.1127 424.5959 430.23576 436.7095 441.69483 450.81367 453.3063 457.7895 462.2727 466.25379 471.14945 474.99604 479.47926 483.96247 486.4551 490.9383 493.43095 495.92359 499.90467 507.04194 511.39067 515.37179 518.3576 525.4859 527.9786 532.2376 541.3654 549.33657 554.32186 560.7956">GPU-onlysystem,regardlessofGPUtype,exhibitedverylowMFU,</tspan><tspan y="-494.98805" x="311.978 315.95909 318.9449 323.4281 327.91133 332.39454 340.39259 344.8758 352.34483 358.11024 360.60289 365.08607 369.56929 372.06193 376.043 380.02409 382.51673 385.00938 389.49256 397.4906 399.98326 404.46644 408.4475 411.20918 413.7018 416.1945 420.17558 422.6682 426.6493 431.1325 437.14897 441.63215 445.12007 452.61598 457.09919 463.6088 470.08256 475.06788 485.05647 489.03755 493.52076 500.4966 504.9798 509.463 511.95567 514.4483 518.9315 526.93856 529.9244 533.90548 537.3934 541.8766 546.3598 549.34567 553.3267 557.3078 560.7957">around1%,indicatinginefficientuseofGPUcomputingresources.</tspan><tspan y="-483.76106" x="311.978 314.9638 322.15489 326.13597 330.61915 335.10237 337.595 340.5808 344.5619 348.0498 350.54246 355.4919 357.98457 362.46778 369.1567 375.63047 380.61579 387.08955 390.07536 396.5491 401.53443 410.70707 415.19026 419.17134 421.66398 425.64506 428.63087 433.11408 437.5973 441.57838 446.06159 450.04267 454.52589 459.0091 465.20487 468.69279 473.17597 476.66389 479.15653 483.1376 490.11347 496.30924 499.79716 504.28034 508.5394 515.0131 518.9942 526.18527 528.6779 533.16116 537.1422 540.12808 544.10916 548.0902 551.5781 554.0708 558.554">Incontrast,theGPU-HPUheterogeneoussystemsshowedincreasing</tspan><tspan y="-472.53504" x="311.978 319.94914 324.93446 334.62715 338.60823 345.31507 347.8077 352.2909 359.49989 363.9831 367.96418 370.45683 374.4379 382.14 385.62794 388.12059 392.10166 399.30168 402.78959 406.77067 410.75175 413.2444 417.22547 421.70869 427.16923 430.15504 434.1361 438.1172 442.09828 446.58149 449.07414 453.5573 461.26844 468.46846 475.4443 479.42539 483.90858 486.4012 493.37709 497.8603 508.05509 512.53829 518.74307 523.22628 527.7095 538.4064 541.3922 545.8754 552.0802 554.5729 559.0561">MFUasthebatchsizescaled,reachingamaximumof44%forthe</tspan><tspan y="-461.30805" x="311.978 317.45649 321.9397 326.4229 335.8466 345.34199 351.81575 356.80107 367.70423 372.18745 375.17326 379.65644 382.14909 386.63227 389.1249 393.6081 398.0913 406.51075 410.49183 414.97505 423.8966 428.37983 437.3014 439.79405 448.71559 453.1988 457.682 469.5894 472.5752 477.0584 484.48258 486.96626 491.44947 499.8689 506.34266 510.82588 515.3091 524.23068 530.7044 537.17819 547.095 553.5687 556.0614 558.5541">L40S+HPUprototypeandupto39%fortheH100NVLwith</tspan><tspan y="-450.08204" x="311.978 316.46119 318.95384 323.437 327.92024 330.90605 335.38923 339.3703 342.3561 345.34193 349.82514 352.81095 359.7868 363.76789 368.2511 372.23219 380.12263 386.59638 391.5817 398.05546 401.54338 407.69435 413.17283 417.656 420.14866 427.54594 430.53175 434.51283 438.99604 441.98185 445.96293 449.45085 453.43193 457.9151 460.40776 467.79606 475.6865 478.6723 482.65339 485.14604 489.1271 491.61976 493.88825 498.23698 502.21806 504.7107 513.1033 517.5865 520.07919 524.5624 532.95498 537.214 541.19509 543.68777 548.17098 556.0614 558.5541">high-performanceHPUs.Thisrepresentsarelativelyhighvaluein</tspan><tspan y="-438.85505" x="311.978 315.95909 320.44227 327.41813 331.9013 335.8824 338.8682 341.36085 344.84877 349.33198 357.19554 359.68818 367.55174 370.04438 374.5276 381.88005 384.37269 388.8559 392.83699 397.3202 400.306 404.28709 406.77973 409.27238 413.25346 417.23454 423.1075 430.08338 434.06446 438.54768 441.0403 448.01618 452.4994 462.8556 466.83668 471.3199 479.18345 483.16453 485.65718 490.14039 493.6283 497.60939 500.10203 507.95658 511.93766 514.4303 516.923 521.4062 525.8894 532.7576 539.2314 541.72409 544.21676 552.08029 554.57296 559.05618">comparisontothetheoreticalmaximumandcloselyalignswiththe</tspan><tspan y="-427.62904" x="311.978 316.46119 320.9444 325.4276 329.4087 335.88243 340.3656 344.84883 349.33204 353.81526 358.29847 365.26536 367.758 372.2412 376.72444 379.21708 383.19816 387.17924 389.67189 392.16453 400.13563 404.1167 408.09779 412.581 415.07365 418.83058 423.08964 427.0707 431.5539 434.04655 441.51554 444.00819 451.97038 457.44886 462.92735 474.38639 476.87904 479.86485 483.84593 486.33857 490.82179 493.31443 497.7976 505.76875 508.75456 513.23776 517.72097 520.7068 526.4273 529.41317 533.89639 538.3796 541.3654 547.0949 552.57339 557.0566 559.54928">upperboundstypicallyachievableinLLMtraining[22],[23].This</tspan><tspan y="-416.40205" x="311.978 314.47065 321.4465 325.9297 328.42234 330.91499 334.89607 340.78697 343.2796 347.76283 351.7439 356.63954 363.0236 367.50679 371.48786 373.9805 377.96159 380.9474 385.4306 389.91383 393.8949 398.3781 402.3592 406.8424 411.32563 417.21653 420.70445 425.18763 428.67555 431.16819 435.14927 444.5281 448.5092 452.49028 459.37644 461.86909 468.84495 473.32814 476.31394 480.66264 485.01133 491.3954 497.86915 502.85447 511.7312 515.7123 520.1955 527.1713 531.65457 536.13778 538.63046 542.6115 545.1042 547.59689 552.0801 556.5633 560.5444">impliesthataheterogeneoussystemcanimproveGPUcomputational</tspan><tspan y="-405.17604" x="311.978 314.9638 318.9449 322.4328 326.91603 331.39924 334.38505 338.36613 345.48545 349.96864 352.46128 354.95393 357.44657 359.9392 363.9203 367.90138 370.394 372.88667 377.36988 384.99134 389.47456 397.096 401.57923 409.20069 411.69334 419.31477 423.79798">resourceutilizationbyupto40</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-405.17604" x="435.44535">.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L" font-style="italic"><tspan y="-381.09403" x="311.978 317.45649 324.1813 329.6598 334.143 338.12409 341.28025 345.76344 352.88276 358.36125 360.69248 362.93409 365.17567 369.15675 371.64939 375.63047 380.11366 384.09474">E.EnergyEfficiency</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-364.24205" x="320.944 328.69099 335.98963 342.96549 346.94657 350.92765 354.41557 358.89875 361.88456 365.86564 373.67536 376.168 380.65119 387.94984 392.43305 396.6921 403.16587 407.14695 413.45033 417.4314 421.9146 426.39784 429.88575 434.36897 441.34483 445.828 448.32066 450.8133 455.2965 463.10627 467.58949 473.89286 477.87394 481.855 485.8361 493.63685 497.12477 501.60798 505.0959 507.58854 511.5696 521.872 524.3647 532.16549 536.14657 540.62979 547.6056 552.0888 556.0699 559.0557">Wemeasuredthepowerconsumptionofeachsystemtocompare</tspan><tspan y="-353.01506" x="311.978 314.47065 318.95387 322.93495 325.42759 330.8971 334.87818 339.3614 343.34248 346.16688 350.6501 357.60804 361.5891 364.35078 366.8434 369.3361 373.31718 375.8098 379.7909 384.2741 388.1207 392.02107 396.74638 401.7317 404.22434 408.70753 413.43284 420.39076 423.87867 428.36189 432.62095 439.0947 445.0663 447.55897 452.04219 458.50697 462.99018 467.4734 470.4592 477.43507 481.41615 483.90879 486.40144 490.3825 494.3636 501.32154 505.3026 509.78584 513.7669 516.5914 521.0746 528.0415 532.0226 534.78427 537.2769 539.76956 543.7506 546.2433 550.22439 554.7076 558.55416">theirenergyefficiency.Fig.9showsthenormalizedenergyefficiency</tspan><tspan y="-341.78904" x="311.978 314.47065 322.5942 325.08686 329.06794 332.05375 339.0296 346.15788 350.64106 357.27619 359.76884 364.252 368.64558 372.62666 377.10987 380.59779 383.09043 386.57835 389.07099 396.71037 402.59233 409.06608 413.54927 416.0419 420.02299 428.1465 430.63917 437.76744 441.7485 445.72959 448.22224 452.2033 456.68653 459.17918 463.16026 465.6529 469.63398 477.7665 482.2497 490.37327 494.85646 497.12495 501.60816 504.1008 508.58399 511.07664 515.5598 523.6834 526.1761 530.6593 533.64517 538.12838 542.6116 547.0948 551.578 556.0612 560.54446">intermsoftokens/s/W,whichiscalculatedbydividingthroughput</tspan><tspan y="-330.56205" x="311.978 316.46119 324.07368 327.87544 332.22416 336.20524 339.19105 343.17213 347.65534 354.7567 359.23994 363.499 369.97276 373.95384 380.0689 384.05 388.5332 393.01643 396.50434 400.98756 407.9634 412.4466 414.93925 417.4319 421.9151 426.39833 431.7692 437.24769 441.7309 448.83229 454.31077 458.79396 463.27717 471.39176 479.57807 486.05183 491.03715 500.6312 505.11439 508.1002 512.5834 515.07608 519.55929 522.05197 526.53518 531.0184 538.1287 541.61666 546.09988 549.58779 552.08047 556.0615">byaveragepowerconsumption.TheL40S+HPUprototypesystem</tspan><tspan y="-319.33604" x="311.978 315.4659 319.9491 324.20817 330.68193 334.663 342.69688 347.18006 355.22294 357.71559 365.75846 373.29023 377.77345 380.01506 384.49824">showeduptoa4.58</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-319.33604" x="399.70527 402.1979 409.17378 413.65699 416.6428 420.9915 425.34019 429.32127 436.29713 440.2782 444.7614 450.80476 453.2974 461.34025 465.32133 469.8045 473.78559 476.61 481.0932 489.1271 493.1082 495.86985 498.3625 500.85517 504.83625 507.3289 511.30998 515.79318 519.6397 527.68258 531.66366 536.14688 543.1227 547.6059 551.587 554.5728 558.5539">improvementinenergyefficiencycompared</tspan><tspan y="-308.10905" x="311.978 314.47065 323.59846 326.0911 330.57429 339.19996 344.67845 349.16163 353.64485 363.27476 369.7485 374.73384 385.85218 389.83326 392.3259 396.80909 401.2923 405.27339 412.15959 417.63807 422.12129 424.61393 432.74644 435.23908 439.7223 444.2055 446.69816 450.67924 454.6603 457.15296 461.13404 469.2755 471.76817 476.25135 480.23243 487.36967 489.8623 493.61924 497.96794 501.949 504.9348 508.9159 513.3991 515.8918 520.375 529.5028 531.9955 536.4787 545.1044 551.5781 556.5634">totheL40SGPUalone.ThisindicatesthatleveragingtheHPU</tspan><tspan y="-296.88304" x="311.978 316.46119 319.447 323.93019 326.42283 330.906 333.39866 337.88185 342.36506 350.47966 352.9723 361.58903 369.7036 374.18684 378.1679 380.66056 384.64164 387.62745 392.11067 396.59388 400.57496 405.05818 409.03926 413.52247 418.00569 425.6271 429.11503 433.5982 437.08613 439.57878 443.55986 454.66923 457.16188 464.7833 468.2712 470.76387 475.24708 479.7303 482.22294 484.71559 487.20826 491.18934 495.1704 499.65364 502.14628 504.63893 513.2556 520.23147 524.71469 527.7005 535.81509 539.79617 544.27938 548.26046 551.0849 555.5681 560.05136">prototypeinaheterogeneoussystemissignificantlymoreenergy-</tspan><tspan y="-285.65605" x="311.978 315.95909 318.72074 321.70655 325.68763 329.6687 332.16136 334.42985 338.77854 346.13996 348.6326 353.11579 357.09687 364.9694 369.45259 372.9405 375.43315 379.91633 387.77989 395.15028 398.63819 401.13084 405.1119 409.5951 414.0783 418.0594 420.55204 425.03523 429.51844 436.87986 442.35835 446.84156 451.32478 459.6994 466.17317 471.15849 481.01258 483.99839 488.48158 494.8567 497.34934 501.83253 504.81834 508.7994 511.78523 515.7663 520.2495 524.2306 528.2117 533.83358 538.81887 543.30209 546.2879 548.7806 553.2638 557.2449 560.0514">effectivethanusingastandaloneL40SGPUforinference.Further-</tspan><tspan y="-274.43003" x="311.978 318.95387 323.43708 326.42289 330.40397 335.0665 337.55915 342.04237 348.44438 353.92286 358.40608 362.88929 370.29554 377.78248 384.25624 389.24156 398.13624 402.61946 405.60527 410.08845 412.5811 417.06428 419.55693 424.0401 428.52333 434.92533 438.41325 442.89643 446.38435 448.87699 452.85807 462.25486 466.73805 470.71913 477.69499 482.17817 486.66139 490.1493 492.64195 495.62776 499.60884 502.10148 506.08256 512.98666 517.46987 524.37399 526.86666 533.77078 540.1817 544.6649 546.9065 551.3897">more,theL40S+HPUprototypesystemdemonstrateduptoa1.92</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-263.20304" x="311.978 315.95909 320.44227 324.42335 327.24775 331.73097 340.9574 344.93849 347.70014 350.19279 352.68547 356.66654 359.15919 363.14027 367.62348 371.47007 380.70545 383.1981 390.17396 394.65718 397.64299 401.99168 406.34037 410.32145 417.2973 421.27839 425.7616 432.99748 437.34617 441.69486 445.67594 453.41395 455.9066 460.38978 469.11408 475.58784 480.07106 484.55427 493.78968 500.26344 506.73719 512.21566 515.2015 519.6847 524.1679 526.6606 535.887 539.37496 543.85818 547.34609 549.83877 553.8198 560.79568">energyefficiencyimprovementovertheH100NVL-onlysystem,</tspan><tspan y="-251.97704" x="311.978 316.46119 318.95384 323.437 327.92024 330.41288 332.90553 337.38874 341.87196 344.3646 346.85725 351.34046 358.97984 361.47248 365.9557 369.93678 375.58558 382.7228 389.69868 392.1913 396.6745 399.6603 402.64613 406.6272 411.1104 415.59364 422.73088 429.20463 434.18995 443.82884 448.312 452.2931 454.77677 457.76258 461.74366 469.392 475.86576 478.3584 480.85105 488.4904 494.96415 499.94947 509.57939 514.06259 517.0484 521.5316 524.0243 528.5075 531.0002 535.4834 539.9666 543.9477 550.5918 554.5729 558.55398">highlightingthatamid-rangeGPUpairedwithHPUprototypescan</tspan><tspan y="-240.75003" x="311.978 316.46119 320.9444 323.43705 327.92024 331.9013 334.88713 337.87294 342.35615 345.34196 355.45606 362.57539 367.0586 369.55125 374.03443 378.51765 381.50346 385.48454 389.9677 397.58918 404.06294 409.04826 418.66026 421.1529 428.77436 431.267 435.24809 438.2339 445.20976 451.8359 456.3191 462.44316 464.9358 469.419 472.40483 476.3859 479.3717 483.35279 487.836 491.81709 498.9364 502.91749 507.4007 511.38179 514.20626 518.68948 526.3109 530.292 533.05368 535.5463 538.03897 542.02 544.5127 548.4938 552.977 556.82357 560.72396">outperformahigh-endGPUintermsofinferenceenergyefficiency.</tspan><tspan y="-216.66803" x="401.324 408.2461 411.68025 415.11439 422.2875">VII.C</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="7.1731" font-family="Nimbus Roman No9 L"><tspan y="-216.66803" x="428.71284 434.33656 439.96028 445.18946 450.00978 455.63349 460.0593 462.89268 468.5164">ONCLUSION</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-197.81504" x="320.944 323.9298 332.94108 335.43373 339.91694 342.40959 350.42555 356.80964 361.29286 364.27867 368.76185 375.5315 382.00526 390.51438 394.99757 397.98338 402.46656 406.94978 411.43299 414.9209 423.43003 425.92268 430.40589 438.915 445.38877 447.8814 452.36463 456.84785 459.83366 465.81425 469.79533 474.2785 478.76173 485.23548 487.72813 492.2113 494.70396 503.71519 508.7005 511.6863 516.1695 520.1506 524.13168 527.61959 531.1075 533.60018 538.0834 547.0946 553.56838 558.0516 560.54428">Inthiswork,weproposetheHigh-BandwidthProcessingUnit</tspan><tspan y="-186.58904" x="311.978 314.9638 321.43757 326.42289 332.89665 338.54548 342.52656 347.00978 354.14704 360.6208 365.6061 372.07987 375.06568 381.53944 386.52476 395.66154 400.1447 404.1258 406.61845 410.59953 413.58534 418.06855 422.55177 426.53285 431.01606 434.99714 439.48036 443.96357 450.1145 453.60243 458.08564 461.57356 464.0662 468.04728 475.02314 479.92778 483.90885 491.04609 495.02717 499.51039 503.49147 506.31587 510.79908 515.2823 518.2681 522.2492 525.01089 527.50357 529.99618 533.97726 536.4699 540.451 544.9342 550.0899 554.071 558.5542">(HPU)andGPU-HPUheterogeneoussystem,anenergy-efficientand</tspan><tspan y="-175.36203" x="311.978 315.4659 319.447 323.42808 325.92073 329.9018 334.385 336.87767 345.69163 349.17955 353.66273 356.15538 360.63856 363.1312 365.62385 370.10707 379.42317 382.40898 386.89216 394.71086 400.18934 405.66783 418.46287 420.9555 425.43873 428.42454 432.4056 435.39143 439.3725 443.8557 447.8368 451.81788 458.89237 464.37086 468.85408 477.66804 484.14179 489.1271 500.43376 504.41484 508.898 513.3812 517.3623 521.8455 525.8266 529.8077 538.1285 541.6164 546.0996 549.5875 552.0802 556.0613">scalablesolutionforLLMinference.TheHPUenhancessystem</tspan><tspan y="-164.13603" x="311.978 314.47065 318.95387 321.93968 326.42286 330.90608 335.38929 339.8725 344.3557 348.83894 351.33158 358.67506 362.65614 367.13935 371.12043 373.94483 378.42805 388.01313 391.9942 394.75587 397.2485 399.74119 403.72227 406.2149 410.19599 414.6792 418.5258 422.42616 429.76963 433.7507 438.2339 447.82795 454.3017 459.28703 470.86265 475.34584 477.83848 480.33113 482.82377 485.3164 489.2975 493.27857 495.7712 498.26387 502.74708 512.33218 516.81539 526.40048 530.88369 533.6453 536.138 538.6306 543.11386 547.0949 551.5781 554.0708 558.554">throughput,energyefficiency,andGPUutilizationbyoffloading</tspan><tspan y="-152.90903" x="311.978 318.95387 322.93495 329.9108 334.39399 337.3798 341.86299 344.8488 349.33198 353.8152 358.2984 362.78163 370.35826 372.8509 376.83198 380.3199 384.8031 391.3934 394.3792 397.36503 401.8482 411.91749 418.39125 423.37657 429.8503 433.33824 438.68223 446.4292 453.5037 457.98689 461.7438 466.0925 470.07359 472.56623 477.04945 481.53266 485.51374 493.09934 500.1828 503.1686 507.14073 511.1218 516.7168 521.7021 526.6874 533.16116 539.6349 542.6207 547.10397 551.085 554.57296 558.554">memory-boundtasksfromGPUs.WedevelopedarealFPGA-based</tspan><tspan y="-141.68303" x="311.978 318.45176 323.43708 332.39454 336.87776 339.86357 344.34675 346.8394 351.32258 353.81523 358.2984 362.78163 369.25535 375.7291 378.22175 380.7144 387.68128 394.15504 400.13563 408.10676 412.841 417.60218 424.5691 427.06175 431.54493 438.0097 442.49293 446.474 449.9619 454.9472 459.43043 464.89994 469.38313 473.86634 479.3448 483.828 488.31123 492.57029 499.04405 501.53669 505.51777 510.00099 514.4842 518.4653 523.19058 525.6832 530.16647 536.6402 543.11398 548.09927 557.0567 559.5494">HPUprototypewithHBM.Tothebestofourknowledge,theHPUis</tspan><tspan y="-130.45603" x="311.978 314.47065 318.95387 326.05525 328.54789 331.04057 334.02638 337.51429 343.12724 349.60099 355.58158 363.5527 366.5385 371.02174 375.0028 378.49073 382.4718 390.07533 394.0564 398.5396 401.52543 406.0086 408.99443 413.4776 417.45869 421.43977 424.92768 428.4156 432.8988 438.99595 443.47914 446.46495 450.94813 453.44078 457.92396 460.4166 464.89979 469.383 476.48439 478.97703 486.5805 493.6819 498.1651 502.14619 504.63883 508.6199 511.6057 516.0889 520.57217 524.5532 529.03646 533.0175 537.50076 541.98397 548.59219 552.0801 556.5633 560.0512">thefirstHBM-basedco-processorprototypeinaheterogeneoussys-</tspan><tspan y="-119.23003" x="311.978 314.47065 318.45173 327.5347 330.5205 335.00373 340.09666 345.57514 351.05363 361.1229 363.61555 368.09877 371.08457 375.06565 378.05146 382.03254 386.51576 390.49684 394.4779 398.82664 404.3051 408.78834 413.27156 417.25263 420.23844 422.73109 429.70695 433.68803 438.1712 440.66386 444.64494 449.2447 452.2305 456.21159 459.6995 464.18269 466.67533 469.16798 474.763 478.25093 482.73414 486.9932 495.5651 498.05775 502.54096 506.52204 511.1218 513.61447 518.09768 524.18588 530.6596 535.6449 542.11868 545.1045 551.57827 556.56356">temforLLMinference.ExperimentalresultsshowthattheGPU-HPU</tspan><tspan y="-108.00303" x="311.978 316.46119 320.44227 322.9349 326.916 329.9018 334.385 338.86824 342.8493 347.33253 351.3136 355.7968 360.28004 366.7358 370.22373 374.7069 378.19483 380.68748 384.66856 394.60334 397.09599 404.07185 408.55506 411.54087 415.88957 420.23826 424.21934 430.6751 433.16777 437.65095 440.63676 445.11994 449.60316 454.08638 458.56959 463.0528 467.536 472.99653 476.9776 481.46083 488.9119 492.89299 497.37617 501.35725 504.18165 508.66487 516.107 520.0881 522.84976 525.3424 527.835 531.8161 534.3088 538.28988 542.7731 546.6196 554.07077 558.55398">heterogeneoussystemimprovesthroughputandenergyefficiencyby</tspan><tspan y="-96.77703" x="311.978 316.46119 324.57579 327.06843 335.192 339.67518 341.91679">upto4.1</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-96.77703" x="357.1955 361.17658 365.6598 373.77439 378.25758 380.49919">and4.6</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-96.77703" x="392.1465 398.02848 401.01429 404.99537 408.48329 412.9665 416.94758 420.92866 423.4213 425.6898 430.03849 434.01957 436.5122 440.4126 446.28559 452.75935 455.25199 458.7399 463.22309 469.09608 471.5887 476.0719 483.69334 490.6692 493.16184 497.64503 500.63084 503.61665 507.59773 512.08096 516.56417 524.17666 530.6504 535.6357 542.10946 545.0953 551.56906 556.5543">,respectively.Also,themid-rangeGPU-HPU</tspan><tspan y="-85.55003" x="311.978 316.46119 319.447 323.93019 326.42283 330.906 333.39866 337.88185 342.36506 349.15263 352.64054 357.12373 360.61164 363.10429 367.08537 376.8677 380.8488 384.82987 389.31306 391.8057 395.56263 399.91136 403.89244 410.18684 416.9744 421.45759 423.6992 428.18238">prototypesystemachievesa1.92</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -48 742)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-85.55003" x="442.63624 445.12889 449.61207 452.59788 457.08106 461.56428 466.0475 470.5307 475.01393 479.49714 481.98979 484.48243 488.96565 493.2247 499.69847 503.67955 509.47184 513.91018 517.89126 520.3839 527.68258 531.66366 536.14688 543.1227 547.6059 551.587 554.5728 558.5539">throughput/powergaincompared</tspan><tspan y="-74.324039" x="311.978 314.47065 322.0921 329.21144 333.69465 336.1873 340.67048 345.1537 348.1395 352.12059 356.60377 364.22523 370.69898 375.6843 385.2963 388.7842 393.2674 396.7553 399.24797 403.22904 410.2049">toahigh-endGPUsystem.</tspan></text>
+</g>
+</g>
+</svg>

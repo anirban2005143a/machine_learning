@@ -1,0 +1,669 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="332" height="139" viewBox="0 0 332 139">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-140,430)" d="M140 291H472V430H140Z" />
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,-140,430)" d="M0 0H612V792H0Z" />
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.344644 290.24128H544.92V491.1062H53.344644Z" />
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M139.22 342.48H148.539V404.418H139.22Z" />
+</clipPath>
+<g id="pattern_tile_6">
+<g transform="matrix(.24991125,0,0,.24991125,47.82147,17.030533)">
+<image id="image_7" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAHklEQVR4nGNYcaGXJMRAsob/JALSNYz6YdQPVPIDABSygR9AjDR5 AAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_6" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-191.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_6" />
+</g>
+</pattern>
+<clipPath id="clip_8">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M157.86 342.48H167.179V383.599H157.86Z" />
+</clipPath>
+<g id="pattern_tile_9">
+<g transform="matrix(.24991125,0,0,.24991125,47.82147,17.030533)">
+<image id="image_10" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAPUlEQVR4nGNYcaEXiP7jBRA1EMRAsgbilVJbA6ZSiDg1NOBSSg0N +JVSpoEYpeRqIF4pNTTgV4qSWonXAABJe6Af0hKMSQAAAABJRU5ErkJggg==" />
+</g>
+</g>
+<pattern id="pattern_9" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-191.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_9" />
+</g>
+</pattern>
+<clipPath id="clip_11">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M176.5 342.48H185.819V398.04103H176.5Z" />
+</clipPath>
+<g id="pattern_tile_12">
+<g transform="matrix(.24991125,0,0,.24991125,47.82147,17.030533)">
+<image id="image_13" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAOUlEQVR4nGMIqDGGo/94AUQNA0UaiNFGugZk64jRRq4G4rVRpoEY bdTQgF8b9TTg0ka6BuKTHZkaAM9iPd9TWQdRAAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_12" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-191.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_12" />
+</g>
+</pattern>
+<clipPath id="clip_14">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M195.14 342.48H204.459V428.94203H195.14Z" />
+</clipPath>
+<g id="pattern_tile_15">
+<g transform="matrix(.24991125,0,0,.24991125,47.82147,17.030533)">
+<image id="image_16" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAG0lEQVR4nGMIqDEmCTGQqeE/0WBUw6iGAdMAAE5/hZfd+tNRAAAA AElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_15" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-191.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_15" />
+</g>
+</pattern>
+<clipPath id="clip_17">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M213.78 342.48H223.099V437.444H213.78Z" />
+</clipPath>
+<g id="pattern_tile_18">
+<g transform="matrix(.24991125,0,0,.24991125,47.82147,17.030533)">
+<image id="image_19" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAJElEQVR4nGPIWuACRP+JBgwkayBe6agGTIAruKmngWQnDWcNANpK 76d7D/8yAAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_18" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-191.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_18" />
+</g>
+</pattern>
+<clipPath id="clip_20">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_21">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_23">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_24">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_25">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_26">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_27">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_28">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_29">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M157.14 476.33H164.624V483.814H157.14Z" clip-rule="evenodd" />
+</clipPath>
+<g id="pattern_tile_30">
+<g transform="matrix(.24991125,0,0,.24991125,67.81438,1.0362101)">
+<image id="image_31" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAHklEQVR4nGNYcaGXJMRAsob/JALSNYz6YdQPVPIDABSygR9AjDR5 AAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_30" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-271.35386,20.146313)">
+<use x="0" y="0" xlink:href="#pattern_tile_30" />
+</g>
+</pattern>
+<clipPath id="clip_32">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_33">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M221.07 476.33H228.554V483.814H221.07Z" clip-rule="evenodd" />
+</clipPath>
+<g id="pattern_tile_34">
+<g transform="matrix(.24991125,0,0,.24991125,111.79875,1.0362101)">
+<image id="image_35" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAPUlEQVR4nGNYcaEXiP7jBRA1EMRAsgbilVJbA6ZSiDg1NOBSSg0N +JVSpoEYpeRqIF4pNTTgV4qSWonXAABJe6Af0hKMSQAAAABJRU5ErkJggg==" />
+</g>
+</g>
+<pattern id="pattern_34" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-447.35383,20.146313)">
+<use x="0" y="0" xlink:href="#pattern_tile_34" />
+</g>
+</pattern>
+<clipPath id="clip_36">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_37">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M306.72 476.33H314.204V483.814H306.72Z" clip-rule="evenodd" />
+</clipPath>
+<g id="pattern_tile_38">
+<g transform="matrix(.24991125,0,0,.24991125,167.77887,1.0362101)">
+<image id="image_39" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAOUlEQVR4nGMIqDGGo/94AUQNA0UaiNFGugZk64jRRq4G4rVRpoEY bdTQgF8b9TTg0ka6BuKTHZkaAM9iPd9TWQdRAAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_38" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-671.3538,20.146313)">
+<use x="0" y="0" xlink:href="#pattern_tile_38" />
+</g>
+</pattern>
+<clipPath id="clip_40">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_41">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M360.25 476.33H367.734V483.814H360.25Z" clip-rule="evenodd" />
+</clipPath>
+<g id="pattern_tile_42">
+<g transform="matrix(.24991125,0,0,.24991125,203.76609,1.0362101)">
+<image id="image_43" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAG0lEQVR4nGMIqDEmCTGQqeE/0WBUw6iGAdMAAE5/hZfd+tNRAAAA AElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_42" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-815.35379,20.146313)">
+<use x="0" y="0" xlink:href="#pattern_tile_42" />
+</g>
+</pattern>
+<clipPath id="clip_44">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_45">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M414.47 476.33H421.954V483.814H414.47Z" clip-rule="evenodd" />
+</clipPath>
+<g id="pattern_tile_46">
+<g transform="matrix(.24991125,0,0,.24991125,239.7533,1.0362101)">
+<image id="image_47" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAJElEQVR4nGPIWuACRP+JBgwkayBe6agGTIAruKmngWQnDWcNANpK 76d7D/8yAAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_46" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-959.35379,20.146313)">
+<use x="0" y="0" xlink:href="#pattern_tile_46" />
+</g>
+</pattern>
+<clipPath id="clip_48">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_49">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_50">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.29 290.241V471.29H241.03V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.29 290.241V471.29H241.03V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M291.88 343.03H302.889V427.152H291.88Z" />
+</clipPath>
+<g id="pattern_tile_53">
+<g transform="matrix(.24991125,0,0,.24991125,147.78597,17.030533)">
+<image id="image_54" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAHklEQVR4nGPoO5xNEmIgWcN/EgHpGkb9MOoHKvkBADSBXJ8eQH0n AAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_53" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-591.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_53" />
+</g>
+</pattern>
+<clipPath id="clip_55">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M313.91 343.03H324.93V428.115H313.91Z" clip-rule="evenodd" />
+</clipPath>
+<g id="pattern_tile_56">
+<g transform="matrix(.24991125,0,0,.24991125,175.77602,37.023424)">
+<image id="image_57" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAOUlEQVR4nGOI6beCo/94AUQNA0UaiNFGugZk64jRRq4G4rVRpoEY bdTQgF8b9TTg0ka6BuKTHZkaAKSMTB/IhCNkAAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_56" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-703.35379,164.14629)">
+<use x="0" y="0" xlink:href="#pattern_tile_56" />
+</g>
+</pattern>
+<clipPath id="clip_58">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M335.96 343.03H346.969V447.04H335.96Z" />
+</clipPath>
+<g id="pattern_tile_59">
+<g transform="matrix(.24991125,0,0,.24991125,147.78597,17.030533)">
+<image id="image_60" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAG0lEQVR4nGOI6bciCTGQqeE/0WBUw6iGAdMAANzojn+DL/7wAAAA AElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_59" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-591.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_59" />
+</g>
+</pattern>
+<clipPath id="clip_61">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M357.98 343.03H368.989V451.57H357.98Z" />
+</clipPath>
+<g id="pattern_tile_62">
+<g transform="matrix(.24991125,0,0,.24991125,147.78597,17.030533)">
+<image id="image_63" width="16" height="16" xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAO xAGVKw4bAAAAJElEQVR4nGPQdJACov9EAwaSNRCvdFQDJsAV3NTTQLKThrMGAERv 6U+IVMHiAAAAAElFTkSuQmCC" />
+</g>
+</g>
+<pattern id="pattern_62" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-591.3538,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_62" />
+</g>
+</pattern>
+<clipPath id="clip_64">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.29 290.241V471.29H241.03V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_66">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_67">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_68">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_69">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_70">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_71">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_72">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.32 290.241V471.24H241.08V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_73">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_74">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.15 290.241V469.77H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_75">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.15 290.241V469.77H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_76">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M446.49 342.99H456.46299V419.957H446.49Z" />
+</clipPath>
+<g id="pattern_tile_77">
+<g transform="matrix(.24991125,0,0,.24991125,259.74623,17.030533)">
+<use xlink:href="#image_7" x="0" y="0" width="16" height="16" />
+</g>
+</g>
+<pattern id="pattern_77" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-1039.3539,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_77" />
+</g>
+</pattern>
+<clipPath id="clip_78">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M466.43 342.99H476.40299V383.93299H466.43Z" />
+</clipPath>
+<g id="pattern_tile_79">
+<g transform="matrix(.24991125,0,0,.24991125,259.74623,17.030533)">
+<use xlink:href="#image_10" x="0" y="0" width="16" height="16" />
+</g>
+</g>
+<pattern id="pattern_79" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-1039.3539,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_79" />
+</g>
+</pattern>
+<clipPath id="clip_80">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M486.38 342.99H496.299V411.78199H486.38Z" />
+</clipPath>
+<g id="pattern_tile_81">
+<g transform="matrix(.24991125,0,0,.24991125,259.74623,17.030533)">
+<use xlink:href="#image_13" x="0" y="0" width="16" height="16" />
+</g>
+</g>
+<pattern id="pattern_81" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-1039.3539,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_81" />
+</g>
+</pattern>
+<clipPath id="clip_82">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M506.27 342.99H516.243V446.00999H506.27Z" />
+</clipPath>
+<g id="pattern_tile_83">
+<g transform="matrix(.24991125,0,0,.24991125,259.74623,17.030533)">
+<use xlink:href="#image_16" x="0" y="0" width="16" height="16" />
+</g>
+</g>
+<pattern id="pattern_83" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-1039.3539,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_83" />
+</g>
+</pattern>
+<clipPath id="clip_84">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M526.22 342.99H536.193V449.99H526.22Z" />
+</clipPath>
+<g id="pattern_tile_85">
+<g transform="matrix(.24991125,0,0,.24991125,259.74623,17.030533)">
+<use xlink:href="#image_63" x="0" y="0" width="16" height="16" />
+</g>
+</g>
+<pattern id="pattern_85" patternUnits="userSpaceOnUse" patternContentUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g transform="matrix(4.0014207,0,0,-4.0014207,-1039.3539,84.146327)">
+<use x="0" y="0" xlink:href="#pattern_tile_85" />
+</g>
+</pattern>
+<clipPath id="clip_86">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.15 290.241V469.77H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_87">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_88">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_89">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_90">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_91">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_92">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_93">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_94">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_95">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.2 290.241V469.68H393.84V290.241Z" clip-rule="evenodd" />
+</clipPath>
+</defs>
+<g clip-path="url(#clip_1)">
+<g clip-path="url(#clip_2)">
+<text xml:space="preserve" transform="matrix(.9939819 0 -0 1.0060546 -140 430)" font-size="9.902643" font-family="Nimbus Roman No9 L"><tspan y="-705.76388" x="72.12505 78.175579 83.1269 90.02904 94.98036 99.37714 102.67471 105.97229 110.923618 114.22119 121.925449 126.32222 131.27353 135.67032 142.58237 147.53368 153.33664 157.73342 162.68474 167.63607 170.93364 173.68659 178.63791 181.9355 186.33228 191.28359 198.74028 201.49323 204.79082 209.18759 211.94054 216.89185 219.64479 224.59612 232.06272 237.01404 242.81699 247.76831 250.52126 253.57128 256.86888 261.26564 264.5632 268.95997 273.9113 279.1696 286.3193 293.46903 300.61875 306.97627 311.92756 319.39414 324.34544 327.09837 330.13847 333.44599 337.84275 341.14033 345.53709 350.48844 355.7467 362.89643 368.4023 375.55204 381.90956 385.20713 387.96006 392.91139 397.30815 400.06108 405.01243 409.9637 412.71665 417.66798 425.13456 432.28428 439.434 442.73158 449.8813 453.17887 462.83396 467.2307 472.18205 479.6387 486.78843 495.59187 502.74159 508.5544 511.30735 517.66488 521.51699 526.46829 531.172 538.3217">Theperformanceofend-to-endtrainingofdifferentDNNsondifferentGPUs(includingNVIDIAandAMD)isshown</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-699.128" x="72 74.7696 82.24155 87.780757 90.550357 95.531658 101.11071 108.58266 113.00605 117.98735 125.4593 130.9985 133.76811 138.7494 144.32846 149.30976 154.29105 159.8701 168.47779 175.39183 179.81523 184.79653 192.54743 197.52872 201.95212 205.26967 212.18372 214.95333 219.93462 224.35802 227.12763 232.93582 237.91712 242.34052 245.65807 248.97562 253.95691 257.27445 265.02537 269.44877 274.43006 278.85346 285.76753 288.5371 296.00907 298.77867 305.872 313.34397 317.76737 322.74867 327.72996 330.49955 333.26914 337.69255 342.11595 344.88554 347.65513 352.6364 357.6177 363.98384 367.30137 370.07096 372.5616 376.98503 379.47569 384.457 387.77455 395.52546 399.94886 404.93016 411.8442 418.48927 421.25886 425.68226 429.5577 433.43318 436.20277 441.74198 446.16539 450.58879 453.35838 456.12797 461.10926 468.5812 473.0046 477.9859 485.45787 492.65086 498.738 506.76789 514.5188 519.5001 524.48147 528.90487 531.67446 535.54989 538.86746">inFig.9andFig.10.Wecomparetheirperformanceintwoapplications(i.e.,ImageClassiﬁcationandNLPmodels).</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-670.873" x="209.209 214.49913 218.92253 223.90383 226.67343 233.58748 238.56877 244.42679 250.51393 255.49523 262.40928 268.86503 273.69688 278.12028 281.4378 285.8612 290.8425 297.75657 304.94956 307.71916 310.48875 313.25834 316.02793 320.45133 324.87474 327.64433 330.4139 335.3952 342.86717 347.84846 353.65666 359.04643 363.46983 368.4511 372.32658 377.30787 383.11607 389.7611 394.7424 398.05995">Table9:TheAverageUtilizationofTensorCore</tspan></text>
+<path transform="matrix(1,0,0,-1,-20.682,-237.19202)" stroke-width=".797" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H375.854" />
+<path transform="matrix(1,0,0,-1,-20.483002,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-659.147" x="141.537 148.73 155.92299 163.11598">DNNs</tspan></text>
+<path transform="matrix(1,0,0,-1,49.011,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-659.147" x="190.628 197.27306 201.69646 205.57192 210.5532 214.97661 217.74622 222.72751">Resnet50</tspan></text>
+<path transform="matrix(1,0,0,-1,89.325,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-659.147" x="230.942 234.25955 239.24085 243.66425 248.08765 253.06894 255.83855 258.60816 263.58946 271.0614 276.0427">Inceptionv3</tspan></text>
+<path transform="matrix(1,0,0,-1,142.64002,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-659.147" x="284.256 291.449 296.4303 303.90226 308.88356">Vgg16</tspan></text>
+<path transform="matrix(1,0,0,-1,175.482,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-659.147" x="317.098 322.07929 325.39683 331.48399 335.90739 340.88868 345.31208 351.12028 357.20744 362.74665 368.8338">2-LayerLSTM</tspan></text>
+<path transform="matrix(1,0,0,-1,239.307,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-659.147" x="380.924 388.117 392.5404 396.9638 404.43577 409.97499 414.95628 419.37968 423.80308 428.22648 435.69844">DeepSpeech2</tspan></text>
+<path transform="matrix(1,0,0,-1,302.296,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-659.147" x="443.913 449.65147 452.969 457.3924 462.3737 466.24916 469.56669 474.54798 477.8655 485.61643 490.03984">Transformer</tspan></text>
+<path transform="matrix(1,0,0,-1,354.973,-225.875)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<path transform="matrix(1,0,0,-1,-20.682,-225.61603)" stroke-width=".498" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H375.854" />
+<path transform="matrix(1,0,0,-1,-20.682,-223.125)" stroke-width=".498" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H375.854" />
+<path transform="matrix(1,0,0,-1,-20.483002,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-645.23" x="121.134 126.52377 130.94718 135.92847 139.80393 144.22733 150.03553 156.68058 161.66187 164.97942 171.89347 179.08646 181.85607 184.62567">TenserCoreUtil</tspan></text>
+<path transform="matrix(1,0,0,-1,49.011,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-645.23" x="198.792 203.7733 206.26395 211.24524">9.2%</tspan></text>
+<path transform="matrix(1,0,0,-1,89.325,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-645.23" x="245.606 250.5873 253.07794 258.05924">6.8%</tspan></text>
+<path transform="matrix(1,0,0,-1,142.64002,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-645.23" x="288.685 293.6663 296.15696 301.13825">7.3%</tspan></text>
+<path transform="matrix(1,0,0,-1,175.482,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-645.23" x="337.019 342.0003 344.49098 349.47227">3.9%</tspan></text>
+<path transform="matrix(1,0,0,-1,239.307,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-645.23" x="400.426 405.4073 407.89796 412.87925">5.1%</tspan></text>
+<path transform="matrix(1,0,0,-1,302.296,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-645.23" x="458.259 463.2403 465.73097 470.71226">4.4%</tspan></text>
+<path transform="matrix(1,0,0,-1,354.973,-211.95697)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V10.909" />
+<path transform="matrix(1,0,0,-1,-20.682,-211.54798)" stroke-width=".797" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H375.854" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L" font-weight="bold"><tspan y="-614.385" x="72 79.193 86.386 93.579">CNNs</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-620.4984" x="106.35868 109.709239 115.27338 119.74078 124.2082 132.0161 137.04697 144.28136 148.19536 152.66277 157.13018 164.93808 168.28864 171.63919 176.67008 187.26506 192.85939 195.65656 200.68743 207.17725 214.98517 217.77227 222.80313 227.27054 232.84474 238.2982 242.76561 246.67961 249.47678 256.72123 263.98579 269.01667 274.04756 281.84538 286.87626 291.34367 298.0347 300.83186 305.86274 313.0971 318.128 322.5954 326.50944 332.07356 337.1044 341.57185 344.9224 348.27299 353.30384 356.65443 364.48246 368.94987 373.98075 378.44816 385.6926 392.95716 395.7543 398.55146 406.34928 411.38017 416.41105 419.2082 427.01609 432.6104 438.20475 443.2356 451.03346 455.50086 460.53175 468.33964 477.2845 480.08164 484.96159 489.42903 497.22685 502.82118 506.17176 510.63917 515.10659 517.90377 521.81777 524.6149 529.64578">ItcanbeseenfromFig.9thatTeslaV100hasthebestperformancewithbothFP32andMixedPrecision</tspan><tspan y="-609.48086" x="71.29062 74.08778 77.43834 81.905757 84.70292 89.73378 92.530948 97.56181 105.2691 109.7365 117.56453 122.5954 127.62627 135.33356 138.13072 143.16159 150.3054 153.10257 157.56998 161.484 164.28116 168.74855 176.44579 183.71035 189.30467 196.56925 200.48326 206.69135 213.95592 218.98679 224.01766 228.48506 234.51204 237.3092 242.34008 249.47383 253.38785 257.85527 265.6833 272.82713 277.858 282.8889 290.7169 295.18434 298.53489 301.33204 305.79948 310.26689 315.74046 320.77134 324.1219 328.58934 333.05674 335.85389 339.7679 342.56507 347.59596 352.6268 357.869 365.13356 372.39814 375.7487 383.01325 386.36384 396.30485 403.5694 408.60029 413.63114 421.33845 426.36933 430.83674 435.8676 440.33503 443.6856 448.153 450.95018 453.7473 461.45463 465.92204 470.38948 475.42033 478.21748 482.43336 487.32334 491.79078 498.37117 503.40205 505.91746">trainingamongthetestedGPUs.Underthesamenumericalprecision,NVIDIAV100generallyachieves1.5</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Computer Modern" font-style="italic"><tspan y="-603.476" x="516.038">×</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-609.48086" x="518.6254 521.976">-2</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005982 0 -0 .9940535 -140 430)" font-size="10.022197" font-family="Nimbus Roman No9 L"><tspan y="-596.11178" x="71.57185 76.582958 79.36913 84.380229 89.39133 93.84119 99.65406 104.66516 109.11501 112.45241 115.789798 120.800899 124.13828 131.93555 136.3854 141.3965 145.84636 152.76168 155.54784 160.55895 165.00879 172.49538 175.28156 180.29265 187.20796 194.444 203.35373 213.06523 219.75005 224.19989 229.211 233.66085 238.67194 246.15853 253.39456 256.73197 262.5348 269.77085 275.34318 282.57923 287.56028 294.7963 302.59358 307.60469 312.61576 320.10237 327.33839 334.57444 337.91184 345.14787 348.48527 358.18678 365.4228 370.99516 378.23118 382.12983 387.11088 392.54289 396.99275 400.8914 403.67753 410.59284 416.1652 421.17628 426.18739 433.67399 438.1238 443.13493 450.62153 456.3943 459.18046 461.9666 466.41645 473.90306 483.60453 486.94194 492.37397 496.82383 500.72248 505.17234 509.6222 512.4084 518.21127 523.22238 527.4718 532.3425">higherperformancethantheAMDRadeonVIIGPU.AmongNVIDIAGPUs,TeslaP100andTitanX(Pascal)have</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -140 430)" font-size="9.862471" font-family="Nimbus Roman No9 L"><tspan y="-575.8121" x="72.73099 77.109928 79.85169 84.78293 88.61943 95.316059 100.24729 104.626239 107.91044 111.19465 116.125888 119.41009 127.08309 131.46202 136.39325 140.7722 147.46883 151.84777 157.99208 160.73386 165.66509 170.04402 173.88053 180.57715 183.31893 190.34099 197.5899 204.7106 210.19414 217.31484 223.45915 228.39038 232.57209 237.35536 244.04213 247.87863 250.6204 258.2934 261.03517 263.77693 268.15586 273.75773 278.68898 283.0679 287.44688 294.69578 300.17933 306.20527 313.326 318.8095 326.61076 330.9897 335.92094 343.16 350.833 355.21195 362.88496 367.8162 371.1004 378.3493 383.28056 387.6595 392.59074 397.52198 404.64268 407.38444 412.31568 415.05744 419.98869 424.81144 429.19038 435.34455 439.18104 444.11228 448.7871 455.9078 463.1567 465.89848 473.1474 478.36463 482.74357 487.6748 490.41658 497.11317 502.0444 507.56739 516.87759 521.8088 526.1877 533.4267 536.1685 541.09976">closeperformanceasthesetwoGPUshavesimilarpeakFLOPSandmemorybandwidth,asshowninTable4.Whenthe</tspan><tspan y="-565.0127" x="72.73099 77.662227 82.04116 86.972408 91.35134 96.83488 101.77597 106.70721 112.19074 116.027248 123.14795 125.88972 128.63149 133.01042 137.94165 140.68343 145.61466 152.73537 156.01956 159.30376 164.23499 174.10733 179.59085 185.07439 190.00562 197.13619 202.61972 205.90392 210.28285 214.6618 217.40358 221.24008 223.98186 228.91309 236.04364 238.78542 245.91599 254.68372 257.4255 262.19895 266.57789 273.70845 279.192 282.4762 286.85514 291.23408 293.97584 297.81233 300.55409 305.48533 312.6159 315.35768 321.39347 326.32475 333.4553 336.19706 343.3276 348.25886 353.1901 355.93186 363.05256">beneﬁtofswitchingfromFP32PrecisiontoMixedPrecisionisuptoonly2</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -140 430)" font-size="9.862471" font-family="Nimbus Roman No9 L"><tspan y="-565.0127" x="378.01225 382.94349 385.68525 390.6165 395.54774 399.92668 405.4102 408.15196 413.0832 416.3674 421.29866 426.2299 431.16114 436.09239 441.02363 445.95487 450.89595 454.18016 459.1114 464.58506 471.70576 476.637 481.5781 486.50935 491.23347 493.97523 498.90647 505.4847 510.41596 513.1577 515.8995 518.6413 521.38308 525.76199 530.14089 532.8827 535.62448 540.55569">higherthroughputforV100,theutilization</tspan></text>
+<text xml:space="preserve" transform="matrix(.9934788 0 -0 1.0065641 -140 430)" font-size="9.897631" font-family="Nimbus Roman No9 L"><tspan y="-556.1891" x="72.47261 77.421428 83.23133 88.57605 92.970607 97.91942 101.76959 106.71841 112.51842 119.12014 124.068958 127.36486 134.2734 137.02495 143.37924 148.32807 159.08679 163.48134 168.73699 176.43735 181.38617 185.23635 190.50189 195.45072 202.91353 209.51525 213.9098 217.75998 222.7088 227.10335 229.85489 234.80371 242.25664 245.00818 252.47101 257.71678 262.11134 267.06013 269.81169 276.71034 284.17314 289.97315 293.17008 297.56465 303.3745 306.67045 309.96635 314.91514 325.1196 327.87117 332.81996 339.7285 344.67729 349.07185 353.4664 360.9193 366.4224 372.46986 379.61595 385.11903 390.6221 395.6105 400.96513 405.91395 411.71394 414.46549 421.5126 428.9754 433.9242 438.31877 442.16896 447.11775 449.8693 454.8181 459.7669 463.06285 465.8144 469.9516 474.75193 479.14646 484.41203 491.5581 497.0612 504.20729 510.56153 515.5104 519.90499 522.65646 529.80258 534.19717 538.5917">ofTensorCoreis9%atmostonResnet50inTable9-farfromthepeakFLOPS.Fortwodesktop-levelGPUsbetween</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-554.3931" x="71.29062 78.5552 85.81977 89.17033 96.4349 99.78546 109.56547 115.371089 118.16825 120.965419 125.43282 132.97913 142.75913 146.10968 151.55309 156.02048 159.9345 164.4019 168.86931 171.66646 177.53246 181.99987 187.03073 194.57704 201.84162 210.7865 220.5665 227.27768 231.74507 236.77596 241.24335 246.27423 253.82051 261.08509 264.43568 267.78623 272.8171 275.61427 280.6451 287.628 292.65885 297.12629 301.5937 309.13999 314.7343 320.88206 328.1466 333.74095 339.33528 344.36616 348.83357 353.86445 361.41075 369.23878 373.70619 381.5342 386.56507 389.91566 397.46195 402.49284 406.96025 411.99113 417.022 424.28657 427.0837 432.1146 434.9117 442.45805 447.48893 453.35493 460.0661 464.5335 469.5644 474.0318 479.06269 486.60899 493.87355 497.22413 503.09013 505.88728 512.3268 516.7942 521.825 526.8559 531.8868">NVIDIATitanX(Pascal)andAMDRadeonVII,thepeakFLOPS,andmemorybandwidthofRadeonVIIisabout</tspan></text>
+<text xml:space="preserve" transform="matrix(.99949988 0 -0 1.0005003 -140 430)" font-size="9.957618" font-family="Nimbus Roman No9 L"><tspan y="-537.7529" x="72.03603 77.01484 81.99365 92.76779 97.18897 102.16778 109.62603 114.60484 119.58365 130.36777 135.34658 138.11478 143.0936 148.0724 152.49359 158.28893 161.05715 166.03595 170.45714 177.91539 180.68361 185.66242 190.0836 195.33127 200.31008 206.10541 211.84099 214.6092 217.37743 221.79862 229.25687 238.92572 242.24161 247.62866 252.04985 255.92337 260.34455 264.76576 267.53398 273.33927 276.65516 281.07637 284.94987 289.92869 294.34986 298.77107 301.53929 304.0586 308.88804 313.3092 316.07746 320.39906 325.37788 332.56727 337.54606 341.96726 345.28315 349.70436 354.12553 360.4785 366.21409 368.98234 371.75056 376.17176 383.63 393.29884 397.72004 402.1412 407.12004 409.88825 414.06053 418.88996 423.31114 429.6641 433.53764 436.30586 439.0741 444.0529 449.0317 451.79994 454.56816 462.03639 467.01518 469.78343 474.7622 479.74104 484.16224 489.95759 494.93638 499.35758 502.67347 505.98936 510.96818 514.28408 522.03109 526.4522 531.431 535.8522">22%and52%higherthanthatofTitanX(Pascal)respectively,whereasTitanXachievesslightlyhigherperformance</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-532.358" x="71.29062 74.08778 79.11865 83.58606 91.24304 97.954219 102.42162 107.45249 111.9199 116.95077 124.60774 131.87232 135.22287 141.19953 146.23041 153.89745 160.60861 165.07602 168.99004 174.0209 178.48831 183.91158 188.94246 193.97333 200.03049 206.1782 211.20908 218.30258 223.33347 228.36434 232.83174 237.86261 242.89348 250.7215 255.18892 260.2198 265.25068 272.90766 275.7048 280.7357 285.76655 288.5637 293.03114 297.49855 300.2957 304.7631 311.30326 314.1004 319.1313 323.5987 326.94929 334.04283 338.36936 343.40025 346.1974 350.1114 355.53468 360.56556 365.5964 370.6273 375.65818 379.00874 381.80589 386.83677 391.8676 394.66477 397.4619 400.25907 404.7265 411.26664 414.61723 419.64808 425.6248 428.97535 434.00624 436.80339 441.83424 445.1848 452.27836 457.30924 462.3401 465.13725 467.9344 475.76243 478.55958 483.02699 487.4944 490.29154 493.08869 498.11958 503.15046 509.69053 514.7214 522.3884 525.1856 530.2165">thanRadeonVIIonResnet50.Thephenomenonindicatesthereexistopportunitiesforfutureoptimizationsonthe</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-516.204" x="71.641 78.834 87.69075 97.3744 101.24985 106.23115 109.54869 112.31829 119.41167 123.83506 127.1526 134.06665 138.49005 142.91345 147.89475 151.7702 156.7515 160.62696 163.39656 167.81996 178.06151 180.83112 188.30306 193.28435 197.70775 200.47736 203.24697 207.67037 213.47856 218.45986 221.22946 223.99907 226.76868 229.53829 233.96169 240.87574 243.64534 248.62664 255.54068 260.52198 264.94538 268.2629 273.2442 280.33757 284.76097 288.0785 294.99256 299.41596 304.39726 307.16685 309.93644 312.70603 315.47563 322.94758 325.71717 333.18913 337.92137 342.34477 345.6623 348.4319 353.41319 358.39448 364.7606 369.74189 374.16529 378.58869 386.06065 388.83024 393.25364 397.67704 400.99458 405.97587 408.74546 413.72676 421.1987 428.29206 433.27336 436.59089 441.57218 444.34178 449.32307 453.74647 458.72776 462.6032">AMDsoftwareecosystemtobetterutilizethehardwareabilityinvariousdeeplearningworkloads.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L" font-weight="bold"><tspan y="-493.30097" x="72 79.193 85.83806 94.864177 104.26887 109.25017 114.789379 119.21277 121.98237">NLPModels</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-498.20954" x="134.48581 140.63353 145.6644 153.0497 156.40026 160.86766 164.78166 169.81253 172.6097">Theresult</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="6.9738" font-family="Nimbus Roman No9 L"><tspan y="-496.916" x="177.148 180.63489">10</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-498.20954" x="185.71504 190.74591 197.01438 202.04524 206.51265 209.8632 213.21376 218.24463 221.59519 229.4232 233.89061 238.92148 243.38889 250.76415 255.79502 262.06349 269.32804 275.47578 283.97795 291.80595 296.83683 301.8677 306.3351 309.13227 315.96418 320.4316 323.78218 331.16749 335.0815 340.1124 344.8917 352.15629 360.10505 362.9022 370.84089 376.4352 379.23237 384.26325 391.18574 396.21659 401.24748 408.15989 415.42445 422.68904 426.03959 433.30418 436.65473 446.8372 454.10176 459.69609 466.96067 473.7825 478.24995 482.71736 487.74824 490.54539 494.7713 499.65126 507.0366 511.91654 516.7965 521.2639 524.6145 529.08187 531.879">ofperformanceofNLPmodelsareshowninFig.10.NVIDIAGPUsachieveoverall</tspan><tspan y="-487.192" x="71.29062 76.32149 79.11865 84.14951 89.18038 93.64779 99.46347 104.49434 108.961757 112.31231 115.662868 120.693729 124.04428 131.87232 136.33972 141.37059 145.838 152.78058 155.57775 160.60861 165.07602 172.57202 175.36919 180.40006 187.33258 194.59716 203.54204 213.28179 220.54636 226.14069 233.40526 238.38582 241.73638 249.23236 254.26323 258.73066 262.0812 264.87837 267.6755 272.14295 277.1738 279.97096 284.4384 287.39656 292.3771 298.18275 300.9799 303.77705 308.24446 315.74046 325.48023 328.83079 334.27418 338.7416 342.6556 347.12306 351.59046 354.3876 360.2033 363.00047 369.3796 374.41047 378.8779 383.3453 386.6959 389.49305 396.99909 402.02998 404.5454">higherperformancethantheAMDGPU.Inparticular,TitanX(Pascal)isnearly1.9</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-487.192" x="419.71464 424.18205 429.21293 436.7089 441.73979 444.25523">and1.5</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-487.192" x="459.43046 462.6804 467.14784 471.06184 473.85899 478.32643 484.14213 486.93925 491.97013 496.43754 503.9436 510.65483 515.1222 520.1531 524.6205 529.6513">fasterthanRadeon</tspan><tspan y="-476.17344" x="70.93516 78.19973 81.550289 87.89924 92.93011 100.9493 104.29986 108.767269 113.23468 118.26554 121.6161 124.96665 129.43407 134.46494 140.2605 144.7279 149.75878 157.77797 162.80886 167.83972 172.87059 176.22115 179.5717 184.03911 188.50652 193.53739 196.88794 200.2385 204.7059 209.73677 215.53234 223.36035 228.39122 233.4221 237.8895 240.68666 244.60068 250.23525 253.58583 258.05326 261.96726 266.99815 271.46556 275.93299 278.73014 281.28578 286.1657 290.63316 293.4303 297.8172 304.98115 312.24574 320.07374 325.1046 330.1355 338.1547 345.41926 352.68385 356.0344 363.29896 366.64955 376.9125 384.17707 389.7714 397.03596 400.94999 406.58457 412.04808 416.5155 420.42955 423.22666 430.6824 437.947 442.97785 448.00874 456.038 460.5054 463.20195 470.36589 474.8333 479.86418 486.7766 491.80747 496.2749 503.17726 505.9744 511.00529 518.47109 523.50198 527.96939 531.88339">VIIonrecurrentandnon-recurrentmodels,respectively.AmongNVIDIAGPUs,TeslaV100alwayshasthebest</tspan><tspan y="-465.15589" x="71.29062 76.32149 80.788898 84.13946 87.49001 92.520877 95.87143 103.69946 108.16687 113.19774 117.665149 122.13256 127.57595 132.60683 137.39623 144.66078 148.87665 153.76665 158.23406 161.18213 166.32369 173.58824 176.3854 179.18257 186.79932 191.01519 195.90518 200.37259 207.98934 211.90334 214.7005 217.49767 222.52854 227.55942 230.35659 234.82398 240.7604 243.55757 251.38559 256.41645 259.76704 264.64698 269.52693 273.99433 281.82237 286.28977 291.32066 296.7137 299.51087 307.12763 316.07249 318.86964 323.74958 328.21699 335.83375 341.42808 344.77864 349.24604 353.71348 356.51063 360.42466 363.2218 368.25267 375.87947 380.33683 385.3677 393.1957 398.2266 402.694 406.0446 410.512 418.1388 420.93595 428.5527 431.34986 436.3807 443.43403 449.02836 454.62269 459.65354 467.2703 471.7377 476.7686 481.79945 486.83033 489.62748 494.09489 497.44548 502.47633 506.94377 510.2943 513.0915 519.0279 525.1756 530.2065">performance;however,withevenslighterimprovementinMixedPrecisioncomparedtotheFP32counterpart.The</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -140 430)" font-size="9.862471" font-family="Nimbus Roman No9 L"><tspan y="-445.14463" x="72.73099 80.40399 84.78293 87.88961 92.82085 95.562618 102.870708 105.61247 113.28548 118.21671 121.50092 126.28422 131.06752 135.44646 143.11946 147.4984 152.42963 157.54827 162.47949 168.1504 173.46628 177.84523 181.68173 184.42351 191.18917 198.30986 203.24109 208.17232 215.48041 222.6011 225.34288 228.08466 235.4026 244.17034 246.91211 251.68553 256.06449 263.38243 268.86598 272.15019 276.5291 280.90806 283.6498 287.48634 290.2281 295.15934 302.4674 305.20918 310.1404 315.07167 317.81343 322.19239 326.57133 329.31309 333.69203 339.91523 342.65699 347.58824 351.96717 357.0858 359.82756 364.7588 371.52445 375.36097 380.2922 383.57643 386.31819 393.34025 397.71919 401.0034 407.7592 410.50096 413.2427 418.17396 421.45814 425.8371 429.12129 436.43925 440.27577 445.207 450.13825 455.0695 457.81126 465.11936 470.0506 476.81626 480.10044 485.03169 488.3159 491.05766 495.9889 500.36784 506.0289 510.96015 515.89138 518.6331 521.37496 529.0479 531.78976 536.16867 540.54757">marginimprovementofTeslaV100withMixedPrecisionindicatesthatthesoftwarelibraryshouldbefurtheroptimized</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-438.755" x="72 75.31754 80.29884 86.10703 93.30003 99.387187 107.41704 115.16794 120.14924 125.13054 129.55394 132.32355 136.199">forNLPmodels.</tspan></text>
+<g>
+<g clip-path="url(#clip_3)">
+<g clip-path="url(#clip_4)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M53.345 290.241H544.92V491.106H53.345Z" fill="#ffffff" fill-rule="evenodd" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".227" stroke-linecap="butt" stroke-dasharray=".908,.681,.227,.681" stroke-linejoin="round" fill="none" stroke="#000000" stroke-opacity=".50196" d="M125.23 366.06H237.1M125.23 389.6H237.1M125.23 413.14H237.1M125.23 436.74H237.1M125.23 460.29H237.1" />
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M125.23 342.48H237.1V460.29H125.23Z" />
+<g clip-path="url(#clip_5)">
+<rect transform="matrix(.24991125,0,0,-.24991125,47.82147,21.029114)" fill="url(#pattern_6)" x="46.453355" y="-323.51988" width="24.850647" height="165.168" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M139.22 342.48H148.539V404.418H139.22Z" />
+<g clip-path="url(#clip_8)">
+<rect transform="matrix(.24991125,0,0,-.24991125,47.82147,21.029114)" fill="url(#pattern_9)" x="96.16002" y="-323.51988" width="24.850678" height="109.650608" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M157.86 342.48H167.179V383.599H157.86Z" />
+<g clip-path="url(#clip_11)">
+<rect transform="matrix(.24991125,0,0,-.24991125,47.82147,21.029114)" fill="url(#pattern_12)" x="145.86669" y="-323.51988" width="24.850678" height="148.16269" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M176.5 342.48H185.819V398.04103H176.5Z" />
+<g clip-path="url(#clip_14)">
+<rect transform="matrix(.24991125,0,0,-.24991125,47.82147,21.029114)" fill="url(#pattern_15)" x="195.57335" y="-323.51988" width="24.850678" height="230.56537" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M195.14 342.48H204.459V428.94203H195.14Z" />
+<g clip-path="url(#clip_17)">
+<rect transform="matrix(.24991125,0,0,-.24991125,47.82147,21.029114)" fill="url(#pattern_18)" x="245.28002" y="-323.51988" width="24.850663" height="253.23734" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M213.78 342.48H223.099V437.444H213.78Z" />
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M125.23 342.48H237.1" />
+<g clip-path="url(#clip_20)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-337.85" x="102.46">0</tspan></text>
+</g>
+<g clip-path="url(#clip_21)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-361.42" x="78.264 86.35198 94.439968 102.52795">5000</tspan></text>
+</g>
+<g clip-path="url(#clip_22)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.936" font-family="Calibri"><tspan y="-384.98" x="70.224 78.30355 86.3831 94.462657 102.43066">10000</tspan></text>
+</g>
+<g clip-path="url(#clip_23)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-408.53" x="70.224 78.29138 86.358768 94.42615 102.429889">15000</tspan></text>
+</g>
+<g clip-path="url(#clip_24)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-432.1" x="70.224 78.29138 86.358768 94.42615 102.429889">20000</tspan></text>
+</g>
+<g clip-path="url(#clip_25)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-455.66" x="70.224 78.29138 86.358768 94.42615 102.429889">25000</tspan></text>
+</g>
+<g clip-path="url(#clip_26)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.936" font-family="Calibri"><tspan y="-317.18" x="141 148.76084 154.3225 161.95584 170.25849 176.48946 181.34993 189.7482 195.21425 207.94712 215.80356">Transformer</tspan></text>
+</g>
+<g clip-path="url(#clip_27)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-297.77" x="153.84 162.1938 168.41539 176.33957 184.40695 192.47434 200.54172">bs=4096</tspan></text>
+</g>
+<g clip-path="url(#clip_28)">
+<text xml:space="preserve" transform="matrix(0 -.66643 .66643 0 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="68.544" x="292.61 300.50236 308.4265 313.9798 318.4988 326.88444 332.4377 345.1514 352.77326 361.12705 367.85783 375.78199 380.60334 387.90696 395.5288 408.2425 416.59629 420.25605 428.10066 434.32225 440.14604 446.3676 454.29179 460.9589">Performance(Samples/sec)</tspan></text>
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M142.25 472.54H491.55V487.59703H142.25Z" fill="#ffffff" fill-rule="evenodd" />
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M142.25 472.54H491.55V487.59703H142.25Z" />
+<g clip-path="url(#clip_29)">
+<rect transform="matrix(.24991125,0,0,-.24991125,67.81438,5.03479)" fill="url(#pattern_30)" x="14.23996" y="-30.586663" width="19.957276" height="19.957402" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M157.14 476.33H164.624V483.814H157.14Z" />
+<g clip-path="url(#clip_32)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="13.632" font-family="Calibri"><tspan y="-476.11" x="168.22 174.85878 177.99414 182.56087 189.09059 196.24739 199.38275">Titan X</tspan></text>
+</g>
+<g clip-path="url(#clip_33)">
+<rect transform="matrix(.24991125,0,0,-.24991125,111.79875,5.03479)" fill="url(#pattern_34)" x="8.720001" y="-30.586663" width="19.957337" height="19.957402" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M221.07 476.33H228.554V483.814H221.07Z" />
+<g clip-path="url(#clip_36)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="13.632" font-family="Calibri"><tspan y="-476.11" x="232.18 239.58217 246.1119 253.26869 259.9893 267.17335 274.33015 277.41099 285.14033 288.5756">Radeon VII</tspan></text>
+</g>
+<g clip-path="url(#clip_37)">
+<rect transform="matrix(.24991125,0,0,-.24991125,167.77887,5.03479)" fill="url(#pattern_38)" x="13.119995" y="-30.586663" width="19.957337" height="19.957402" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M306.72 476.33H314.204V483.814H306.72Z" />
+<g clip-path="url(#clip_40)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="13.632" font-family="Calibri"><tspan y="-476.11" x="317.83 324.87773 331.78916 338.7006">P100</tspan></text>
+</g>
+<g clip-path="url(#clip_41)">
+<rect transform="matrix(.24991125,0,0,-.24991125,203.76609,5.03479)" fill="url(#pattern_42)" x="11.866699" y="-30.586663" width="19.957337" height="19.957402" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M360.25 476.33H367.734V483.814H360.25Z" />
+<g clip-path="url(#clip_44)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="13.632" font-family="Calibri"><tspan y="-476.11" x="371.38 379.10935 386.02079 392.8777">V100</tspan></text>
+</g>
+<g clip-path="url(#clip_45)">
+<rect transform="matrix(.24991125,0,0,-.24991125,239.7533,5.03479)" fill="url(#pattern_46)" x="12.453369" y="-30.586663" width="19.957398" height="19.957402" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M414.47 476.33H421.954V483.814H414.47Z" />
+<g clip-path="url(#clip_48)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="13.632" font-family="Calibri"><tspan y="-476.11" x="425.59 433.31935 440.25804 447.16947 454.0809 458.2114 469.90766 476.95539">V100(MP)</tspan></text>
+</g>
+<g clip-path="url(#clip_49)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M388.3 290.241V471.27H241.05V290.241Z" fill="#ffffff" fill-rule="evenodd" />
+</g>
+<g clip-path="url(#clip_50)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".227" stroke-linecap="butt" stroke-dasharray=".908,.681,.227,.681" stroke-linejoin="round" fill="none" stroke="#000000" stroke-opacity=".4902" d="M272.59 366.44H388.3M272.59 389.82H388.3M272.59 413.2H388.3M272.59 436.63H388.3M272.59 460.02H388.3" />
+</g>
+<g clip-path="url(#clip_51)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M272.59 343.03H388.3V460.02H272.59Z" />
+</g>
+<g clip-path="url(#clip_52)">
+<rect transform="matrix(.24991125,0,0,-.24991125,147.78597,21.029114)" fill="url(#pattern_53)" x="53.54669" y="-322.05323" width="29.35736" height="224.32529" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#15200e" d="M291.88 343.03H302.889V427.152H291.88Z" />
+<g clip-path="url(#clip_55)">
+<rect transform="matrix(.24991125,0,0,-.24991125,175.77602,41.022005)" fill="url(#pattern_56)" x=".293396" y="-242.05327" width="29.386658" height="226.89334" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#15200e" d="M313.91 343.03H324.93V428.115H313.91Z" />
+<g clip-path="url(#clip_58)">
+<rect transform="matrix(.24991125,0,0,-.24991125,147.78597,21.029114)" fill="url(#pattern_59)" x="171.09333" y="-322.05323" width="29.3573" height="277.36" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#15200e" d="M335.96 343.03H346.969V447.04H335.96Z" />
+<g clip-path="url(#clip_61)">
+<rect transform="matrix(.24991125,0,0,-.24991125,147.78597,21.029114)" fill="url(#pattern_62)" x="229.81336" y="-322.05323" width="29.35736" height="289.43995" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#15200e" d="M357.98 343.03H368.989V451.57H357.98Z" />
+<g clip-path="url(#clip_64)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M272.59 343.03H388.3" />
+</g>
+<g clip-path="url(#clip_65)">
+</g>
+<g clip-path="url(#clip_66)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-361.78" x="241.78 249.84398">10</tspan></text>
+</g>
+<g clip-path="url(#clip_67)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.936" font-family="Calibri"><tspan y="-385.2" x="241.78 249.84395">20</tspan></text>
+</g>
+<g clip-path="url(#clip_68)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-408.6" x="241.78 249.84398">30</tspan></text>
+</g>
+<g clip-path="url(#clip_69)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-432" x="241.78 249.84398">40</tspan></text>
+</g>
+<g clip-path="url(#clip_70)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-455.4" x="241.78 249.84398">50</tspan></text>
+</g>
+<g clip-path="url(#clip_71)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-317.71" x="282.62 292.40589 300.33006 308.2542 316.608 320.2041 327.50773 335.8615 343.78569 351.64619 358.37696 366.73075 370.32685">Deep Speech 2</tspan></text>
+</g>
+<g clip-path="url(#clip_72)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.936" font-family="Calibri"><tspan y="-298.32" x="311.21 319.5764 325.75956 333.69569 341.72743">bs=32</tspan></text>
+</g>
+<g clip-path="url(#clip_73)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" d="M541.17 290.241V469.75H393.86V290.241Z" fill="#ffffff" fill-rule="evenodd" />
+</g>
+<g clip-path="url(#clip_74)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".227" stroke-linecap="butt" stroke-dasharray=".908,.681,.227,.681" stroke-linejoin="round" fill="none" stroke="#000000" stroke-opacity=".50196" d="M441.51 362.51H541.17M441.51 382.02H541.17M441.51 401.53H541.17M441.51 421.04H541.17M441.51 440.55H541.17M441.51 460.05H541.17" />
+</g>
+<g clip-path="url(#clip_75)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M441.51 342.99H541.17007V460.05H441.51Z" />
+</g>
+<g clip-path="url(#clip_76)">
+<rect transform="matrix(.24991125,0,0,-.24991125,259.74623,21.029114)" fill="url(#pattern_77)" x="17.839844" y="-322.15995" width="26.594727" height="205.24539" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M446.49 342.99H456.46299V419.957H446.49Z" />
+<g clip-path="url(#clip_78)">
+<rect transform="matrix(.24991125,0,0,-.24991125,259.74623,21.029114)" fill="url(#pattern_79)" x="71.01318" y="-322.15995" width="26.594605" height="109.181339" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M466.43 342.99H476.40299V383.93299H466.43Z" />
+<g clip-path="url(#clip_80)">
+<rect transform="matrix(.24991125,0,0,-.24991125,259.74623,21.029114)" fill="url(#pattern_81)" x="124.21326" y="-322.15995" width="26.450684" height="183.44528" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M486.38 342.99H496.299V411.78199H486.38Z" />
+<g clip-path="url(#clip_82)">
+<rect transform="matrix(.24991125,0,0,-.24991125,259.74623,21.029114)" fill="url(#pattern_83)" x="177.25318" y="-322.15995" width="26.594605" height="274.72" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M506.27 342.99H516.243V446.00999H506.27Z" />
+<g clip-path="url(#clip_84)">
+<rect transform="matrix(.24991125,0,0,-.24991125,259.74623,21.029114)" fill="url(#pattern_85)" x="230.45325" y="-322.15995" width="26.594605" height="285.33338" />
+</g>
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M526.22 342.99H536.193V449.99H526.22Z" />
+<g clip-path="url(#clip_86)">
+<path transform="matrix(.66643,0,0,-.66643,-33.349706,330.11933)" stroke-width=".341" stroke-linecap="butt" stroke-linejoin="round" fill="none" stroke="#000000" d="M441.51 342.99H541.17" />
+</g>
+<g clip-path="url(#clip_87)">
+</g>
+<g clip-path="url(#clip_88)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-357.86" x="402.67 410.734 418.798">200</tspan></text>
+</g>
+<g clip-path="url(#clip_89)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-377.38" x="402.67 410.734 418.798">400</tspan></text>
+</g>
+<g clip-path="url(#clip_90)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-396.89" x="402.67 410.734 418.798">600</tspan></text>
+</g>
+<g clip-path="url(#clip_91)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-416.4" x="402.67 410.734 418.798">800</tspan></text>
+</g>
+<g clip-path="url(#clip_92)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-435.91" x="394.61 402.67399 410.73799 418.80198">1000</tspan></text>
+</g>
+<g clip-path="url(#clip_93)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-455.42" x="394.61 402.67399 410.73799 418.80198">1200</tspan></text>
+</g>
+<g clip-path="url(#clip_94)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-317.66" x="448.03 456.09739 460.96647 467.6495 475.27137 482.4795 490.40367 495.95695 499.55305 506.23609 513.5397 521.2888">2-Layer LSTM</tspan></text>
+</g>
+<g clip-path="url(#clip_95)">
+<text xml:space="preserve" transform="matrix(.66643 0 -0 .66643 -33.349706 330.11933)" font-size="15.912" font-family="Calibri"><tspan y="-298.27" x="468.1 476.4538 482.67539 490.59956 498.66694 506.7343">bs=256</tspan></text>
+</g>
+</g>
+</g>
+<text xml:space="preserve" transform="matrix(.997998 0 -0 1.002006 -140 430)" font-size="9.942655" font-family="Nimbus Roman No9 L"><tspan y="-282.26875" x="72.14444 77.672557 80.43661 85.407939 90.379268 93.69016 100.61025 105.58158 110.5529 116.419078 122.49403 127.465358 134.38545 137.69637 142.1109 145.97859 150.94992 153.71399 156.47806 162.8513 167.82263 173.62915 178.60048 183.01503 186.32593 189.63683 194.60817 197.91907 205.65445 210.06899 215.04032 219.45487 226.37496 230.78949 235.76082 243.4962 248.46753 252.88208 256.19297 258.95704 262.82475 267.79606 275.27293 280.24424 287.72108 294.89967 300.4278 307.60639 313.96968 321.14826 323.91233 326.67637 334.1532 341.3318 347.40678 355.44044 363.1758 368.14714 373.11848 377.533 380.29707 384.16474 389.76246 396.94105 401.3556 405.77015 413.24699 418.77513 423.74644 428.16099 432.5755 436.99006 444.45698 451.9338 456.34837 460.76289 465.7342 470.70555 475.67686 480.9464 485.91777 492.83784 496.7055 501.67683 506.09138 510.50593 514.9205 518.78817 522.6459 525.9567 530.92807 533.69216 536.45626">Figure10:TheresultsofperformancecomparisononGPUswithNLPmodels.DeepSpeech2cannotbesuccessfully</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-271.926" x="72 75.31754 80.29884 87.77079 92.75209 100.22404 102.99364 107.97494 114.88898 121.534038 125.95743 130.93872 135.36212 140.34342 147.81536 155.00835 158.3259 164.1341 171.32709 176.86629 186.54993 190.97333 197.33943 201.21489 206.19618 213.94709 220.86113 225.84243 230.82372 235.24712 238.56467 242.98807 245.75768 250.73897 254.05652 260.42265 264.84605 268.16358 275.07765 280.05894 285.04023 290.30049 294.17594 299.15724 304.13853 309.1198 314.1011 317.41865 320.18824 324.61164 329.59294">runontheRadeonVIIGPUassomeoperatorsarenotsupported.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L" font-weight="bold"><tspan y="-237.00699" x="72 76.9813 79.47195 84.45325 86.94389 101.887798 108.53285 114.62 124.30365 131.49665 135.92005 139.7955 145.3347 148.10431 151.42186">4.2.3TPUResults</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-220.54994" x="70.984668 77.132389 82.16325 89.68943 94.7203 99.187709 102.53826 105.88882 110.919689 114.27024 122.09827 126.56568 131.59656 136.06395 143.59014 148.621 155.03032 161.17804 166.77237 174.03694 181.01978 186.05065 192.45998 195.25714 202.42108 210.51073 215.5416 220.009 225.03987 229.50728 232.85784 237.32523 240.12239 242.91956 247.95043 252.98131 259.9541 262.75126 269.72404 273.63807 278.66896 283.4583 290.72288 298.81254 301.60969 309.6993 315.29365 318.0908 323.12168 330.47679 335.50767 340.53855 347.89366 355.15824 363.24787 366.045 371.0759 374.42646 378.8939 386.4301 390.646 395.43537 399.90278 402.69993 407.7308 412.1982 414.98533 419.45274 427.55244 434.817 442.08158 449.34614 453.26017 458.9853 465.13304 470.72734 481.05067 486.08155 491.11244 494.46299 502.55265 505.3498 512.32266 516.79 521.82089 526.85177 531.8826">TheperformanceofTPUsoftwogenerationsisshowninFig.11.OnthreeevaluatedDNNs,TPUv3-8isabout</tspan><tspan y="-209.5324" x="70.55098 75.58185 78.09728">1.5</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-209.5324" x="90.80049 94.15105 99.181919 101.69735">-1.7</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-209.5324" x="116.928508 120.178447 124.64586 128.55988 131.35704 135.82445 141.7005 144.49767 149.52854 153.99594 161.56238 167.7101 173.30442 183.09449 188.12535 193.15624 196.50679 201.53766 207.29297 214.55754 219.34693 226.6115 230.82736 235.71736 240.18477 243.13285 248.19391 250.99108 256.02195 263.02494 268.0558 272.52323 276.99064 284.547 290.14134 296.28907 303.55363 309.14796 317.26777 322.29866 328.1747 334.32243 339.91676 349.7169 354.74778 359.77864 363.1292 370.68559 373.48274 379.92225 384.38969 387.74024 392.77113 397.80198 402.83287 410.38923 415.4201 417.93556">fasterthanTPUv2-8.However,thepeakFLOPSofTPUv3-8isaround2.3</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-209.5324" x="433.17073 438.2016 440.99876 446.0296 451.0605 455.5279 461.40397 464.2011 469.232 473.6994 481.26585 487.41358 493.0079 502.79798 507.8288 512.8597 516.21029 521.24118 526.3021 530.76956">higherthanTPUv2-8,as</tspan><tspan y="-198.51485" x="71.29062 75.204639 80.2355 85.014827 92.279399 100.29859 103.09576 111.1049 116.45774 120.92515 125.95602 128.75318 136.19886 141.22972 146.85424 154.1188 159.14968 161.94684 166.41425 174.42339 177.22055 182.25142 187.28229 190.07946 194.54686 199.01427 201.81142 206.27883 213.17111 215.96828 220.99915 225.46656 231.24198 236.8363 242.98403 250.2486 255.84291 264.4155 269.44639 272.24354 275.04069 277.83784 280.63499 285.1024 289.5698 292.36695 295.1641 300.19499 308.20414 313.235 321.24415 327.39186 332.98619 343.229 348.2599 353.29078 356.64134 364.65049 367.44764 374.34999 382.178 387.20887 391.6763 399.68544 402.48258 407.2619 414.52647 418.9939 425.32273 428.11988 433.15077 437.61817 445.62733 448.42448 453.45533 457.92277 463.69816 468.72904 476.7382 482.8859 488.48023 498.72306 503.75395 508.78483 512.1354 520.1546 524.61196 529.6428">showninTable4,whichindicatesthatFLOPSutilizationonTPUv3-8ismuchlowerthanthatonTPUv2-8and</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -140 430)" font-size="9.862471" font-family="Nimbus Roman No9 L"><tspan y="-183.78412" x="72.73099 77.662227 82.04116 85.32537 88.06714 90.80891 95.18784 97.92961 100.67138 108.06823 112.999469 117.9307 120.67247 123.41424 126.156009 130.53495 135.46617 139.84511 144.22405 149.05664 153.4356 160.83245 165.76367 173.15067 175.89243 180.82367 187.66823 192.59946 195.06508">partiallybottleneckedbythe1.5</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -140 430)" font-size="9.862471" font-family="Nimbus Roman No9 L"><tspan y="-183.78412" x="210.29154 213.03331 220.70632 225.63755 228.92174 233.70503 238.47846 242.85739 250.5304 254.90935 259.84059 265.04795 267.7897 275.18656 282.85957 287.2385 294.9115 299.84275 303.12696 310.5238 315.45506 319.83399 324.76524 329.69648 336.81718 339.55894 344.49018 347.23194 352.16319 357.73545 363.7614 368.69267 375.5372 379.75834 384.68959 389.62083 393.99977 397.28398 400.02574 407.69874 412.07768 417.0089 419.75068 424.1296 429.33699 432.6212 437.00013 440.8366 445.76786 448.5096 451.25138 457.5535 460.29527 465.2265 470.15776 472.8995 477.27845 481.65739 484.39915 491.24369 493.98545 498.9167 503.29563 508.503 511.24476 516.176 520.55496 523.8392 530.6837 534.52017 537.26199 539.9939 542.73568">improvementinmemorybandwidth.Theexperimentalresultsindicatethattherestill</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-174.741" x="72 76.27396 81.25526 84.02486 87.90031 93.16055 98.14185 102.56525 105.88279 110.86409 114.18163 121.27501 125.6984 129.01595 135.93 138.6996 142.87393 147.70578 152.12918 157.38944 162.37073 167.35202 170.12163 172.89124 180.64214 183.41175 187.83515 192.25855 195.02816 197.79776 202.77906 210.25099 213.56855 218.54984 224.35803 229.33933 233.76273 236.53234 239.30194 243.72534 249.53354 254.51483 258.93824 262.25578 265.5733 270.5546 273.87214 281.62306 286.04646 291.02775 295.45115 302.3652 307.3465 313.1547 319.24186 324.78108 334.46473 339.446 344.4273 347.74485 355.2168 357.9864 365.45835 370.99757 376.2578 384.00874 388.99003 393.9713 398.3947 401.71226 409.1842 414.1655 418.5889 423.0123 430.48426 433.25386 437.67726 442.10066 445.41819 450.39949 453.16908 458.15037 465.6223 470.6036 475.027 477.7966 484.88996 489.87126 493.18879 498.17008 502.04554">existhard-wareleveloptimizationforbetterperformanceofTPUv3-8toﬁtmoderndeeplearningnetworks.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L" font-weight="bold"><tspan y="-151.838" x="72 76.9813 79.47195 84.45325 86.94389 101.887798 109.080799 111.850399 115.725849 120.14924 125.688449 129.5639 133.43936 136.20897 141.19026">4.2.4Discussion</tspan><tspan y="-133.208" x="72 79.193 84.1743 92.473148 98.01235 102.99365 107.417049 110.186649 114.062099 119.043399 127.18284 133.8279 138.2513 141.56885 148.76184 153.18524 157.60865 165.73812 173.48902 179.57616 189.36939 194.35068 199.88988 208.02931 214.67436 220.7615">ComparisonBetweenGPUandTPU</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -140 430)" font-size="10.061732" font-family="Nimbus Roman No9 L"><tspan y="-134.53247" x="235.57195 242.8365 247.86739 252.89826 260.5049 264.97236 270.0032 277.59983 283.74757 289.3419 299.18226 302.53285 307.00025 312.03114 315.38169 319.84913 323.76313 328.23057 333.2614 338.62434 341.42149 348.5955 356.1921 361.22297 367.14936 369.9465 374.9774 382.01054 385.27055 389.73799 393.652 396.44917 400.91658 404.8306 410.19349 417.45805 423.38444 427.85185 432.31929 436.78669 441.2541 444.05125 448.51869 451.86924 456.33668 459.13383 464.16468 467.51527 473.99504 476.79219 484.39888 487.196 492.22688 499.2701 506.43406 511.46495 514.8155 517.6127 522.64358 528.52969 531.88027">V100andTPUrepresenttwoofthefastestAIacceleratorsintheworld.It</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-122.298" x="72 76.42339 80.84679 88.31873 93.30003 100.22404 104.09949 108.52288 112.94627 120.41822 123.73576 127.05331 132.0346 142.28612 147.82532 150.59493 155.57622 161.16524 166.14653 173.61847 176.38808 181.36937 185.79277 191.06299 197.15013 202.67937 209.87236 216.24843 221.22972 226.21102 228.98062 233.96192 238.38532 241.70287 245.02042 250.00171 253.31926 263.56083 268.9506 273.374 277.24946 280.01905 286.94306 294.13606 299.11735 304.09864 311.5706 318.76359 324.3028 333.98646 336.75605 344.23796 347.00755 351.98884 358.9029 361.6725 366.65379 369.9713 374.3947 381.31874 385.49308 390.2253 394.6487 397.4183 402.3996 406.823 409.5926 414.016 421.48796 429.23887 434.22016 439.20146 443.62486 446.39445 450.2699 455.85893 461.94609 467.4853 477.1789 484.3719 491.84385 496.26725 501.24855 508.7205 514.8076 520.3468 530.0404 535.0217">canbeseenfromFig.11thatTPUsoutperformTeslaV100GPUinthethreeevaluatedmodels.TPUV2andTPUv3</tspan></text>
+<text xml:space="preserve" transform="matrix(.99146357 0 -0 1.0086099 -140 430)" font-size="9.877555" font-family="Nimbus Roman No9 L"><tspan y="-110.43814" x="72.61992 77.5587 81.74679 86.52752 93.43194 98.37072 100.84011">have1.6</tspan></text>
+<text xml:space="preserve" transform="matrix(.99146357 0 -0 1.0086099 -140 430)" font-size="9.877555" font-family="Nimbus Roman No9 L"><tspan y="-110.43814" x="116.108158 120.49379 125.43257 132.88027 137.81905 140.28842 145.2272">and3.75</tspan></text>
+<text xml:space="preserve" transform="matrix(.99146357 0 -0 1.0086099 -140 430)" font-size="9.877555" font-family="Nimbus Roman No9 L"><tspan y="-110.43814" x="160.50012 168.18486 173.12364 176.41287 183.31728 188.80919 194.84438 201.97597 207.4679 212.95981 217.9381 222.67934 227.61812 232.87299 237.81175 240.28115 245.21993">moreFLOPS,but0.66</tspan></text>
+<text xml:space="preserve" transform="matrix(.99146357 0 -0 1.0086099 -140 430)" font-size="9.877555" font-family="Nimbus Roman No9 L"><tspan y="-110.43814" x="260.4907 264.8763 269.8151 277.26277 280.00874 284.9475 291.85194 295.6943 300.07997 307.76469 314.65925 322.34397 326.7296 334.41438 339.35313 342.64234 350.09989 355.03868 359.42433 364.36308 369.30186 376.43345 379.1794 384.11817 386.86415 394.31184 398.69746 403.63624 411.32099 416.25975 420.6454 423.9346 428.32026 435.7778 442.9094 445.65538 448.40135 455.849 462.9806 467.91935 472.85813 480.31568 483.6049 487.99055 491.83293 496.77168 501.15733 505.54298 508.28895 510.78797 515.5687 519.95437 522.7003 526.9872 532.5779 539.7095">andthesamememorybandwidthcomparedwithV100respectively.On</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0029956 0 -0 .9970134 -140 430)" font-size="9.992443" font-family="Nimbus Roman No9 L"><tspan y="-100.781009" x="71.78496 78.44992 85.66447 92.879009 99.244197 102.57167 109.23663 113.67328 117.56034 124.77488 129.21152 131.98943 135.3169 140.31313 147.79746 152.2341 157.23032 164.70467 168.03215 173.02837 177.46501 181.90166 186.89788 189.67578 192.45368 197.44989 204.93424 209.93045 214.92667 218.25415 223.2304 229.33579 234.89159 244.59426 251.8088 256.80503 260.1325 267.60688 272.0435 277.03974 284.52409 290.62947 296.18525 305.8779 313.09245 318.08866 321.41618 328.9005 333.33717 337.77378 342.77003 345.5479 349.73475 354.5811 361.49583 369.26997 374.2662 377.5937 384.51847 387.29637 392.29258 396.72923 404.20356 409.1998 411.6979">CNNs(ResNet-50andInceptionv3),TPUV2-8andTPUV3-8achievemorethan1.5</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0029956 0 -0 .9970134 -140 430)" font-size="9.992443" font-family="Nimbus Roman No9 L"><tspan y="-100.781009" x="426.90617 431.34278 436.33903 443.81336 448.8096 451.30769">and2.7</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0029956 0 -0 .9970134 -140 430)" font-size="9.992443" font-family="Nimbus Roman No9 L"><tspan y="-100.781009" x="466.5175 471.51374 474.29164 479.28788 484.2841 488.72074 494.52635 497.30424 502.30049 505.62797 510.62419 515.62039 520.6166 525.6128 530.609 535.60519">higherthroughput</tspan></text>
+<path transform="matrix(1,0,0,-1,-68,337.386)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H143.462" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="5.9776" font-family="Nimbus Roman No9 L"><tspan y="-85.772" x="83.457 86.4458">10</tspan></text>
+<text xml:space="preserve" transform="matrix(.99899956 0 -0 1.0010016 -140 430)" font-size="8.957429" font-family="Nimbus Roman No9 L"><tspan y="-81.88099" x="90.02306 97.76229 103.978748 108.45746 111.44029 115.41739 118.90183 122.87894 127.35765 132.07822 134.56838 139.04709 145.26355 148.24637 152.22347 155.7079 160.18662 162.67678 165.16695 170.89075 177.35802 179.84818 182.33834 189.05641 191.54657 196.02529 202.24173 204.7319 208.70899 211.53058 216.0093 219.98639 223.47083 228.19139 232.6701 236.64719 239.13736 243.11444 249.83252 253.31696 255.80713 259.78425 266.00068 268.49085 275.20893 279.05168 283.5304 288.00914 290.4993 294.978 297.96083 304.17729 306.66746 311.14616 317.35368 321.8324 325.80949 329.2939 334.02345 338.50218 342.47929 345.46208 348.4449 352.9236 355.90644 362.8753 366.85243 371.33116 375.30824 379.2853 384.30149 390.76875 396.49253 398.9827 403.46144 409.6779 413.65498 418.1337 422.61244 427.09117 431.06825 435.04533 437.5355 440.02568 444.50437 448.9831 451.47328 454.9577 459.68724 462.1774 466.15449 473.12339 477.6021 482.0808 485.06364 489.04075 493.77027 497.74736 500.23753 504.2146 507.69905 511.18348 513.67367 518.654 522.6311 526.6082 529.0984 531.58859 536.06729">Wepresenttheresultswiththelargestbatchsizetoexplorethebestperformance.Astheconnectionisttemporalclassiﬁcation</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="8.9664" font-family="Nimbus Roman No9 L"><tspan y="-72" x="71.704 74.68981 80.6704 86.14887 92.12946 97.35687 99.84953 104.33273 107.82066 113.55019 116.536 121.0192 125.5024 129.48349 131.97615 134.46881 138.95201 145.67682 150.16002 155.38744 157.8801 162.3633 168.58599 175.05973 179.0408 183.02188 189.74669 194.73201 199.21521 203.19629 207.17737 211.15845 217.88326 224.60807 227.10073 232.83026 237.31346 241.79666 246.53093 250.01886 254.50206 258.98527 263.46846 267.95167 270.93748 273.4301 277.4112 284.13603 288.6192 295.34403 297.83668 302.3199 308.54258 315.01634 322.98747 331.70283 338.17658 343.1619 349.63566 354.11888 360.59263 366.8153 370.6619 375.14509 379.12617 381.6188 386.102 390.5852 396.8079 399.30055 403.78376 410.00645 416.4802 424.45133 433.1667 436.1525 440.13359 443.6215 448.10469 450.59733 455.33158 458.31739 462.8006 468.028 470.52067 475.00386 477.4965 483.226 487.2071 491.18818 494.6761 498.65718">(CTC)lossfunctionoftheDeepSpeech2isnotsupportedontheAMDGPU,weexcludetheAMDresultforthiscase.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -140 430)" font-size="9.9626" font-family="Nimbus Roman No9 L"><tspan y="-42.112" x="300.645 305.62629">11</tspan></text>
+</g>
+</g>
+</svg>

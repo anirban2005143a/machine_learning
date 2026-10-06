@@ -1,0 +1,665 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="242" height="82" viewBox="0 0 242 82">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-53,723)" d="M53 641H295V723H53Z" />
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,-53,723)" d="M0 0H612V792H0Z" />
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_15">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_16">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_17">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_18">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_19">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_20">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_21">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_22">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_23">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_24">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_25">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_26">
+<path transform="matrix(.34834,0,0,-.34834,40.380998,18.026978)" d="M0 0H463V46H0Z" />
+</clipPath>
+<clipPath id="clip_27">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M0 0H960V540H0Z" />
+</clipPath>
+<clipPath id="clip_28">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M0 .00012207H960V540.0001H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_29">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_30">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_31">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_32">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_33">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_34">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_35">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_36">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_37">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_38">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_39">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_40">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_41">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_42">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_43">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_44">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_45">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_46">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_47">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_48">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_49">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_50">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_51">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_52">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_53">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_54">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_55">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_56">
+<path transform="matrix(.33743,0,0,-.33743,2.5820008,67.29303)" d="M0 0H702V84H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_57">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M0 0H960V540H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_58">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M0 .00012207H960V540.0001H0Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_59">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M0 540H960V.00012207H.000061035" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_60">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_61">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_62">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_63">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_64">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_65">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_66">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+<clipPath id="clip_67">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M.000014305 0H960V540H.000014305Z" clip-rule="evenodd" />
+</clipPath>
+</defs>
+<g clip-path="url(#clip_1)">
+<g clip-path="url(#clip_2)">
+<g>
+<g clip-path="url(#clip_3)">
+<g>
+<g clip-path="url(#clip_4)">
+<g>
+<g clip-path="url(#clip_5)">
+<g>
+<g clip-path="url(#clip_6)">
+<g>
+<g clip-path="url(#clip_7)">
+<g>
+<g clip-path="url(#clip_8)">
+<g>
+<g clip-path="url(#clip_9)">
+<g>
+<g clip-path="url(#clip_10)">
+<g>
+<g clip-path="url(#clip_11)">
+<g>
+<g clip-path="url(#clip_12)">
+<g>
+<g clip-path="url(#clip_13)">
+<g>
+<g clip-path="url(#clip_14)">
+<g>
+<g clip-path="url(#clip_15)">
+<g>
+<g clip-path="url(#clip_16)">
+<g>
+<g clip-path="url(#clip_17)">
+<g>
+<g clip-path="url(#clip_18)">
+<g>
+<g clip-path="url(#clip_19)">
+<g>
+<g clip-path="url(#clip_20)">
+<g>
+<g clip-path="url(#clip_21)">
+<g>
+<g clip-path="url(#clip_22)">
+<g>
+<g clip-path="url(#clip_23)">
+<g>
+<g clip-path="url(#clip_24)">
+<g>
+<g clip-path="url(#clip_25)">
+<g>
+<g clip-path="url(#clip_26)">
+<g>
+<g clip-path="url(#clip_27)">
+<g clip-path="url(#clip_28)">
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M0 .000061035H960V540.00009H0Z" fill="#ffffff" fill-rule="evenodd" />
+</g>
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M332.58 340C332.58 343.92 335.76 347.1 339.68 347.1H427.36C431.28 347.1 434.46 343.92 434.46 340V311.6C434.46 307.68 431.28 304.5 427.36 304.5H339.68C335.76 304.5 332.58 307.68 332.58 311.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M332.58 340C332.58 343.92 335.76 347.1 339.68 347.1H427.36C431.28 347.1 434.46 343.92 434.46 340V311.6C434.46 307.68 431.28 304.5 427.36 304.5H339.68C335.76 304.5 332.58 307.68 332.58 311.6Z" />
+<g clip-path="url(#clip_29)">
+<text xml:space="preserve" transform="matrix(.34834 0 -0 .34834 -74.91955 123.574)" font-size="18" font-family="Calibri"><tspan y="-330.6" x="366.05 371.792 381.098 389.576">JPEG</tspan></text>
+</g>
+<g clip-path="url(#clip_30)">
+<text xml:space="preserve" transform="matrix(.34834 0 -0 .34834 -74.91955 123.574)" font-size="18" font-family="Calibri"><tspan y="-309" x="356.57 366.02003 375.038 382.47203 391.958 401.40803">decode</tspan></text>
+</g>
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M451.74 340C451.74 343.92 454.92 347.1 458.84 347.1H546.4C550.32 347.1 553.5 343.92 553.5 340V311.6C553.5 307.68 550.32 304.5 546.4 304.5H458.84C454.92 304.5 451.74 307.68 451.74 311.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M451.74 340C451.74 343.92 454.92 347.1 458.84 347.1H546.4C550.32 347.1 553.5 343.92 553.5 340V311.6C553.5 307.68 550.32 304.5 546.4 304.5H458.84C454.92 304.5 451.74 307.68 451.74 311.6Z" />
+<g clip-path="url(#clip_31)">
+<text xml:space="preserve" transform="matrix(.34834 0 -0 .34834 -74.91955 123.574)" font-size="18" font-family="Calibri"><tspan y="-319.8" x="479.95 489.328 498.328 505.41999 509.506 516.25607">Resize</tspan></text>
+</g>
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M570.9 340C570.9 343.92 574.08 347.1 578 347.1H665.68C669.6 347.1 672.78 343.92 672.78 340V311.6C672.78 307.68 669.6 304.5 665.68 304.5H578C574.08 304.5 570.9 307.68 570.9 311.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M570.9 340C570.9 343.92 574.08 347.1 578 347.1H665.68C669.6 347.1 672.78 343.92 672.78 340V311.6C672.78 307.68 669.6 304.5 665.68 304.5H578C574.08 304.5 570.9 307.68 570.9 311.6Z" />
+<g clip-path="url(#clip_32)">
+<text xml:space="preserve" transform="matrix(.34834 0 -0 .34834 -74.91955 123.574)" font-size="18" font-family="Calibri"><tspan y="-319.8" x="604.63 614.224 620.23599 629.722">Crop</tspan></text>
+</g>
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M690.18 340C690.18 343.92 693.36 347.1 697.28 347.1H784.96C788.88 347.1 792.06 343.92 792.06 340V311.6C792.06 307.68 788.88 304.5 784.96 304.5H697.28C693.36 304.5 690.18 307.68 690.18 311.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M690.18 340C690.18 343.92 693.36 347.1 697.28 347.1H784.96C788.88 347.1 792.06 343.92 792.06 340V311.6C792.06 307.68 788.88 304.5 784.96 304.5H697.28C693.36 304.5 690.18 307.68 690.18 311.6Z" />
+<g clip-path="url(#clip_33)">
+<text xml:space="preserve" transform="matrix(.34834 0 -0 .34834 -74.91955 123.574)" font-size="18" font-family="Calibri"><tspan y="-319.8" x="703.97 715.59799 725.084 731.36599 745.748 754.37 758.456 762.542 769.256">Normalize</tspan></text>
+</g>
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M434.46 326.88H445.95V324.6H434.46ZM444.81 329.16 451.65 325.74 444.81 322.32Z" />
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M553.5 326.88H565.18V324.6H553.5ZM564.04 329.16 570.88 325.74 564.04 322.32Z" />
+<path transform="matrix(.34834,0,0,-.34834,-74.91955,123.574)" d="M672.78 326.88H684.46V324.6H672.78ZM683.32 329.16 690.16 325.74 683.32 322.32Z" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="7.9701" font-family="Linux Libertine T" font-weight="bold"><tspan y="-694.014" x="169.42 171.83493 175.8678">(a)</tspan></text>
+<g>
+<g clip-path="url(#clip_34)">
+<g>
+<g clip-path="url(#clip_35)">
+<g>
+<g clip-path="url(#clip_36)">
+<g>
+<g clip-path="url(#clip_37)">
+<g>
+<g clip-path="url(#clip_38)">
+<g>
+<g clip-path="url(#clip_39)">
+<g>
+<g clip-path="url(#clip_40)">
+<g>
+<g clip-path="url(#clip_41)">
+<g>
+<g clip-path="url(#clip_42)">
+<g>
+<g clip-path="url(#clip_43)">
+<g>
+<g clip-path="url(#clip_44)">
+<g>
+<g clip-path="url(#clip_45)">
+<g>
+<g clip-path="url(#clip_46)">
+<g>
+<g clip-path="url(#clip_47)">
+<g>
+<g clip-path="url(#clip_48)">
+<g>
+<g clip-path="url(#clip_49)">
+<g>
+<g clip-path="url(#clip_50)">
+<g>
+<g clip-path="url(#clip_51)">
+<g>
+<g clip-path="url(#clip_52)">
+<g>
+<g clip-path="url(#clip_53)">
+<g>
+<g clip-path="url(#clip_54)">
+<g>
+<g clip-path="url(#clip_55)">
+<g>
+<g clip-path="url(#clip_56)">
+<g>
+<g clip-path="url(#clip_57)">
+<g clip-path="url(#clip_58)">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M0 .000061035H960V540.00009H0Z" fill="#ffffff" fill-rule="evenodd" />
+</g>
+<g clip-path="url(#clip_59)">
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M209.22 192.54C209.22 196.65 209.5 199.98 209.84 199.98H678.52C678.86 199.98 679.14 196.65 679.14 192.54" />
+</g>
+<g clip-path="url(#clip_60)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18" font-family="Calibri"><tspan y="-214.85" x="348.67 364.06004 373.02403 377.11006 381.28605 388.32405 397.82804 406.79203 414.40605 420.43605 426.39405 435.88005 444.35804 450.28007 458.90208 473.28407 477.35206 485.83006 494.79405 504.24406 513.2621 519.1481 527.6621 533.69216 537.7421 547.22817">Mel spectrogram generation</tspan></text>
+</g>
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M94.14 181C94.14 184.92 97.319 188.1 101.24 188.1H188.92C192.84 188.1 196.02 184.92 196.02 181V152.6C196.02 148.68 192.84 145.5 188.92 145.5H101.24C97.319 145.5 94.14 148.68 94.14 152.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M94.14 181C94.14 184.92 97.319 188.1 101.24 188.1H188.92C192.84 188.1 196.02 184.92 196.02 181V152.6C196.02 148.68 192.84 145.5 188.92 145.5H101.24C97.319 145.5 94.14 148.68 94.14 152.6Z" />
+<g clip-path="url(#clip_61)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18" font-family="Calibri"><tspan y="-160.75" x="109.51 118.87 127.834 134.926 143.54799 157.93 167.43399 171.51999">Resample</tspan></text>
+</g>
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M213.18 181C213.18 184.92 216.36 188.1 220.28 188.1H307.96C311.88 188.1 315.06 184.92 315.06 181V152.6C315.06 148.68 311.88 145.5 307.96 145.5H220.28C216.36 145.5 213.18 148.68 213.18 152.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M213.18 181C213.18 184.92 216.36 188.1 220.28 188.1H307.96C311.88 188.1 315.06 184.92 315.06 181V152.6C315.06 148.68 311.88 145.5 307.96 145.5H220.28C216.36 145.5 213.18 148.68 213.18 152.6Z" />
+<g clip-path="url(#clip_62)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18" font-family="Calibri"><tspan y="-160.75" x="234.48 242.74199 248.64598 257.26799 271.64997 275.78999 285.24">Framing</tspan></text>
+</g>
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M332.46 181C332.46 184.92 335.64 188.1 339.56 188.1H427.24C431.16 188.1 434.34 184.92 434.34 181V152.6C434.34 148.68 431.16 145.5 427.24 145.5H339.56C335.64 145.5 332.46 148.68 332.46 152.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M332.46 181C332.46 184.92 335.64 188.1 339.56 188.1H427.24C431.16 188.1 434.34 184.92 434.34 181V152.6C434.34 148.68 431.16 145.5 427.24 145.5H339.56C335.64 145.5 332.46 148.68 332.46 152.6Z" />
+<g clip-path="url(#clip_63)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18.024" font-family="Calibri"><tspan y="-171.58" x="363.94 375.09687 383.73036 393.19294 402.65553">Hann </tspan></text>
+</g>
+<g clip-path="url(#clip_64)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18" font-family="Calibri"><tspan y="-149.95" x="354.34 367.21 371.26 380.71003 390.19606 399.55604">window</tspan></text>
+</g>
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M451.74 181C451.74 184.92 454.92 188.1 458.84 188.1H546.4C550.32 188.1 553.5 184.92 553.5 181V152.6C553.5 148.68 550.32 145.5 546.4 145.5H458.84C454.92 145.5 451.74 148.68 451.74 152.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M451.74 181C451.74 184.92 454.92 188.1 458.84 188.1H546.4C550.32 188.1 553.5 184.92 553.5 181V152.6C553.5 148.68 550.32 145.5 546.4 145.5H458.84C454.92 145.5 451.74 148.68 451.74 152.6Z" />
+<g clip-path="url(#clip_65)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18" font-family="Calibri"><tspan y="-160.75" x="489.94 498.22 506.5">FFT</tspan></text>
+</g>
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M570.9 181C570.9 184.92 574.08 188.1 578 188.1H665.68C669.6 188.1 672.78 184.92 672.78 181V152.6C672.78 148.68 669.6 145.5 665.68 145.5H578C574.08 145.5 570.9 148.68 570.9 152.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M570.9 181C570.9 184.92 574.08 188.1 578 188.1H665.68C669.6 188.1 672.78 184.92 672.78 181V152.6C672.78 148.68 669.6 145.5 665.68 145.5H578C574.08 145.5 570.9 148.68 570.9 152.6Z" />
+<g clip-path="url(#clip_66)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18" font-family="Calibri"><tspan y="-160.75" x="588.19 603.58 612.544 616.63 620.80599 626.29598 630.436 634.48599 640.246 649.20999">Mel filter</tspan></text>
+</g>
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M690.18 181C690.18 184.92 693.36 188.1 697.28 188.1H784.96C788.88 188.1 792.06 184.92 792.06 181V152.6C792.06 148.68 788.88 145.5 784.96 145.5H697.28C693.36 145.5 690.18 148.68 690.18 152.6Z" fill="#f2f2f2" fill-rule="evenodd" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" stroke-width="2.28" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M690.18 181C690.18 184.92 693.36 188.1 697.28 188.1H784.96C788.88 188.1 792.06 184.92 792.06 181V152.6C792.06 148.68 788.88 145.5 784.96 145.5H697.28C693.36 145.5 690.18 148.68 690.18 152.6Z" />
+<g clip-path="url(#clip_67)">
+<text xml:space="preserve" transform="matrix(.33743 0 -0 .33743 -28.46156 115.88295)" font-size="18" font-family="Calibri"><tspan y="-160.75" x="703.97 715.59799 725.084 731.36599 745.748 754.37 758.456 762.542 769.256">Normalize</tspan></text>
+</g>
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M196.02 167.88H207.51V165.6H196.02ZM206.37 170.16 213.21 166.74 206.37 163.32Z" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M315.06 167.88H326.74V165.6H315.06ZM325.6 170.16 332.44 166.74 325.6 163.32Z" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M434.34 167.88H446.02V165.6H434.34ZM444.88 170.16 451.72 166.74 444.88 163.32Z" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M553.5 167.88H565.18V165.6H553.5ZM564.04 170.16 570.88 166.74 564.04 163.32Z" />
+<path transform="matrix(.33743,0,0,-.33743,-28.46156,115.88295)" d="M672.78 167.88H684.46V165.6H672.78ZM683.32 170.16 690.16 166.74 683.32 163.32Z" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="7.9701" font-family="Linux Libertine T" font-weight="bold"><tspan y="-644.748" x="169.181 171.78722 176.10701">(b)</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -53 723)" font-size="9.05562" font-family="Linux Libertine T" font-weight="bold"><tspan y="-632.3482" x="53.467969 58.40328 61.319189 66.03716 71.45242 75.25579 81.984119 86.6387">Figure4.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .99014756 -53 723)" font-size="9.05562" font-family="Linux Libertine T"><tspan y="-632.3482" x="91.151 97.49899 101.637409 104.498989 110.93753 115.6374 118.93365 122.98151 127.68138 130.97762 135.60506 139.48085 143.52872 147.06041 150.59209 153.04616 157.9543 164.78224 169.34629 174.10953 178.1574 181.52608 185.66449 188.52606 190.98014 195.54416 200.45232 206.28414 209.09137 213.65541 219.32422 221.91414 226.05255 231.05127 234.92707 239.4911 246.64505 251.34491 256.15345 259.015 263.06288 268.73173 273.23237 275.68644 279.21815 281.67219 286.2362">Datapreprocessingoperationsfor(a)computervision</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="8.9664" font-family="Linux Libertine T"><tspan y="-615.159" x="54 58.097646 62.957437 69.73603 72.51562 76.93605 81.84964 85.94728 90.70844 95.24544 97.67533 104.436 109.08956 112.35333 116.935169 120.77278 124.78076 128.27767 131.77457 134.20447 139.06426 143.54746">and(b)audioprocessing.</tspan></text>
+<text xml:space="preserve" transform="matrix(.9944848 0 -0 1.0055459 -53 723)" font-size="9.907654" font-family="Linux Libertine T" font-weight="bold"><tspan y="-590.66226" x="64.31773 70.351497 75.90969 81.66604 84.88603 90.345149 94.585628 99.5989 103.14584 106.336109 111.79522 120.404979 125.8641 132.24463 139.81407 146.74942 150.38555 157.65776 161.29387 171.13217 180.03917 183.67528 190.92769">ExplorationofNVIDIAMIG.</tspan></text>
+<text xml:space="preserve" transform="matrix(.9944848 0 -0 1.0055459 -53 723)" font-size="9.907654" font-family="Linux Libertine T"><tspan y="-590.66226" x="195.84615 200.61173 207.49755 213.31334 216.2559 223.56777 228.09557 233.46552 240.98543 246.504 251.73523 256.54048 265.93293">PARISandELSA[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-593.938" x="267.972 272.60459">43</tspan></text>
+<text xml:space="preserve" transform="matrix(.9944848 0 -0 1.0055459 -53 723)" font-size="9.907654" font-family="Linux Libertine T"><tspan y="-590.66226" x="278.7745 284.80827 289.16764 294.02238">]ex-</tspan></text>
+<text xml:space="preserve" transform="matrix(.99749687 0 -0 1.0025094 -53 723)" font-size="9.937662" font-family="Linux Libertine T"><tspan y="-580.5262" x="54.135515 59.29316 61.916704 66.925289 70.542598 75.05429 82.577098 89.76203 96.24139 99.19287 106.15917 109.11066 115.291889 117.95518 124.32522 132.66292 135.6144 144.92598 149.4675 153.08481 157.33814 162.6846 165.37772 168.51802 173.02973 177.28305 180.42336 185.70026 189.31757 196.25406 199.33475 204.34333 210.5345 217.44118 222.88701 225.58013 230.96634 234.04701 238.48915 242.10646 246.5486 251.93482 256.18815 260.5309 265.2215 270.37916 273.98655 278.9951 284.22233 289.2309 293.1066">ploredNVIDIA’sMIGarchitectureforAIinference,propos-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-575.7" x="53.467969 56.194696 61.648157 70.64335 75.71446 80.9365 84.116008 86.842739 94.791507 99.38972 106.01034 114.45213 117.44046 128.29708 133.51912 138.11733 141.8603 145.03981 147.76654 150.94606 153.67278 158.7439 164.19734 166.92407 172.37754 181.37273 185.2968 188.47632 192.21929 196.81749 199.99701 204.4946 209.52547 212.2522 216.74979 224.63819 229.23639 237.12479 244.57047 249.06806 251.72434 258.345 262.9432 270.83164 276.24485 278.9716 284.00248 289.41569">ingoptimalMIGpartitioningstrategiesaswellashigh-</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-552.46408" x="54.54824 59.735898 64.144428 67.813259 70.87062 75.84131 79.51015 87.3015 91.808658 97.154109 101.375247 107.89434 111.74071 115.961849 121.26785 125.745418 130.73583 135.9728 138.57649 141.24924 146.5947 153.63649 158.82416 163.79485 166.39855 169.07129 173.29242 175.96515 180.37368 186.33061 189.38799 194.35868 200.13806 202.8108 208.15627 211.21364 215.62215 219.21208 223.6206 228.96607 233.1872 237.49709 241.77739 248.97699 253.87865 261.16703 265.50654 270.32929 274.73783 277.80506 282.0854 285.2019 290.50794 293.18067">performanceschedulingpoliciesforinference.However,this</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-551.55209" x="53.102605 60.538225 65.60934 69.3523 77.25076 81.848979 85.77305 89.69712 95.0399 102.98867 107.48627 114.14713 117.32664 122.73985 127.33806 133.25437 136.43387 141.84708 149.09152 154.18276 158.78096 161.96048 169.29549 174.51752 178.18 182.67758 187.89963 191.56209 196.70363 201.01006 205.50765 209.43172 213.35579 216.08252 221.53598 229.3137 233.23778 236.41728 241.0155 246.04637 253.28075 256.0075 262.6684 267.2666 269.92289 277.43904 282.0372 287.21903">workassumesthatthedatapreprocessingstageisalways</tspan><tspan y="-539.4771" x="53.467969 58.066179 63.02661 65.68291 72.65569 75.8352 83.3815 87.30557 92.64835 97.87039 103.09243 105.74873 113.405719 117.32979 122.67256 125.45296 128.23336 131.01375 135.32018 138.04689 142.54448 147.99794 153.65265 158.25086 166.19963 171.27074 176.61351 182.06697 187.71161 192.78272 198.37705 203.59909 207.26155 211.75914 216.98119 220.65372 225.7852 230.09162 234.58922 238.51329 242.43737 247.00539 254.57181 257.29856 262.752 267.97404 273.3168 276.4963 282.8956 286.0751">abletosupplysufficientamountofpreprocessedinputsto</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-516.9585" x="54.54824 57.66478 62.970788 69.35181 77.14316 82.182888 87.173297 91.581829 96.14815 100.48764 105.32025 109.79782 114.01895 119.25593 122.372478 125.045207 130.01589 137.33383 141.18019 144.29674 148.8039 153.73513 158.03516 162.1774 168.54856 173.51924 178.8647 182.71108 187.18863 192.14945 197.38643 201.79496 207.14041 210.25695 212.86064 217.34807 221.4903 227.7727 230.44544 240.19942 244.60793 249.69696 254.20412 256.80784 260.9402">themodelexecutionstage.Consequently,Kimetal.[</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-516.9585" x="273.814 279.29753 284.2682 289.61366 292.21736">]only</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0039921 0 -0 .99602386 -53 723)" font-size="10.002371" font-family="Linux Libertine T"><tspan y="-512.289" x="53.785284 56.88602 61.997236 66.27825 71.58951 75.490428 79.96149 86.33299 91.37418 99.26605 102.4268 107.808078 114.74972 119.680889 124.25197 128.53298 133.6542 138.12526 143.54654 151.07834 157.92996 163.82137 170.43292 173.81374 177.71466 180.42531 185.48651 192.42816 195.13881 200.56009 203.66083 208.13188 211.77275 216.2438 221.6651 225.94612 232.88776 240.35955 245.74082 248.45146 251.09209 258.03373 263.0949 267.666 270.82673 277.86839 283.0596 286.70048 291.17155">focusesonthebackendGPU-sideinferencewhiledatapre-</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-493.28886" x="54.54824 59.666864 63.2568 68.296527 72.51766 76.926189 80.77255 84.61892 87.29165 92.63711 99.73808 102.41081 108.43679 113.4272 116.09993 119.9463 124.453449 129.31565 131.91934 136.3969 143.56691 146.50592 151.28923 153.96196 158.8932 164.13018 167.71024 174.29836 178.88442 181.82344 186.17279 194.4474 197.37656 202.15987 211.25307">processingisdisabled(Figure3).MISO[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-498.297" x="212.606 217.23862">48</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-493.28886" x="224.12357 229.80435 234.14383 238.97644 244.09508 246.69878 251.66947 255.25939 259.6679 265.6939 268.81044 274.11643 280.69474 285.65556 290.0641 293.91044">]exploresthebest</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0094553 0 -0 .9906333 -53 723)" font-size="10.056799" font-family="Linux Libertine T"><tspan y="-490.94047" x="53.494195 61.93185 64.91872 74.28161 79.50108 84.09704 87.83817 91.01612 93.741519 96.919467 99.64485 104.713489 110.16427 112.88966 118.34045 125.84283 129.76497 132.94292 136.68405 141.28002 144.45796 148.95334 153.98174 156.70713 161.20252 167.6087 170.7263 175.79492 182.01003 186.31433 191.38295 194.78215 197.43714 202.57616 206.88047 211.47643 214.65438 219.22014 226.78285 233.77233 239.23316 242.4111 246.15222 250.74819 253.47359 258.92439 261.64979 267.10057 274.60295 277.3384 282.407 287.36503">MIGpartitioningstrategiesforco-locatedAItrainingjobs</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-469.61915" x="54.54824 57.220968 64.88411 71.70894 79.50029 84.73727 87.34096 90.457508 93.13023 96.463748 99.58029 103.988819 109.334278 113.84142 119.18688 124.62111 131.37689 137.20563 146.04239 150.26352 152.86722 158.1042 161.95056 165.06711 169.47563 175.46215 179.87067 185.21613 190.11777 192.79051 196.38043 201.35112 206.69658 214.48793 218.89646 224.24192 227.35846 231.84587 237.05326 242.04367 246.4522 251.88643 256.3936 258.99726 263.48469">inamulti-tenantGPUclusterenvironment.Lietal.[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-474.387" x="264.315 268.9476">47</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-469.61915" x="276.35755 282.18623 286.69337 292.03886">]and</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0049875 0 -0 .9950372 -53 723)" font-size="10.012289" font-family="Linux Libertine T"><tspan y="-464.73744" x="53.732015 59.609224 64.65542 69.591487 73.235958 78.35224 82.827739 90.43707 94.912578 100.5595 105.13512 107.77836 112.46411">Robroeketal.[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-462.431" x="116.608 121.24061">75</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0049875 0 -0 .9950372 -53 723)" font-size="10.012289" font-family="Linux Libertine T"><tspan y="-464.73744" x="125.24833 131.29576 135.87137 139.51584 146.47438 151.05 153.69326 157.59804 165.12729 168.77176 173.31734 177.6026 182.0781 187.50475 193.15167 197.05648 200.22035 205.53688 210.6031 213.31644 217.79193 224.1798 227.34366 232.73029 237.3059 242.95282 247.23809 252.6247 257.20033 260.92488 265.5005 269.78578 272.94966 277.4251 281.1497 283.863 288.10823">]arealsorecentstudiesthatcharacterize</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-454.95845" x="53.467969 56.647474 62.060686 69.5768 74.86927 79.36687 83.10983 86.22897 91.30009 95.04306 102.99183 107.59004 113.043498 117.349918 124.866039 129.93715 136.0748 144.51659 147.50493 157.41573 160.53487 165.60597 172.36745 179.36035 185.3672 192.81288 197.88399 201.62696 206.77855 209.43485 214.50595 219.10417 224.1954 228.11948 233.35158 240.38472 245.45583 250.90929 258.42539 263.49653 269.6342 272.8137 278.2269 282.7245 286.6486">theperformanceofMIGforAIworkloads.Noneofthese</tspan></text>
+<text xml:space="preserve" transform="matrix(.9944848 0 -0 1.0055459 -53 723)" font-size="9.907654" font-family="Linux Libertine T"><tspan y="-436.10243" x="54.299478 59.441549 63.127199 65.81217 70.80563 76.997928 84.31967 89.31313 92.99879 100.58804 105.115848 110.485797 115.01359 117.62921 122.73165 126.9325 131.36122 137.73186 140.86269 146.193 153.12836 158.14163 162.66944 165.80025 172.83469 177.97675 181.58313 186.01186 191.15392 194.7603 199.8231 204.06357 208.4923 212.3563 216.22029 218.90526 224.2752 231.74558 236.72911 241.72257 244.8534 247.98423 250.59984 255.02857 260.3985 264.89659 269.1371 274.20979 280.5804 283.26539 291.15187">priorworkanalyzesthedatapreprocessingbottlenecksina</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0049875 0 -0 .9950372 -53 723)" font-size="10.012289" font-family="Linux Libertine T"><tspan y="-428.69355" x="53.732015 62.132326 65.10597 74.44743 77.16076 82.587429 85.69124 90.16673 93.81121 98.286708 103.71336 107.99863 114.94716 118.85195 123.327449 127.2022 132.0982 136.5737 142.78133 145.42458 149.90009 155.53699 160.11261 162.75586 167.80205 173.2287 180.18726 184.66275 187.42948 190.1962 192.96294 197.24819 199.96152 204.43703 209.86368 215.50058 220.43665 225.01226 228.17613 232.4614 237.848 240.56134 245.98799 253.47719 257.382 260.54588 264.27043 268.84605 272.00993 276.4854 281.49159 284.2049 288.6804">MIGinferenceserverletaloneefficientbatchingstrategies</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-410.44395" x="54.54824 57.605607 62.57629 68.7502 77.02481 79.953968 86.70976 91.38457 94.9745 99.38303 104.728488 109.7189 114.127429 117.796268 120.468997 125.81445 133.25077 136.3673 141.67331 148.57704 153.62664 157.96611 165.55034 169.77149 174.74217 180.08763 183.20417 186.873 189.54573 194.40793 199.64492 202.76145 205.43419 210.40488 218.2554 223.22609 228.78853 233.75922 238.99619 245.17009 252.45845 257.42915 261.098 268.65266 273.88963 279.23509 281.9078 286.86863 292.1056 296.40565">forMIG,renderingthekeycontributionofourworkunique.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T" font-weight="bold"><tspan y="-406.6626" x="63.33281 68.403919 73.94794 77.88207 81.48417 89.30213 94.39337 98.6193 106.86993 111.16628 116.710308 119.98037 125.997287 129.59938 132.83925 138.38327 144.5813 152.2081 155.8102 164.68463 167.92452 177.03038 182.87624 187.10218 192.57575 197.81792 206.06853 213.43372 220.09459 230.7902 236.80712 240.40921 243.64908 246.91915 250.15901 254.70693 259.7982 263.40028 266.64018 272.18418 281.71266 284.95256">SoftwaresolutionstoimproveGPUutilizationin</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T" font-weight="bold"><tspan y="-386.77326" x="54.54824 57.753545 62.743955 66.27472 71.097469 77.172748 81.67004 87.17329 90.70405 95.20134 99.42248 102.59819 106.12895 109.30467 113.801959 118.792369 124.39425 129.38466 135.11475 140.84485 144.05016 147.22588 151.72316 156.71358 160.24434 163.42006 168.8543 174.92957 179.14084">latency-criticalapplications.</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-386.77326" x="183.93868 189.14606 196.00048 204.9063">LAX[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-390.7" x="206.32 210.95262">91</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-386.77326" x="217.77376 221.28479 225.85112 231.65026 236.1574 241.23657 249.51119 254.01834 261.23768">],BayMax[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-390.7" x="262.092 266.7246">19</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-386.77326" x="274.11299 277.62403 282.19035 286.6975 292.04298">],and</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0074722 0 -0 .9925834 -53 723)" font-size="10.037041" font-family="Linux Libertine T"><tspan y="-381.57499" x="53.599496 59.029535 62.683019 67.74169 72.95091 78.35084 82.837398 88.49829">Prophet[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-378.745" x="92.758 97.39061">18</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0074722 0 -0 .9925834 -53 723)" font-size="10.037041" font-family="Linux Libertine T"><tspan y="-381.57499" x="101.26633 107.3287 112.40744 116.82374 121.73185 126.21841 128.86818 133.92685 141.62526 145.5397 150.59838 153.24814 158.5778 161.74951 164.46955 169.52822 174.96829 181.3619 184.5336 192.08145 194.80149 202.73075 207.93997 211.59345 216.58185 221.48996 228.4657 235.34107 241.25289 247.88736 250.57729 256.98094 260.6344 265.12098 269.0354 274.0941 279.42378 283.07725 287.37309">]developsolutionstoimproveGPU’sresource</tspan></text>
+<text xml:space="preserve" transform="matrix(1.006479 0 -0 .9935627 -53 723)" font-size="10.027147" font-family="Linux Libertine T"><tspan y="-369.16645" x="53.652387 58.976804 62.145383 64.86274 67.5099 70.227268 74.47877 79.06118 82.22976 84.94711 90.0008 97.89216 105.38244 108.0998 111.26838 116.66299 121.71667 127.041088 132.67635 136.96796 142.02164 149.94309 155.14717 158.79706 163.85076 171.77219 174.48955 178.40015 181.11751 186.55222 194.02243 201.06151 206.38593 210.96833 213.6155 216.33286 219.50144 227.1321 232.18578 237.75084 242.614 247.09613 250.97664 255.96013 258.6775 262.96913 269.90788 272.80574 279.8448 284.89848 289.76164">utilizationwithoutcompromisingQualityofService(QoS)</tspan></text>
+<text xml:space="preserve" transform="matrix(.995992 0 -0 1.0040243 -53 723)" font-size="9.922668" font-family="Linux Libertine T"><tspan y="-353.41279" x="54.217306 57.29333 62.294355 68.496028 71.11561 75.65027 78.78583 83.22126 88.59935 92.84625 97.95642 101.31029 105.55719 109.24842 111.93747 115.07303 117.76208 122.00898 126.54364 131.68358 139.01644 144.01747 147.70871 152.78911 155.40869 160.40973 164.94438 169.96526 173.83509 178.5285 183.341 188.34204 194.55362 197.24268 202.62076 206.4906 209.62616 214.16083 219.53891 223.78582 228.12201 232.81543 238.0546 244.95085 254.01026 259.22959 264.23063 266.91966 272.29774 275.4333 281.8235 286.82453 292.09349">forlatency-criticalworkloads.Forinstance,LAXpointsout</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T"><tspan y="-339.7801" x="54.49266 57.612379 62.9238 69.83457 72.440929 76.95267 80.07239 84.485408 89.83632 94.06176 101.64386 106.55051 111.378177 115.7912 119.46378 124.7752 129.18822 133.69997 138.69547 145.0435 150.01927 155.57752 160.44467 164.95642 168.07613 172.30158 177.61299 180.28844 185.63935 193.07337 196.13385 201.10962 207.27996 209.88629 214.39804 217.51775 221.93077 227.2817 231.50713 236.59149 239.9284 243.77869 248.19171 253.54262 257.3929 260.06837 263.1881 265.86357 270.6912 277.602 284.36466 290.19935">thelatencyoverheadsofbatchingforlatency-sensitiveGPU</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-327.59904" x="54.54824 59.05539 64.17401 69.29263 71.896327 74.56905 78.79019 83.29734 86.41389 89.08662 94.057308 99.40276 105.537227 110.04437 115.38983 122.67819 127.796817 131.38675 136.35744 141.5451 146.5158 150.36215 154.77068 160.90514 164.02169 171.29032 174.95915 180.19612 187.82967 195.62102 200.858 203.4617 206.57823 209.25098 214.3696 216.9733 223.67978 230.43556 236.2643 245.07147 248.18802 252.69516 256.54154 261.5911 267.73545 271.95658 276.92726 282.27275 286.49388 291.7308 295.39967">applicationsandproposestorunmultipleGPUtasksconcur-</tspan></text>
+<text xml:space="preserve" transform="matrix(.99045446 0 -0 1.0096376 -53 723)" font-size="9.867501" font-family="Linux Libertine T"><tspan y="-315.92424" x="54.52043 58.112199 62.522977 67.87116 70.98929 73.59431 81.18242 88.55345 91.22754 94.34567 99.65439 102.328479 110.183017">rentlywithina</tspan></text>
+<text xml:space="preserve" transform="matrix(.99045446 0 -0 1.0096376 -53 723)" font-size="9.867501" font-family="Linux Libertine T" font-style="italic"><tspan y="-315.92424" x="117.19267 122.3139 126.270778 129.30011 133.25698 136.70073 141.11151 145.8183 149.77516 154.88654 158.91249 163.32326 168.46422">heterogeneous</tspan></text>
+<text xml:space="preserve" transform="matrix(.99045446 0 -0 1.0096376 -53 723)" font-size="9.867501" font-family="Linux Libertine T"><tspan y="-315.92424" x="174.6885 178.53682 182.94759 188.57207 193.54529 199.11057 205.8698 211.70149 220.72039 223.83852 228.34796 232.19628 237.24845 243.6031 246.54363 249.21773 254.5659 258.7892 261.39424 266.63386 271.6268 274.3009 279.64909 287.0892 293.9471">setofGPUtasks(includingAI</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-303.92835" x="54.175497 61.46386 66.43455 70.103389 75.15297 77.75666 82.72735 87.234508 92.224918 96.07128 101.475917 106.71289 110.55926 113.23199 118.57744 125.98416 132.73995 138.56867 147.55338 151.39975 154.5163 158.10622 162.51474 167.0219 174.81325 178.6596 183.29497 185.96772 191.31317 195.15953 198.27608 202.6846 207.19174 214.65766 219.62834 225.15134 230.01354 234.52068 237.63722 241.85836 247.16437 249.83712 255.18257 260.1138 264.75904 270.55818 275.0653 280.1445 287.93586 292.443">workloads)usingGPUstreams,insteadofbatching.Baymax</tspan></text>
+<text xml:space="preserve" transform="matrix(.99899956 0 -0 1.0010015 -53 723)" font-size="9.952632" font-family="Linux Libertine T"><tspan y="-294.7638" x="54.05408 58.602437 63.99676 71.52096 76.905338 80.52809 85.54422 90.70963 96.06415 100.51298 106.13621 110.01773 114.536228 118.98505 126.56896 129.71399 137.21828 139.91544 147.778 152.94342 156.56618 161.51264 166.37947 173.31647 180.13402 186.00608 195.06298 200.34781 203.49285 206.19 208.8175 211.51465 215.73458 220.28293 223.42798 226.12512 231.14125 239.02375 243.93039 251.54416 255.993 259.87455 263.01957 265.7167 273.57929 278.12763 281.27265 283.96983 289.3641">andProphetseektoimproveGPUutilizationbyestimating</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-285.921" x="53.467969 57.130437 61.62803 65.55211 70.62322 75.966 79.62848 83.9349 91.89373 96.20016 101.27127 106.724727 109.90423 114.401828 119.855289 123.03479 125.76152 130.83263 139.74732 144.34554 150.98628 154.91036 160.32357 164.92179 168.58425 173.15229 181.70475 185.36722 189.8648 193.78888 198.85999 204.20278 207.86525 212.17166 216.66925 224.05457 226.89199 231.28896 233.50254 238.5334 240.747 246.42182 251.86522 258.36509 261.35343 269.31227 274.27268 278.8709 284.32438 289.41563">resourcecontentionatsharedresources(e.g.,PCIeband-</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-268.4238" x="54.175497 61.54276 64.215488 69.2059 72.32245 77.628459 82.67804 87.185199 92.530658 99.621768 104.85874 107.97529 110.64802 113.2517 115.92443 120.10612 126.62521 129.74175 135.04776 139.55492 144.78203 147.45476 152.80022 155.85759 160.82828 164.49712 172.28847 176.79561 179.91216 182.5849 187.55559 195.01161 198.12815 205.19954 207.87229 213.21775 216.33428 220.7428 223.3465 225.9502 228.62294 233.55417 237.96268 243.30814 246.42469 249.02838 256.2181 261.20854 265.61708 268.7336 273.14216 276.81098 284.60234 287.27507 292.6205">width)andutilizethatinformationtointelligentlydetermine</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-261.77308" x="53.102605 60.618719 66.03193 68.75866 73.06508 81.0541 87.94638 93.87274 103.09934 106.278858 110.87707 114.80114 119.95274 126.452617 129.63213 137.27904 141.58547 146.65657 152.11003 156.41645 161.75923 165.5022 169.16468 173.66226 179.11573 182.29523 184.95153 192.70912 197.13628 202.06653 206.63455 210.94098 216.28377 219.46327 226.53668 231.13489 239.08367 244.15477 249.60822 257.2149">whichGPUtaskstoconcurrentlyexecuteamonga</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T" font-style="italic"><tspan y="-261.77308" x="264.39219 269.6142 273.64897 276.73789 280.77265 284.28419 288.78178">hetero-</tspan><tspan y="-249.69812" x="53.467969 58.26741 62.302167 67.514148 71.61934 76.116939 81.3591">geneous</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-249.69812" x="88.463748 92.38782 96.885417 103.38529 108.456409 114.89591 121.79826 127.72462 137.69579 145.1314 150.2025 153.94548 159.09708 161.75337 166.82448 171.42269 176.51392 183.75836 186.63602 194.56465 198.87108 203.94219 211.89095 216.8514 219.57813 225.03157 229.62979 232.8093 235.53603 240.60713 249.38097 254.45209 260.8916 265.9225 270.42008 275.87355 280.37117 284.1141 286.84086">setofGPUworkloads(acombinationofgeneric</tspan><tspan y="-237.62416" x="53.467969 60.360254 66.28661 76.00624 83.441867 88.51298 92.25595 97.407558 100.06385 105.13497 109.73318 114.82442 121.81732 124.47362 127.200359 132.35196 139.91838 145.82462 150.96616 156.05739 158.78412 164.23758 166.96431 174.63135">GPUworkloadslikeRodinia[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-235.283" x="179.989 184.62162">17</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-237.62416" x="187.38938 194.04018 198.6384 204.09185 212.2519 219.24481 225.30197 232.73758 237.80869 241.55165 246.70326 249.35956 254.43067 259.02888 264.1201 271.113">]andAIworkloads[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-235.283" x="277.432 282.0646">34</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-237.62416" x="283.87333 287.4553 290.45368">]).</tspan><tspan y="-225.5502" x="52.994676 62.563386 67.9766 70.70332 73.35963 80.70469 86.15815 91.22926 97.24617 101.17024 106.46272 111.030757 115.33717 118.0639 120.88119 123.69847 128.0049 132.6031 135.2594 137.9157 145.93489 149.11441 153.71262 157.4556 162.48647 166.98406 170.16358 172.89029 178.34375 186.2221 193.1144 199.04074 205.69155 209.61562 214.66661 220.11002 226.01625 231.62064 240.06243 249.9028">WhilenotspecificallytargetingGPUs,PREMA[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-223.328" x="256.007 260.6396">24</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-225.5502" x="262.65943 269.0788 273.00288 277.57093 282.0685 287.22016">]seeks</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0084642 0 -0 .9916069 -53 723)" font-size="10.046925" font-family="Linux Libertine T"><tspan y="-213.16208" x="53.54677 56.7216 64.24674 66.96947 74.90653 80.12089 83.77797 88.77129 93.68424 100.63672 105.228168 113.125049 120.10766 125.55309 130.14453 134.44463 138.74472 143.2357 145.88808 150.37906 154.11652 158.70796 161.8828 166.94644 170.6839 173.37647 179.74622 183.40329 187.89427 191.81258 196.87622 202.21112 205.87825 210.17835 217.12078 222.45569 225.63051 228.35323 231.00562 233.72832 236.90316 244.53882 249.87372 253.79203 256.51475 261.96018 269.4351 276.48805 281.70237 285.35948 289.85044">toimproveanAIaccelerator’sresourceutilityusingapre-</tspan></text>
+<text xml:space="preserve" transform="matrix(.99045446 0 -0 1.0096376 -53 723)" font-size="9.867501" font-family="Linux Libertine T"><tspan y="-197.51444" x="54.52043 58.931207 66.72653 71.84776 74.96589 77.639987 82.465198 89.39218 93.24051 97.4638 102.772518 107.25236 112.245319 117.48496 120.08998 122.76408 128.11226 135.56221 140.07166 142.67668 147.61043 152.58365 156.25437 158.92847 162.04659 167.3553 177.67671 180.79485 185.30429 188.97499 193.90874 198.31952 201.43764 204.11174 209.45993 216.9099 223.93555 229.24427 233.65503 236.77317 241.18393 244.7757 249.74892 254.68267 259.09346 264.44166 268.9215 273.89476 279.13438 285.4989 289.34724 293.75804">emptiveschedulingalgorithmtargetingaheterogeneousset</tspan></text>
+<text xml:space="preserve" transform="matrix(.9969955 0 -0 1.0030136 -53 723)" font-size="9.932667" font-family="Linux Libertine T"><tspan y="-186.89975" x="54.162729 59.168794 64.74102 71.64422 77.09726 84.43749 89.44356 93.13851 98.22403 100.84626 105.85232 110.39155 115.41747 121.78431 124.86344 129.76026 135.03449 140.6663 148.08602 150.77777 153.91649 159.26026 164.26633 169.54056 175.17238 179.42356 184.42963 189.81313 194.0643 199.33856 203.03351 206.649 211.0889 216.4724 222.11415 225.25287 229.7921 233.66585 241.24448 245.61484 250.48186 254.99127 259.24247 264.51673 267.65547 270.3472 275.35325 280.73677 283.69673 288.37498">ofAIworkloads(butwithoutconcurrenttaskexecution).A</tspan></text>
+<text xml:space="preserve" transform="matrix(.99548986 0 -0 1.0045307 -53 723)" font-size="9.917666" font-family="Linux Libertine T"><tspan y="-174.71543" x="54.244649 59.322496 63.686269 71.29312 76.31146 78.999149 82.86704 86.00102 88.68871 94.064098 98.30885 101.44284 104.13053 109.129039 117.00367 120.07814 123.678249 128.67676 139.01096 142.14493 147.48065 151.91385 155.78174 162.71419 167.86147 171.55083 174.23853 179.23703 185.42565 192.7548 197.75333 201.44269 209.00988 213.93895 217.80684 222.48798 227.85344 233.67511 239.19924 245.03083 251.19962 253.85756 260.21479 265.10423 269.6366 272.77058 277.01533 282.35105 285.03874 290.41413">keydistinctionfromthesepriorworkvs.PREBA’sbatching</tspan></text>
+<text xml:space="preserve" transform="matrix(.99297538 0 -0 1.0070744 -53 723)" font-size="9.892615" font-family="Linux Libertine T"><tspan y="-162.4031" x="54.382017 58.240137 63.33483 67.192958 70.31902 74.74103 85.06892 87.74981 94.12065 97.24673 102.568958 107.08988 112.72867 117.71455 122.96753 129.15042 133.00855 137.99442 140.60608 145.85906 148.98513 151.66602 156.6519 164.52642 168.9484 176.76357 181.89785 184.50949 189.42613 194.52083 200.89168 205.76874 210.28968 213.41574 217.64978 222.972 225.6529 231.0147 238.47373 241.15462 246.5164 251.65068 256.90367 262.54246 266.14338 270.6346 275.6106 280.86357 285.28556 289.14369 292.26976">systemisthatoursolutionemploysbatchinginputrequests</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T"><tspan y="-150.22644" x="54.49266 57.612379 62.124124 65.7967 70.73297 75.14599 78.26571 80.94116 86.292079 93.73597 96.85569 102.167118">targetingthe</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T" font-style="italic"><tspan y="-150.22644" x="109.083209 112.56821 117.36626 125.09644">same</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T"><tspan y="-150.22644" x="131.79756 138.65898 144.09876 151.89806 156.94292 161.93842 166.35143 171.4654 175.97716 181.32807 188.82132 193.16524 198.00278 202.4849 206.71035 211.95265 215.07238 219.48538 225.84329 228.96302 234.27443 241.19507 246.06223 250.57398 253.6937 257.91914 263.23057 267.7127 275.21586 277.8913 283.24223 288.36607 293.60838">AImodelandexecutesthebatchedinput</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T" font-style="italic"><tspan y="-141.0315" x="53.467969 57.01976 62.08081 67.29279 71.2068 76.42884 79.94039 84.43799 89.64997 94.14757 99.38973 102.94152 105.61795">synchronously</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-141.0315" x="113.684787 116.86429 124.48102 127.20774 135.15651 140.37856 144.04102 149.04169 153.96189 161.0051 167.89739 173.82375 180.47455 183.17108 189.64078 192.8203 198.2335 201.89597 206.96707 212.30986 217.34075 222.75395 227.97599 233.31877 236.49829 241.25749 246.60028 252.05374 254.71004 257.4368 262.5884 269.63163 272.81117 278.22438 282.72196 286.64607">toimproveGPU’sthroughput,unlikethese</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T"><tspan y="-126.5326" x="54.49266 59.6165 63.28908 65.96454 70.94029 77.11062 84.40642 89.38217 93.05475 100.60723 104.45751 108.939647 113.35266 118.407398 121.08285 126.43376 133.86779 136.98749">priorworkseekingto</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T" font-style="italic"><tspan y="-126.5326" x="144.46207 149.26012 152.74512 157.711 162.82497 166.66538 171.78922 175.23474 179.64775 184.76172 189.17475 194.31835 197.80335 200.42945">asynchronously</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T"><tspan y="-126.5326" x="208.35875 212.70265 217.5402 222.02233 226.24777 231.49008 234.60979 241.52057 249.31987 254.56218 257.16853 260.28825 262.9637 268.08757 270.6939 277.60469 284.36738 290.20204">executemultipleGPU</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-116.88358" x="53.102605 60.538225 65.60934 69.3523 74.503917 77.16021 82.23132 86.82954 91.92078 99.18534 103.10941 105.83614 113.78491 119.12769 121.78399 124.9635 129.56172 135.01517 139.5832 144.65431 149.99709 153.92116 156.57746 165.09975 169.69795 177.64673 182.71784 188.17128 196.5326 204.4713 209.8845 214.3821 217.56162 222.0592 225.72167 230.79277 235.82366 240.32125 245.77469 250.34272 255.41382 260.7566 268.02119 271.94529 276.4429 282.95286 288.02397">workloadssimultaneouslyamongaheterogeneoussetof</tspan><tspan y="-104.80862" x="53.467969 60.360254 66.28661 75.965999 79.1455 83.74371 87.667789 92.81939 96.74346 101.98563 108.97853 114.431987 119.5031 122.6826 128.09583 132.59342 139.35489 144.5065 148.93366 157.14403 162.23526 164.96199 168.88607 172.06557 174.7923 180.24576 184.55219 187.73169 190.45842 195.52953 204.0015 209.0726 215.22032 220.66373 226.56996 232.17435 238.09066 248.11214 250.83887 257.78147 260.961 266.3742 270.97239 277.18049 282.25163 287.5944">GPUtasks.AnotherkeydistinctionofPREBAisthatour</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0019981 0 -0 .998006 -53 723)" font-size="9.982505" font-family="Linux Libertine T"><tspan y="-92.004459" x="53.89232 58.94347 64.08446 69.49497 74.05698 81.94315 84.64841 91.40657 96.32794 100.889949 104.04442 108.31693 113.687519 116.39278 121.80329 129.27022 133.16339 138.30438 142.19756 145.35204 149.81423 160.18604 162.8913 169.26013 173.53266 178.56383 181.93791 186.98906 191.45124 195.34442 198.04967 203.04093 208.45143 212.9835 220.5203 227.97724 230.68248 233.83695 241.6832 246.71437 252.01508 258.2142 261.30879 264.94245 269.9736 275.38414 278.53858 283.00077 288.4113">dynamicbatchingsystemisco-designedwithourfrontend</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0014989 0 -0 .9985034 -53 723)" font-size="9.977532" font-family="Linux Libertine T"><tspan y="-79.9857" x="53.919179 60.91343 66.80017 75.86974 80.429477 84.0613 88.33169 93.6996 96.40351 99.55641 104.08621 108.3566 111.50949 116.80756 120.43939 127.37377 130.52667 135.08641 137.79032 140.4244 145.45307 149.08489 153.61469 161.14772 164.30062 171.80371 176.36345 181.41208 186.46071 190.09255 194.5525 198.44373 204.80939 207.96228 213.3302 220.26459 225.56266 230.97048 233.67438 238.69307 243.99115 250.92554 255.1959 260.5638 265.12355 267.75764 270.3917 274.85166 280.2595 285.24827 289.70823">DPUarchitecturetailoredtoaddresstheuniquechallenges</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0039921 0 -0 .99602386 -53 723)" font-size="10.002371" font-family="Linux Libertine T"><tspan y="-712.8715" x="316.69075 321.7319 327.3132 334.54493 341.06648 344.03718 351.04884 354.01957 360.24104 362.92167 369.30317 377.69517 380.66587 389.99806 393.899 399.0502 402.95115 406.11189 410.58296 418.48484 423.16593 429.04734 433.6184 436.77919 441.06019 446.44148 454.83345 459.4045 464.52574 468.9968 475.19828">ofNVIDIA’sMIGsystem.BatchMaker[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-710.037" x="480.667 485.2996">30</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0039921 0 -0 .99602386 -53 723)" font-size="10.002371" font-family="Linux Libertine T"><tspan y="-712.8715" x="487.98493 494.02638 498.59745 504.01875 511.56053 516.84176 521.41287 525.6539 530.8051 536.68649 541.25759 544.4183 548.6993 554.08059">]andLazyBatch-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0079683 0 -0 .9920947 -53 723)" font-size="10.041985" font-family="Linux Libertine T"><tspan y="-703.64456" x="315.44148 318.16285 323.6056 331.09693">ing[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-698.082" x="337.338 341.9706">23</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0079683 0 -0 .9920947 -53 723)" font-size="10.041985" font-family="Linux Libertine T"><tspan y="-703.64456" x="343.863 349.90827 353.82466 359.15693 364.17793 369.1989 373.68769 377.60408 383.24766 390.3072 393.11897 395.9307 401.37345 405.8622 409.2564 414.2774 418.01304 422.6022 425.3236 430.76637 435.3254 442.877 447.8277 452.4169 455.59016 459.88813 465.2907 468.01213 473.45487 480.93614 485.52534 488.17643 493.19743 498.25859 501.9942 504.71559 507.88887 513.2914 523.6949 526.86819 532.27078 536.8599 542.5035 546.80148 551.8626">]suggestafine-grainedbatchingalgorithmthatco-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0074722 0 -0 .9925834 -53 723)" font-size="10.037041" font-family="Linux Libertine T"><tspan y="-691.2538" x="315.5968 320.18376 322.83354 327.3201 331.23454 335.53038 340.01695 346.39045 349.11048 354.55055 359.75978 365.08946 368.26115 374.64469 379.23164 384.86244 388.03413 393.43406 400.3897 405.40824 409.14204 413.72898 419.16905 424.49873 427.1485 431.73545 435.46925 438.18928 441.36097 448.9891 454.0478 459.62837 462.3484 467.78846 472.86723 475.58726 480.57566 483.2957 488.37446 493.70414 498.29109 503.39994 508.41844 512.15219 516.73916 521.94839 529.8174 535.25747 540.3864 545.46517 549.9517">alescesinputsatthegranularityofindividualgraphnodes</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-680.88027" x="314.5263 317.35365 321.76069 323.97428 329.00514 331.2187 335.9779 340.28434 344.78193 347.43824 350.09455 356.5743 359.30107 367.30015 373.20637 380.23954 389.82838 397.77717 402.9187 408.00996 412.50758 415.16386 421.64366 426.71476 433.00337 435.65968 440.25788 445.3592 449.8568 453.59977 460.07954 462.80628 470.81544 477.86869 484.90187 494.48066 502.4294 507.57093 512.6622 517.1598 519.8161 523.7402 529.2943 532.47378 540.0905 542.8172 550.7659">(e.g.,cellsinRNNmodelsorlayersinDNNmodels)toim-</tspan></text>
+<text xml:space="preserve" transform="matrix(.9939819 0 -0 1.0060546 -53 723)" font-size="9.902643" font-family="Linux Libertine T"><tspan y="-658.2316" x="319.88008 325.01954 328.6241 333.54573 338.38813 345.31999 350.202 354.72749 357.85676 362.09507 367.4227 370.10633 375.47358 382.93025 387.35673 390.09315 392.82957 395.566 399.80436 402.48799 406.91447 412.28169 416.52003 424.12528 428.65077 434.018 441.53413 444.66337 449.99098 455.24928 461.61668 466.04316 471.41038 476.738 481.2635 486.63075 490.86909 497.80094 504.58424 510.4268 519.47787 524.73617 527.8654 530.549 533.1633 535.847 540.0457 544.5712 547.70046 550.3841 555.375 560.74227">provebatchingefficiencyandthusenhanceGPUutilization.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-656.73239" x="314.47679 324.69953 329.85115 334.27833 342.68995 345.80909 350.95066 355.25709 360.59983 367.75376 372.82487 379.17384 384.61723 390.52348 396.12785 402.04414 412.26689 414.99363 422.14753 425.32707 430.74028 438.46769 441.19444 446.28569 450.78327 456.23674 459.41627 462.14299 464.96028 467.77757 472.08399 476.6822 479.8617 482.58845 487.65959 496.34284 501.41398 507.76295 510.9424 516.35568 524.073 529.4158 534.86929 537.59597 542.657 547.99978">AkeyfocusofPREBAistheidentificationoftheunique</tspan></text>
+<text xml:space="preserve" transform="matrix(.99297538 0 -0 1.0070744 -53 723)" font-size="9.892615" font-family="Linux Libertine T"><tspan y="-633.82217" x="320.2043 324.43836 329.7606 334.2815 336.89314 339.5048 343.92677 349.28858 354.23487 358.65687 365.01783 373.31776 376.25587 383.03233 385.68354 392.0544 396.93147 401.4524 404.57847 408.81248 414.1347 416.8156 422.17744 429.62657 433.48469 438.57939 442.4375 445.56358 449.98558 460.30357 463.37025 467.89118 472.1252 476.5472 482.90818 485.85615 488.53706 490.71345 495.03654 497.21293 501.90205 504.58296 507.709 514.06997 521.88516 527.13809 531.37216 539.19717 541.80886 546.72549 554.0361 558.45809">challengesMIG’sbatchingsystemfaces(i.e.,itsmuchlower</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="LibertineMath" font-style="italic"><tspan y="-626.351" x="317.856 323.5247 328.36653 331.9232 336.0477">𝐵𝑎𝑡𝑐ℎ</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="7.2727" font-family="LibertineMath" font-style="italic"><tspan y="-624.739" x="341.28099 345.33189 349.5064 353.00459">𝑘𝑛𝑒𝑒</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-632.58346" x="353.7312 358.86268 362.04219 367.45539 374.87089 382.81968 387.41789 392.34815 395.0749 403.02366 408.36643 419.2331 424.1935 428.79173 431.97123 436.27766 444.60877 448.53285 451.25959 455.52577 462.94126 467.53947 473.63688 476.81639 482.22959 489.64509 494.7967 500.25016 504.80815 512.2237 517.2948 523.33187 526.5113 531.92459 539.3401 542.5196 547.1178 549.8445">,themaximumbatchsizeatthekneeofthetail</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044899 0 -0 .9955302 -53 723)" font-size="10.007331" font-family="Linux Libertine T"><tspan y="-617.1546" x="316.53379 319.17573 323.74909 326.91139 331.38465 336.80863 341.09178 348.73738 353.0205 358.33439 362.2072 367.10084 371.57408 377.03807 381.61143 387.0354 394.59095 399.97489 404.94853 414.91584 418.07814 425.61369 430.187 435.25074 440.31446 443.95713 448.4304 452.33326 458.7179 461.88023 467.26417 471.73744 482.13505 487.06867 494.71427 498.9974 504.0411 507.4236 512.4873 516.9606 520.86349 523.5755 528.57919 534.0031 536.7151 542.13906 549.6345 552.3465">latencycurve)andhowtoaddressthembyco-designingit</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-608.4355" x="314.45799 321.97413 324.70088 327.88038 335.9499 339.1294 344.5426 351.70658 354.8257 358.4882 363.55934 369.01277 372.1923 376.68989 382.14335 389.8909 394.98216 399.58039 402.7599 410.01438 415.23643 418.90895 423.40657 428.62858 432.29106 437.43263 441.739 446.23664 450.1607 454.0848 456.81156 462.265 469.95219 473.87629 477.0558 481.65403 486.68489 491.08189 495.96183 502.83399 509.41435 512.5938 518.0071 525.171 530.32266 534.7498 542.5879 545.31466 550.7681">withthefrontenddatapreprocessingstage.Asthekeyin-</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T"><tspan y="-585.1475" x="320.8558 324.7061 327.38157 332.3178 337.62925 340.74897 347.11674 352.0925 356.50553 361.81694 364.4924 369.8433 377.3563 383.16136 387.67308 390.7928 395.01826 400.32969 408.61274 413.12446 418.1792 422.5922 428.78227 433.29399 438.6449 446.16777 451.38047 455.89219 460.07814 465.1625 470.96754 475.47929 478.599 482.82447 488.13587 490.81135 496.16224 503.61598 508.12773 511.7213 518.6518 523.62759 527.3002 530.4199 535.7313 540.7071 545.64346 550.6192 555.9701 560.4818">sightsbehindBatchMakerandLazyBatchingareorthogonal</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0069757 0 -0 .9930726 -53 723)" font-size="10.032096" font-family="Linux Libertine T"><tspan y="-582.56668" x="315.7524 318.92256 326.45668 331.88404 337.7729 343.36076 349.25965 355.5096 358.19825 364.57865 369.52449 374.10914 377.27928 381.57304 386.97029 389.689 395.12638 402.62034 406.53288 411.6994 415.6119 418.78208 423.26643 431.19178 435.87675 439.0469 444.44416 448.85829 456.4927 460.78648 465.37113 473.2864 478.33256 485.2948 489.77915 497.70454 502.9112 505.55967 510.54563 515.6319 520.1865 527.7306 532.78677 540.70217 543.87228 548.92849">toPREBA’sbatchingsystem,theycanbeemployedontop</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-566.575" x="317.955 322.97615 328.5552 333.57637 338.8665 345.06324 350.23384 353.8602 358.88136 364.12168 369.14283 373.02824 377.55125 385.08299 388.96839 394.09913 397.98454 401.13273 405.586 415.9471 419.0953 426.60713 429.69554 434.98567 438.69175 441.83995 447.19984 451.6531 457.84986 462.30314 467.70286 473.06275 477.61567 483.01539 487.2794 494.22334 499.46366 503.91694 507.62303 510.71144 515.7326 519.4387 527.3092 531.8621 537.26187 541.5258 545.8795">ofourproposedsystemtofurtherenhanceperformance.</tspan></text>
+<text xml:space="preserve" transform="matrix(.99297538 0 -0 1.0070744 -53 723)" font-size="9.892615" font-family="Linux Libertine T" font-weight="bold"><tspan y="-550.724" x="330.2378 337.4396 341.95066 346.46168 351.29914 354.51426 359.3517 363.58576 368.5914 372.13298 375.3184 381.41227 389.07908 393.30323 398.8233 403.04747 406.58903 411.4265 422.90193 427.1261 432.5769 436.44496 439.9865 447.67308 452.6787 456.83363 464.1937 470.1095 474.33366 477.51908 483.61296 491.27976 498.54093 505.10963 512.351 516.5752">AcceleratingsystemsoftwareusingDPUs.</tspan></text>
+<text xml:space="preserve" transform="matrix(.99297538 0 -0 1.0070744 -53 723)" font-size="9.892615" font-family="Linux Libertine T"><tspan y="-550.724" x="521.50949 530.9173 536.23959 538.9204 541.5321 548.4767 553.8385 558.8244">Whilenot</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-537.2109" x="321.18305 324.2996 328.80674 332.47557 337.4068 341.81535 344.9319 347.6046 352.95008 360.18916 367.04359 369.97273 374.46015 377.5767 382.8827 387.29124 390.88117 397.59754 401.93705 406.76966 409.44239 413.28877 416.40528 422.5693 427.68794 431.35676 434.0295 439.00019 444.97685 447.5805 450.25328 453.36979 457.77833 461.44715 465.9543 469.07084 474.3078 477.89775 484.6141 487.67149 491.2614 496.2321 506.3411 510.84828 515.0694 519.57656 524.5669 528.9754 536.7668 539.4395 546.2545 549.0259 553.33578 555.5055 560.4367 562.60647">targetingAI,thereexistspriorliteraturefromacademia(e.g.,</tspan></text>
+<text xml:space="preserve" transform="matrix(.99849888 0 -0 1.0015035 -53 723)" font-size="9.947644" font-family="Linux Libertine T"><tspan y="-529.9133" x="318.13356 324.02259 330.44877 335.83045 339.04353 341.99797 349.86656">TCP/IP[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="352.881 357.5136">12</tspan></text>
+<text xml:space="preserve" transform="matrix(.99849888 0 -0 1.0015035 -53 723)" font-size="9.947644" font-family="Linux Libertine T"><tspan y="-529.9133" x="362.69044">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="366.817 371.4496">16</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="380.754 385.3866">57</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="394.69 399.3226">80</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="408.627 413.2596">83</tspan></text>
+<text xml:space="preserve" transform="matrix(.99849888 0 -0 1.0015035 -53 723)" font-size="9.947644" font-family="Linux Libertine T"><tspan y="-529.9133" x="418.52024 422.06159 426.737 429.69148 432.90455 442.38465 447.3286 450.02445 453.72499 456.8684 462.1506 466.6967 469.32286 472.01869 476.23646 480.78254 483.92597 486.6218 491.63539 499.51396">],I/Ovirtualization[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="502.3 506.9326">21</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="516.236 520.86868">45</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="530.173 534.8056">46</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-530.71" x="544.109 548.74166">49</tspan></text>
+<text xml:space="preserve" transform="matrix(.99849888 0 -0 1.0015035 -53 723)" font-size="9.947644" font-family="Linux Libertine T"><tspan y="-529.9133" x="554.2069 557.7483">],</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0019981 0 -0 .998006 -53 723)" font-size="9.982505" font-family="Linux Libertine T"><tspan y="-519.79147" x="317.32096 322.7215 327.36338 335.23957 340.2907 344.85273 348.00718 355.0548 362.94099 367.9023 372.78376 377.24595 385.1321 389.5943 395.00483 398.1593 404.52818">P2Pdatamovements[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-518.755" x="408.899">5</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0019981 0 -0 .998006 -53 723)" font-size="9.982505" font-family="Linux Libertine T"><tspan y="-519.79147" x="412.7074">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-518.755" x="418.217 422.8496">44</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-518.755" x="432.167 436.7996">87</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0019981 0 -0 .998006 -53 723)" font-size="9.982505" font-family="Linux Libertine T"><tspan y="-519.79147" x="440.55177 444.10554 448.77735 452.411 456.87318 464.75938 469.79057 472.945 479.89283 482.85765 486.082 495.5654 500.12739 504.3999 508.6724 513.1346 517.0277 523.40658 528.36788 533.24929 537.7114 543.9006 547.05508 552.42568">],remoteI/Oaccessoverthe</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-511.84187" x="314.82237 320.2758 324.7734 327.9529 335.38856 340.45967 344.20265 352.12123">network[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-506.799" x="359.241 363.8736">42</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-511.84187" x="364.87629">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-506.799" x="373.534 378.1666">55</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-511.84187" x="379.0275 382.60948 388.37483 392.97303 398.42649 406.27464 410.58106 415.65217 423.60093 431.5497 436.0473 439.71986 444.02629 446.75303 451.35124 456.76448 461.9865 465.64897 470.79054 475.88179 481.22456 485.53099 488.71049 495.40153 498.52067 502.18315 507.25428 517.97006 520.6967 526.1502 531.24148 536.5842 540.5083 543.6878 547.58169">])andcommercialproductsfromindustry</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0029956 0 -0 .9970134 -53 723)" font-size="9.992443" font-family="Linux Libertine T"><tspan y="-496.32637" x="316.70729 319.51515 323.88188 326.0802 331.07643 333.27479 337.96125 345.18577 351.70085 354.6686 361.6733 364.64109 370.85639 373.53437 379.91954 385.79508 388.43309 393.73905 398.2057 403.052 405.75996 410.2266 412.8646 420.39888">(e.g.,NVIDIA’sBlueField[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-494.844" x="425.227 429.8596">64</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0029956 0 -0 .9970134 -53 723)" font-size="9.992443" font-family="Linux Libertine T"><tspan y="-496.32637" x="433.1943 436.75163 441.43809 444.40586 449.82176 452.97938 457.446 460.084 462.762 469.13716 472.10493 478.00047 487.0836">],Intel’sIPU[</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-494.844" x="492.113 496.7456">39</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0029956 0 -0 .9970134 -53 723)" font-size="9.992443" font-family="Linux Libertine T"><tspan y="-496.32637" x="499.88056 503.43785 508.90373 512.06137 517.43728 522.0038 527.63949 531.53659 536.07308 540.5397 548.1439 551.3015">])thatseekto</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-487.69395" x="314.82237 319.89347 322.6269 325.36033 328.09379 333.16493 337.76313 345.57106 352.0709 357.99726 364.64808 368.04893 370.77568 376.2291 379.40864 383.90623 389.35969 393.28379 396.01054 400.9307 408.145 412.0691 417.2509 421.17497 424.3545 428.85209 439.5276 443.4517 448.5228 451.64195 454.82148 462.3376 466.9358 470.59828 477.81254 480.99208 488.77986 493.37806 501.5482 504.53654 507.78645 517.56649 522.1647 525.3442 528.5236 533.1219 537.4283 542.8415 547.4095">offloadCPU-intensivesystemsoftwaretoanI/Oattached</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005982 0 -0 .9940535 -53 723)" font-size="10.022197" font-family="Linux Libertine T"><tspan y="-473.75114" x="316.06428 320.64445 324.93394 329.22343 333.70335 336.34919 340.8291 344.55735 349.13749 352.30455 357.35569 363.55943">accelerator[</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005982 0 -0 .9940535 -53 723)" font-size="10.022197" font-family="Linux Libertine T"><tspan y="-473.75114" x="371.73429">,</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-470.934" x="378.668 383.3006">13</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-470.934" x="392.643 397.2756">15</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005982 0 -0 .9940535 -53 723)" font-size="10.022197" font-family="Linux Libertine T"><tspan y="-473.75114" x="441.1938">–</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-470.934" x="463.333 467.9656">53</tspan></text>
+<text xml:space="preserve" transform="matrix(1.005982 0 -0 .9940535 -53 723)" font-size="10.022197" font-family="Linux Libertine T"><tspan y="-473.75114" x="483.6806 487.2485 491.9289 495.83753 498.55357 506.4711 509.18714 511.83299 516.41317 522.6169 525.3328 533.24038 537.14907 542.3506 545.0666 548.79489 551.51089">],similarinspirit</tspan></text>
+<text xml:space="preserve" transform="matrix(.9964938 0 -0 1.0035185 -53 723)" font-size="9.92767" font-family="Linux Libertine T"><tspan y="-457.36979" x="319.0737 322.21083 329.72608 335.09696 340.92448 346.4542 352.29167 359.1914 361.85203 368.2355 375.19483 381.05216 387.37608 392.07188 397.9987 403.33976 407.77745 411.64924 418.5986 421.2195 425.75648 428.8936 433.33128 437.20307 442.85194 446.4656 450.9033 454.7751 459.21275 463.7497 467.36338 471.6124 479.46519 482.60237 486.21604 490.65373 496.03453 501.05793 507.4414 512.7825 515.4729 520.4367 525.77786 528.39877 531.0891 536.0529 541.39407 547.0429 550.18008 555.5212">toPREBA’sDPU.Theselatestresearchtrendshighlightthe</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T"><tspan y="-447.024" x="317.955 323.12559 326.83168 331.38459 335.6486 338.79679 341.49665 345.76066 350.31358 352.9437 355.64356 358.79176 366.41316 370.96607 376.36579 383.89753 387.04573 389.74559 397.61604 402.0693 404.69944 407.3993 412.799 417.2523 421.1377 427.51377 432.5349 438.11399 443.13514 448.42527 454.622 459.7926 463.41899 468.44013 473.68046 478.7016 482.587 487.13993 489.77006">practicalityandtimelinessofourproposal.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="11.9552" font-family="Linux Libertine T" font-weight="bold"><tspan y="-423.32398" x="317.955 336.05516 344.4955 351.89579 357.94514 363.06196 369.11128 374.56285 378.8428 384.6889 389.80574 393.6553 399.05906 405.1084 409.38838 413.23796 419.82527">3Characterization</tspan></text>
+<text xml:space="preserve" transform="matrix(.9949875 0 -0 1.0050378 -53 723)" font-size="9.912662" font-family="Linux Libertine T"><tspan y="-406.333" x="319.2563 325.17414 330.50715 333.19346 339.5772 343.44316 347.94349 352.1861 355.31849 358.00483 363.0008 370.88139 376.145 379.2774 381.9637 384.58067 387.26698 391.46995 395.9009 402.28468 409.45155 415.91459 418.85865 425.8074 428.75148 434.9171 437.57374 443.94758 450.83686 455.44624 460.0556 467.1828 473.97297 479.82145 488.89155 492.02394 499.53773 503.78034 508.77635 514.149 519.16488 524.42849 528.6711 534.31149 541.3593 545.602 550.935 555.4651 559.1526">ThissectionutilizesNVIDIA’sA100GPUtoconductachar-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044899 0 -0 .9955302 -53 723)" font-size="10.007331" font-family="Linux Libertine T"><tspan y="-398.2049" x="316.53379 321.10713 325.39027 328.55259 333.02586 336.74858 339.46055 343.70365 348.27699 351.4393 354.15129 359.19499 367.09077 372.13447 377.69856 386.0947 389.0669 398.39375 401.1057 406.5297 409.63197 414.10523 417.7479 422.22117 427.64515 431.92829 438.87336 442.7762 447.24949 451.1223 456.0159 460.48918 464.21189 468.11476 472.78816 477.6417 482.6854 488.86994 493.80357 497.44627 501.84947 506.8231 509.53507 512.6974 517.27078 521.9442 529.3396 536.2746 539.9273 544.4006 547.5028 551.9761">acterizationofMIGinferenceservers.Forbrevity,werefer</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0074722 0 -0 .9925834 -53 723)" font-size="10.037041" font-family="Linux Libertine T"><tspan y="-387.34278" x="315.5968 318.7685 326.30635 333.37245 341.79353 344.7745 354.12904 359.33827 363.9252 367.659 370.8307 373.55073 376.72245 379.44248 384.50114 389.9412 394.498 402.0559 404.77595 410.216 413.3877">toaMIGpartitionedinto</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="LibertineMath" font-style="italic"><tspan y="-384.47" x="423.422">𝑉</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0074722 0 -0 .9925834 -53 723)" font-size="10.037041" font-family="Linux Libertine T"><tspan y="-387.34278" x="430.19654 435.28535 442.1607 448.07255 454.707 461.10063 468.59828 473.9982 478.48475 482.13825 489.10395 493.5905 498.17747 502.4733 510.35237 515.44119 522.3165 528.22836 537.34207 541.6379 546.69656 552.1366">vGPUswhereeachvGPUcon-</tspan><tspan y="-375.29847" x="315.5968 318.7685 323.35545 326.07548 331.51554">tains</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="LibertineMath" font-style="italic"><tspan y="-372.515" x="340.318">𝑀</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0074722 0 -0 .9925834 -53 723)" font-size="10.037041" font-family="Linux Libertine T"><tspan y="-375.29847" x="348.99726 355.87266 361.30268 367.7866 374.16014 376.99058 381.2864 386.34507 394.27436 399.48359 404.81327 407.98497 412.4715 417.92164 422.50859 427.94865">GPCs(compute)and</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="LibertineMath" font-style="italic"><tspan y="-372.515" x="438.792">𝑁</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0074722 0 -0 .9925834 -53 723)" font-size="10.037041" font-family="Linux Libertine T"><tspan y="-375.29847" x="445.97065 452.84605 461.2069 466.26557 471.84617 478.8821 484.77384 491.74958 502.62977 505.6208 513.55007 518.0366 525.9659 531.0246 534.90896 539.9074 545.3575 549.94448">GBofDRAM(memory)as</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0009996 0 -0 .9990015 -53 723)" font-size="9.972557" font-family="Linux Libertine T"><tspan y="-360.92036" x="317.63749 324.68809 328.4278 336.79478 341.78108 343.97505 350.94584 355.93214 360.8486 363.82044 370.0832 374.96974 377.94157 384.1744 388.44267 393.46885 398.87397 401.6663 404.4586 409.44486 414.7403 418.45008 423.00755 426.15888 428.86143 433.8876">a“Mg.Ngb(Vx)”configuration</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="7.2727" font-family="Linux Libertine T"><tspan y="-364.176" x="439.732">1</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0009996 0 -0 .9990015 -53 723)" font-size="9.972557" font-family="Linux Libertine T"><tspan y="-360.92036" x="443.16905 447.85615 452.69285 457.719 463.92195 466.62449 472.0296 475.9189 479.07026 483.62773 489.03285 493.3011 497.6591 502.3462 506.90367 514.8019 521.73287 526.37008 531.00729 538.1376 544.96878 550.8526">.Forinstance,anA100GPU</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-352.07377" x="314.82237 320.04438 324.64259 328.38554 331.56507 334.29179 337.4713 340.19807 345.26918 350.72264 355.29069 363.7727 366.49946 371.9529 375.13243 383.6044 387.52848 391.95567 396.87583 401.37345 410.22776 415.32908 422.22135 428.1477 434.7985 442.11338 444.84013 452.16508 456.84376 461.87464 464.0882 468.7669 473.79777 478.7582 481.7566 486.4353 491.36555 494.36396 499.9683 507.4844 512.89767 517.39529 521.0678 525.5654 530.16366 537.4785 542.5497 548.0032">partitionedintosevenvGPUsis1g.5gb(7x),whereasone</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0049875 0 -0 .9950372 -53 723)" font-size="10.012289" font-family="Linux Libertine T"><tspan y="-338.32807" x="316.0109 323.49009 326.20344 329.36729 334.7539 339.80009 345.11665 350.76356 355.33918 360.76585 368.3952 373.59159 378.1672 381.89176 385.05564 387.76899 390.93287 393.64619 398.69239 404.11906 406.83238 412.25904 419.74824 424.32389 429.75056 437.28984 440.39363 445.71015 451.13685 455.4221 458.58598 461.29933 466.3455 471.77217 478.15998 482.7356 489.11344 494.1596 499.5863 506.5448 511.48088 514.1942 521.6834 526.75967 533.61807 539.51528 548.61648 551.3298">withoutanypartitioningandfunctionsasonebigvGPUis</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-327.92485" x="314.59565 319.27433 324.3052 326.51878 331.19746 335.87617 340.907 345.86747 348.86585 353.54457 358.4748 364.54203 367.5404 372.42036 375.1471 380.17799 385.52076 389.18324 396.7396 401.41828 404.4167 409.69908 416.5813 423.56416 428.6554 431.38215 435.30625 439.61268 444.95545 448.87953 452.80363 457.37165 465.53175 468.18803 472.78627 475.96577 480.46339 487.2651 492.60789 496.53199 499.25874 504.71217 512.8119 517.69186 520.4186 525.4494 530.7922 534.45468 542.0211 546.6998 551.37857">7g.40gb(1x)(Figure2).AsdiscussedlaterusingFigure13,</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-309.59584" x="321.18305 324.2996 329.6056 336.4107 340.25709 342.9298 347.11149 353.91664 358.8873 364.34126 371.24497 375.09135 377.76408 383.10957 388.0408 390.64448 395.053 398.38655 401.05928 406.40476 411.52336 416.7603 422.27345 425.3308 430.30149 436.36689 440.87406 448.6161 453.12327 458.36024 463.35063 466.02336 473.39064 478.50923 482.09919 487.13887 491.36003 495.76853 499.6149 503.46128 506.134 511.4795 518.8073 523.31448 528.4331 533.55178 536.15548 538.8282 543.0493 547.55648 550.673 553.3457 558.3164">thesizeofasingle-inputforanaudioprocessingapplication</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-303.77693" x="314.82237 319.12876 323.727 332.55113 337.5518 342.15 346.0439 350.64213 356.23643 361.5792 367.03266 369.68898 372.4157 377.56733 385.4356 388.6151 394.02833 401.89659 404.71388 407.53117 412.46144 417.02946 422.1207 425.52156 429.44566 432.1724 436.43858 444.30683 447.03358 452.48704 457.70906 463.05183 469.61207 472.7312 477.80235 484.91596 489.22239 494.29353 502.24229 507.46434 512.8071 515.9866 520.4842 527.59786 532.5985 535.3252 539.2493 541.976 547.0471">canvary,unlikethefixed-sizeinputforcomputervision</tspan></text>
+<text xml:space="preserve" transform="matrix(.9909591 0 -0 1.0091233 -53 723)" font-size="9.872529" font-family="Linux Libertine T"><tspan y="-286.21775" x="320.48448 327.78025 332.75599 336.42857 341.4833 344.08967 349.0654 353.57713 358.57264 362.42295 367.11238 371.90055 376.87629 383.06636 387.93348 391.52708 395.871 400.77766 403.4531 406.5728 411.06483 415.75425 420.266 422.87236 427.9962 432.34013 437.17765 442.37059 446.78364 450.4562 453.13166 460.93098 465.344 470.69493 473.81465 480.1824 485.17793 487.8534 491.70368 495.92915 501.17146 505.02177 508.87208 513.3542 520.877 523.5524 531.4209 534.5406 539.85208 542.52749 548.89529 552.7456 557.22769 561.4531">workloads.Forbrevity,allexperimentsdiscussedinthissec-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-279.629" x="314.82237 318.00187 320.7286 325.7997 334.0302 338.6284 342.5525 346.47657 351.81935 359.76814 367.04277 370.22227 375.63548 380.2337 386.2003 389.37983 394.79304 402.06767 404.79438 410.24784 415.46989 420.81266 426.76918 431.3674 436.71018 441.80143 444.52818 452.3763 455.03263 459.5302 464.98368 470.01457 473.19407 481.39436 484.1211 490.8222 493.6395 496.4568 501.38706 505.95509 513.82339 518.4216">tionassumethattheinputaudiolengthisfixedat</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-279.629" x="524.3782">2</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="LibertineMath" font-style="italic"><tspan y="-276.874" x="534.481">.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-279.629" x="531.55276">5</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-279.629" x="539.0106 542.9347 547.5027 551.8091">sec.</tspan><tspan y="-267.55406" x="314.82237 321.8555 326.92665 332.3801 336.8777 340.05723 345.47044 349.96803 352.62434 357.12193 361.04603 364.97013 370.08146 377.51707 384.91246 389.41007 397.35884 402.58085 407.99406 412.59226 416.51634 419.24308 423.50926 430.9147 434.0942 439.50743 444.10566 450.18293 453.36244 458.77565 466.17103 471.32264 475.74983 483.82939 488.9005 493.86097 497.78504 502.28266 506.17655 511.1772 515.77548 518.9549 521.68167 526.75277 532.20626 539.02816 544.1194 546.84609 550.77017">Nonetheless,weemphasizethatthekeyobservationsdis-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044899 0 -0 .9955302 -53 723)" font-size="10.007331" font-family="Linux Libertine T"><tspan y="-254.09877" x="316.53379 320.81694 326.1308 330.03367 333.93653 338.47984 346.02537 348.73735 356.64314 359.80546 365.1894 367.90138 374.286 378.18888 382.7322 387.01536 390.17765 392.88963 397.93333 405.84916 409.49183 413.9651 421.87086 426.4442 429.1562 437.06199 439.77397 445.19795 448.36024 452.93357 457.2167 462.86085 466.5035 470.97679 475.98045 480.55378 484.19645 489.26017 491.9021 496.37538 500.27824 506.6629 511.70658 517.2907 520.453 525.837 532.80209 537.37539 542.68936 547.753 550.465">cussedinthissectionremainintactregardlessoftheaudio</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="9.862471" font-family="Linux Libertine T"><tspan y="-238.58574" x="321.18305 323.78675 328.19529 333.54075 338.472 341.5885 346.89454 351.42143 356.2047 360.68229 364.9034 368.01994 370.69267 375.66334 383.36595 390.3091 393.3665 398.60343 402.27229 405.3888 410.69483 415.10337 421.1293 426.11973 430.52824 433.64479 438.15193 440.82466 443.42835 449.6417 454.61238 459.84934 465.8753 470.20494 475.1066 479.61375 482.21745 487.45439 491.96156 495.07807 497.7508 502.72148 510.43394 518.2253 522.6338 525.7503 531.05636 536.09609 541.0865 546.0571 548.6608 553.6315 558.5627 563.0403">length.Section5furtherdetailsourevaluationmethodology.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="9.9626" font-family="Linux Libertine T" font-weight="bold"><tspan y="-219.301" x="317.955 323.07579 325.50666">3.1</tspan></text>
+<text xml:space="preserve" transform="matrix(.997998 0 -0 1.002006 -53 723)" font-size="9.942655" font-family="Linux Libertine T" font-weight="bold"><tspan y="-218.86194" x="341.27323 350.2117 353.86067 363.62437 369.67945 373.23893 376.79838 381.72996 386.2638 389.82325 393.0248 398.20494 403.0669 409.1916 414.05357 418.29908 425.04017 428.2417 436.85206 440.501 449.4991 455.2758 459.45173 464.86054 470.1202 473.32176 479.44645 487.12217 494.40019 500.99214 510.75584 518.0338 521.5933 524.79489 528.02627 531.2278 535.72189 540.75289 544.3124 547.5139 552.9923">MIGEffectivenessinImprovingGPUUtilization</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-206.39043" x="314.34907 323.13294 331.2427 334.06 336.87727 340.62025 344.54435 351.34608 355.7833 360.78398 365.3822 368.0385 373.3813 377.97953 381.15904 389.2688 394.682 399.69276 410.821 415.31864 418.2466 421.17457 425.74259 430.049 433.22853 435.95527 440.87547 448.99528 457.43708 460.4254 470.9399 473.66667 481.21299 483.9397 493.01539 495.74214 503.6909 508.91294 512.5754 517.5761 522.5768 525.30349 530.75698 539.41006 542.58956 548.0028">WefirstevaluatehoweffectiveMIGisinimprovingthe</tspan></text>
+<text xml:space="preserve" transform="matrix(.9949875 0 -0 1.0050378 -53 723)" font-size="9.912662" font-family="Linux Libertine T"><tspan y="-191.43758" x="318.42515 321.90446 326.14707 331.48008 334.16639 339.31108 342.66154 350.0663 352.75263 357.76844 361.96147 368.1866 372.7167 377.67304 382.62937 386.23759 390.66856 395.62489 400.15498 403.28736 410.23616 413.36854 418.70155 422.30976 427.30574 432.56938 437.5257 442.8587 448.0034 453.267 456.3994 461.09803 468.50279 473.8358 476.5221 480.7647 488.60563 491.29194 497.6757 502.67167 508.04435 514.9931 519.9891 525.56997 528.70236 534.03536 540.9841 548.8151 553.8111 557.677">“chip-wide”aggregatethroughput,whichisoneofthemost</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="10.061732" font-family="Linux Libertine T"><tspan y="-182.24253" x="314.82237 317.5491 325.49787 330.7903 335.86146 339.6044 342.7839 347.3821 352.83558 359.21473 367.16349 372.23463 375.41413 378.14088 383.14158 387.73976 390.91929 393.646 398.71714 404.1706 411.30439 416.36546 420.86305 426.27626 429.003 434.45646 442.74736 445.92686 451.34007 459.04737 464.1386 468.6362 472.5603 475.28706 480.3179 488.971 494.04216 500.37098 508.81278 511.80113 518.6934 524.10659 526.8333 529.0469 533.44387 535.6574 541.0807 545.6789 550.77017">importantmotivationsbehindthedesignofMIG,i.e.,ad-</tspan></text>
+<text xml:space="preserve" transform="matrix(.99146357 0 -0 1.0086099 -53 723)" font-size="9.877555" font-family="Linux Libertine T"><tspan y="-167.0537" x="320.6926 325.69065 329.28608 333.70133 337.5536 341.40586 344.08265 349.43629 356.88395 360.00526 365.3194 372.23368 378.9998 384.8374 393.8754 399.12037 404.47398 409.47203 413.88728 417.56175 422.8067 425.928 428.60484 431.21253 433.8893 438.07743 442.59147 445.71278 448.38957 453.36787 461.23039 466.35685 469.9424 474.92073 479.79035 482.398 486.8133 497.12547 504.504 509.81816 514.2334 522.0959 529.1189 532.9711 540.77438 545.2884 547.89608 553.0027 559.86758">dressingtheGPUunderutilizationproblemwhenasmallAI</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044899 0 -0 .9955302 -53 723)" font-size="10.007331" font-family="Linux Libertine T"><tspan y="-157.23984" x="316.53379 324.43959 329.55335 334.61708 339.09034 344.21409 346.92607 353.32075 357.2236 361.69688 365.55967 370.53334 373.2453 377.5284 382.07176 389.6273 394.671 402.57679 405.7391 410.7828 418.45845 423.5021 429.09623 436.15138 439.3137 443.03645 447.60978 450.32176 455.74574 458.4577 463.88169 468.88536 472.26783 477.46165 482.7755 486.49824 491.76213 496.80583 500.70869 505.25199 512.7975 515.43948 520.0128 523.73556 528.7392 535.7042 542.55929 548.4536 554.82827">modelisservicedontopofatraining-purposedlargeGPU.</tspan></text>
+<path transform="matrix(1,0,0,-1,264.955,577.317)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H47.821" />
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="6.1768" font-family="Linux Libertine T"><tspan y="-139.082" x="317.813">1</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0094553 0 -0 .99063327 -53 723)" font-size="8.04546" font-family="Linux Libertine T"><tspan y="-137.4767" x="318.17457 320.5641 326.89588 329.43827 333.7667 335.94703 341.04786 344.18556 347.8382 351.28166 353.824 356.00434 360.05924 364.4199 368.16105 374.10664 379.66603 383.20606 387.20466 390.88145 393.0054 397.27757 400.95436 403.4967 409.06416 412.8053 416.828 418.59803 422.33918 426.3619 430.3283 432.72587 436.467 440.40928 442.80683 446.53996 450.2811 454.3038 456.07383 459.81498 463.55613 467.57884 471.54524 473.94279 477.68394 481.62623 484.02378 487.76493 491.4417 495.80238 501.83647 505.5776 509.60035 511.37034 515.11148 518.85256 522.8753 526.84176 529.23928 532.9804 536.92269 539.32028 543.06137 547.79208 551.38839">Inthissection,weevaluate1g.5gb(7x),2g.10gb(3x),and7g.40gb(1x).Be-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0099505 0 -0 .9901476 -53 723)" font-size="8.049406" font-family="Linux Libertine T"><tspan y="-127.48301" x="314.82237 318.2675 321.94609 326.2203 329.3596 335.55763 339.30058 343.3253 345.09617 348.8391 352.5821 356.60679 360.57518 362.97386 366.71684 370.66105 375.6597 379.71659 384.07939 386.2044 392.94178 397.216 399.7596 401.941 404.06605 406.24745 409.66038 413.25846 418.99766 425.27619 427.8198 431.87669 434.4203 438.09886 442.82386 446.88075 451.976 458.31089 463.8247 468.17945 473.37937 479.11857 481.51728 487.337 492.58525 494.9759 500.61854 503.00923 511.19548 515.3731 518.31118 521.85299 525.78909 529.38717 533.74996 536.2936 542.03286 544.5764 548.907">cause2g.10gb(3x)onlyutilizesatotalof6GPCs(NVIDIApreventsthe</tspan></text>
+<text xml:space="preserve" transform="matrix(.98994949 0 -0 1.0101526 -53 723)" font-size="7.8899967" font-family="Linux Libertine T"><tspan y="-115.09548" x="321.18305 324.055 327.58186 333.8149 337.42066 339.55885 343.8352 345.97343 350.2498 355.85169 361.17747 366.58213 370.8506 377.60447 380.05036 382.9223 386.89888 394.78886 398.7575 402.28437 404.42256 408.6989 414.3008 417.90657 421.28349 423.7767 425.9149 429.83625 433.44197 435.93519 439.51728 443.5096 446.9023 449.9794 453.5615 458.74525 462.5719 464.71009 468.65507 472.84468 475.7166 480.90037 484.5692 486.9204 490.31315 492.80638 497.05119 502.23493 508.46803 512.0737 515.9398 518.07809 524.31118 528.50076 536.39077 538.88406 543.12887 546.0008 549.97738 554.16696 558.1119 562.3567">remaining1GPCfrombeingactivated,seeFigure2),themaximumthrough-</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044898 0 -0 .9955301 -53 723)" font-size="8.005885" font-family="Linux Libertine T"><tspan y="-106.77828" x="316.5338 320.68888 324.94 329.44734 333.60237 336.5165 340.4954 344.47434 346.64393 350.6949 354.32957 360.366 366.34638 368.51597 371.04585 377.33045 381.05317 385.0561 386.81739 390.54014 394.26286 398.26579 402.21269 404.59843 408.32118 412.24403 416.60725 418.7768">putprovidedwith2g.10gb(3x)is</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044898 0 -0 .9955301 -53 723)" font-size="8.005885" font-family="Linux Libertine T"><tspan y="-106.77828" x="423.87989 427.6026">14</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="7.9701" font-family="LibertineMath" font-style="italic"><tspan y="-106.301" x="433.389">.</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044898 0 -0 .9955301 -53 723)" font-size="8.005885" font-family="Linux Libertine T"><tspan y="-106.77828" x="433.5236 437.2463">2%</tspan></text>
+<text xml:space="preserve" transform="matrix(1.0044898 0 -0 .9955301 -53 723)" font-size="8.005885" font-family="Linux Libertine T"><tspan y="-106.77828" x="444.3251 446.4146 450.81785 454.5406 457.12648 460.8492 465.22044 468.3427 474.6674 478.32606 480.4396 482.5532 486.1318 491.08744 493.6173 497.92448 501.58317 507.8998 511.62257 515.6255 517.38687 521.10958 525.11257 529.0594 531.4452 535.1679 539.09078 543.454 547.1127 551.45187">(=1/7)smallerthan1g.5gb(7x)and</tspan></text>
+<text xml:space="preserve" transform="matrix(.99849888 0 -0 1.0015034 -53 723)" font-size="7.9581358" font-family="Linux Libertine T"><tspan y="-96.19438" x="318.24974 321.95027 325.92933 327.6801 331.38066 335.08119 339.06025 342.9836 345.3551 349.05564 352.95515 355.32667 359.07496 365.99855 371.5533 375.8666 379.8775 384.1908 387.74809 390.26286 394.54435 398.10163 400.20259 403.75987 406.86354 411.9647 416.09498 418.99174 422.549 425.65269 429.20997 433.52326 438.02757 442.03846 446.26423 451.22218 454.62825 458.90974 462.5466 465.50703 469.1439 472.55 475.06474 478.622 481.58247 483.7391 487.11335 490.7502 493.26499 495.42164 499.43254 505.74333 508.847 511.36177 515.5875 519.6143 525.70236 529.9281 534.2414 538.2682 541.8255 546.78347 549.29818 553.57968 555.7363">7g.40gb(1x).Wenonethelesspresentourcharacterizationstudyunderthis</tspan></text>
+<text xml:space="preserve" transform="matrix(.9969955 0 -0 1.0030136 -53 723)" font-size="7.9461538" font-family="Linux Libertine T"><tspan y="-86.11648" x="318.91316 322.9339 326.4858 329.5848 331.73823 335.71134 342.00468 346.18437 350.1892 352.34263 356.64945 361.14698 363.65797 369.64936 373.92439 376.0778 380.05088 384.3259 386.42369 388.5771 392.55018 396.8252 401.32273 403.8337 408.10874 413.6472 415.8006 422.07807 426.20213 428.29994 430.45335 433.8543 437.4857 439.99668 442.1501 446.15498 452.4483 456.4532 460.903 467.56983 469.9298 475.37294 477.5025 482.58805 486.7121 490.34349 493.29945 495.81044 497.96385 500.47483 502.62825 506.63313 510.93995 513.0933 517.40017 523.35977 527.3328 530.28878 533.92019 538.227 542.4464 544.5442 548.1756 551.13156 553.2849 555.7959">designpointtohighlighttheimplicationofMIG’spartitioninggranularity</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="7.9701" font-family="Linux Libertine T"><tspan y="-76.413" x="317.955 321.97193 328.28425 332.2454 335.88774 338.8526 341.0125 345.02946 349.26158 354.36244 358.00477 361.1131 365.30537 368.92378 372.33497 374.85353 379.95439 383.9713 388.43458 393.9738 398.33345 400.49336 404.81315 407.28388 410.8465 413.74763 417.31025 421.63005 425.04124 430.59638 433.7047 437.26734 440.35176 444.24916 447.81178 450.77665 453.88499">onvariousaspectsofAIinferenceservers.</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -53 723)" font-size="6.9738" font-family="Linux Libertine T"><tspan y="-64.458" x="304.379">4</tspan></text>
+</g>
+</g>
+</svg>
