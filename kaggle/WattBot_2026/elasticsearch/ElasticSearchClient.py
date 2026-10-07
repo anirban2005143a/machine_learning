@@ -2,6 +2,7 @@ from elasticsearch import Elasticsearch
 from kaggle.WattBot_2026.config import settings
 from kaggle.WattBot_2026.elasticsearch.synonyms import SYNONYMS_SET
 
+
 class ElasticsearchClient:
 
     def __init__(self):
@@ -49,16 +50,20 @@ class ElasticsearchClient:
         if not index_name:
             raise ValueError("Index name not provided")
 
+        # ---------------------------------------------------------
         # Check existing index
+        # ---------------------------------------------------------
         if self.index_exists(index_name):
 
             if not force_recreate:
                 raise Exception(f"Index already exists: {index_name}")
 
             print(f"Deleting existing index: {index_name}")
-
             self.delete_index(index_name)
 
+        # ---------------------------------------------------------
+        # Index configuration
+        # ---------------------------------------------------------
         index_config = {
             "settings": {
                 "analysis": {
@@ -73,50 +78,172 @@ class ElasticsearchClient:
                         },
                     },
                     "analyzer": {
-                        #    1. Used when storing the
+                        # Analyzer used while indexing searchable text
                         "my_index_analyzer": {
                             "tokenizer": "standard",
-                            "filter": ["lowercase", "my_stemmer"],
+                            "filter": [
+                                "lowercase",
+                                "my_stemmer",
+                            ],
                         },
-                        #    2. Used only when a user types in the search bar
+                        # Analyzer used while searching
                         "my_search_analyzer": {
                             "tokenizer": "standard",
-                            "filter": ["lowercase", "my_synonyms", "my_stemmer"],
+                            "filter": [
+                                "lowercase",
+                                "my_synonyms",
+                                "my_stemmer",
+                            ],
                         },
                     },
                 },
             },
             "mappings": {
-                # IMPORTANT:
-                # Unknown fields are allowed.
-                # Elasticsearch dynamically maps them.
                 "dynamic": True,
                 "properties": {
-                    "title": {
+                    # =====================================================
+                    # LangChain Document
+                    # =====================================================
+                    "page_content": {
                         "type": "text",
                         "analyzer": "my_index_analyzer",
+                        "search_analyzer": "my_search_analyzer",
                     },
-                    "authors": {
-                        "type": "text",
-                        "fields": {"keyword": {"type": "keyword"}},
+                    # =====================================================
+                    # Metadata
+                    # =====================================================
+                    "metadata": {
+                        "type": "object",
+                        "dynamic": True,
+                        "properties": {
+                            # -------------------------------------------------
+                            # ID
+                            # Exact identifier + filtering
+                            # -------------------------------------------------
+                            "id": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                                "fields": {
+                                    "keyword": {
+                                        "type": "keyword",
+                                    }
+                                },
+                            },
+                            # -------------------------------------------------
+                            # Type
+                            # Example: paper, report
+                            # Exact filtering
+                            # -------------------------------------------------
+                            "type": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                                "fields": {
+                                    "keyword": {
+                                        "type": "keyword",
+                                    }
+                                },
+                            },
+                            # -------------------------------------------------
+                            # Title
+                            # Searchable only
+                            # No filtering
+                            # -------------------------------------------------
+                            "title": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                            },
+                            # -------------------------------------------------
+                            # Year
+                            # Searchable + filtering + range queries
+                            # -------------------------------------------------
+                            "year": {
+                                "type": "integer",
+                            },
+                            # -------------------------------------------------
+                            # Citation
+                            # Searchable only
+                            # No filtering
+                            # -------------------------------------------------
+                            "citation": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                            },
+                            # -------------------------------------------------
+                            # URL
+                            # Exact matching + filtering
+                            # -------------------------------------------------
+                            "url": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                                "fields": {
+                                    "keyword": {
+                                        "type": "keyword",
+                                    }
+                                },
+                            },
+                            # -------------------------------------------------
+                            # Peer review status
+                            # Example: yes, no, preprint
+                            # Exact filtering
+                            # -------------------------------------------------
+                            "peer_reviewed": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                                "fields": {
+                                    "keyword": {
+                                        "type": "keyword",
+                                    }
+                                },
+                            },
+                            # -------------------------------------------------
+                            # Venue evidence
+                            # Searchable + exact filtering
+                            # -------------------------------------------------
+                            "venue_evidence": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                                "fields": {
+                                    "keyword": {
+                                        "type": "keyword",
+                                    }
+                                },
+                            },
+                            # -------------------------------------------------
+                            # Venue
+                            # Searchable only
+                            # No filtering
+                            # -------------------------------------------------
+                            "venue": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                            },
+                            # -------------------------------------------------
+                            # Section headings
+                            # Searchable + exact filtering
+                            # -------------------------------------------------
+                            "section_headings": {
+                                "type": "text",
+                                "analyzer": "my_index_analyzer",
+                                "search_analyzer": "my_search_analyzer",
+                                "fields": {
+                                    "keyword": {
+                                        "type": "keyword",
+                                    }
+                                },
+                            },
+                        },
                     },
-                    "abstract": {
-                        "type": "text",
-                        "analyzer": "my_index_analyzer",
-                    },
-                    "content": {
-                        "type": "text",
-                        "analyzer": "my_index_analyzer",
-                    },
-                    "year": {"type": "integer"},
-                    "venue": {"type": "keyword"},
-                    "paper_id": {"type": "keyword"},
-                    "title_embedding": {
-                        "type": "dense_vector",
-                        "dims": 1024,
-                        "index": True,
-                        "similarity": "cosine",
-                    },
+                    # =====================================================
+                    # Chunk embedding
+                    # =====================================================
                     "content_embedding": {
                         "type": "dense_vector",
                         "dims": 1024,
@@ -127,6 +254,9 @@ class ElasticsearchClient:
             },
         }
 
+        # ---------------------------------------------------------
+        # Create index
+        # ---------------------------------------------------------
         self.get_client().indices.create(
             index=index_name,
             **index_config,
