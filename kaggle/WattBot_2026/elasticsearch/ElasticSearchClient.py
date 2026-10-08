@@ -1,6 +1,6 @@
 from elasticsearch import Elasticsearch
-from kaggle.WattBot_2026.config import settings
-from kaggle.WattBot_2026.elasticsearch.synonyms import SYNONYMS_SET
+from config import settings
+from .synonyms import SYNONYMS_SET
 
 
 class ElasticsearchClient:
