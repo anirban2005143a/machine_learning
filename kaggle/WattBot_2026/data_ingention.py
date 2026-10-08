@@ -1,16 +1,10 @@
 from DocumentHandler import DocumentHandler
-from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.documents import Document
 from Elasticsearch.ElasticSearchClient import es
+from embedding_client import embed_documents
 from typing import Iterable
 from config import settings
 import pandas as pd
-
-embedding = HuggingFaceEmbeddings(
-    model_name="BAAI/bge-large-en-v1.5",
-    cache_folder=".model",
-    model_kwargs={"device": "cpu", "local_files_only": False},
-)
 
 es.connect()
 
@@ -44,7 +38,7 @@ def store_documents(
     texts = [document.page_content for document in documents]
     print("Generating Embedding for document : ", documents[0].metadata['id'])
 
-    embeddings = embedding.embed_documents(texts)
+    embeddings = embed_documents(texts)
 
     if any(len(vector) != 1024 for vector in embeddings):
         raise ValueError("BGE-large-en-v1.5 must produce 1024-dimensional vectors")
