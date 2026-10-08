@@ -323,3 +323,10 @@ class ElasticsearchClient:
 # --------------------------------
 
 es = ElasticsearchClient()
+
+
+def f():
+    es.connect()
+    print(es.get_all_indexes())
+
+f()
